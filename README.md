@@ -86,17 +86,29 @@ Which hospitals maintain the highest hygiene and communication standards?
 ## Project Structure
 
 📦 Hospital-Analysis-Dashboard
+
 ├── 📂 Data/
+
 │   └── hospital_data.csv
+
 ├── 📂 Images/
+
 │   ├── Home Page.png
+
 │   ├── Rating.png
+
 │   ├── Finance.png
+
 │   └── Trends.png
+
 |   └── Custom Tool Tip.png
+
 |   └── Tooltip.png
+
 ├── 📄 README.md
+
 └── 📄 Hospital_analysis.pbix
+
 └── 📄 Hospital Analaysis Dashboard.pdf
 
 ## How to Run the Project
