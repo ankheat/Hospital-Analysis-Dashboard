@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Hospital,AdmissionDate,LengthOfStay,DischargeDate,SatisfactionScore,TreatmentOutcome,Diagnosis,TreatmentType,Doctor,City,State,TotalBill,InsuranceCovered,PaymentStatus,CleanlinessRating,StaffBehaviorRating,DoctorCommunication,PainManagementRating,DischargeInstructionsRating,MortalityRate,RevisitWithin30Days,HospitalAcquiredInfection
+BFI6YM,31,Male,Sunrise Healthcare,29-07-2023,13,22-08-2023,9,Complication,Fracture,Medication,Michael Yoder,Chicago,IL,14691.24,FALSE,Pending,10,10,8,10,5,1,0,0
+IM4KD7,28,Female,General Hospital,06-08-2023,14,22-03-2023,8,Successful,Cardiac Arrest,Medication,Judith Russell,Chicago,IL,13817.36,FALSE,Unpaid,8,5,5,5,5,0,0,0
+DSF7RM,45,Male,Sunrise Healthcare,29-08-2023,17,11-07-2023,9,Deceased,Diabetes,Surgery,Bill Aguirre,Miami,FL,18116.3,FALSE,Unpaid,9,8,9,7,2,0,0,0
+WSKAXG,59,Male,Sunrise Healthcare,19-07-2023,13,21-03-2023,7,Complication,Hypertension,Observation,Lauren Burns,Houston,TX,5007.05,FALSE,Paid,10,6,9,8,4,0,1,0
+YUOALG,78,Male,General Hospital,04-08-2023,10,10-08-2023,8,Successful,Fracture,Surgery,Eduardo Wright,Los Angeles,CA,2178.06,FALSE,Pending,1,8,4,7,3,0,0,0
+OUS2Y6,81,Male,General Hospital,24-07-2023,25,30-12-2023,5,Successful,Fracture,Observation,Jennifer Duran,Houston,TX,1581.58,TRUE,Unpaid,4,5,6,1,2,0,0,0
+58ZK8H,48,Male,Sunrise Healthcare,04-08-2023,1,28-10-2023,9,Deceased,Hypertension,Therapy,Bill Aguirre,Houston,TX,17617.96,FALSE,Unpaid,6,8,5,10,1,0,0,0
+NJBICU,27,Male,City Medical Center,21-03-2023,1,29-12-2023,1,Successful,Diabetes,Surgery,Laura Lowe,Chicago,IL,19479.1,FALSE,Pending,4,5,3,1,4,0,1,0
+ZHBF12,25,Male,Sunrise Healthcare,24-09-2023,15,05-11-2023,9,Successful,Fracture,Therapy,Lauren Burns,Houston,TX,6399.27,FALSE,Pending,10,5,5,10,2,0,0,0
+ZYLE7O,38,Female,Sunrise Healthcare,04-02-2023,16,21-09-2023,9,Successful,Flu,Therapy,Michelle Martin,New York,NY,14023.52,TRUE,Unpaid,6,8,5,9,3,0,0,1
+9OWFUW,76,Female,Sunrise Healthcare,16-10-2023,12,13-11-2023,9,Successful,Diabetes,Surgery,Charles Kennedy,Chicago,IL,673.8,FALSE,Pending,10,9,9,6,1,0,0,0
+POY9KO,67,Female,Sunrise Healthcare,18-01-2023,26,21-05-2023,8,Deceased,Flu,Surgery,Michael Washington,New York,NY,4178.31,FALSE,Pending,10,7,6,9,3,0,0,0
+DUMVS7,86,Male,General Hospital,14-06-2023,24,26-01-2023,5,Successful,COVID-19,Surgery,Ashley Harris,Los Angeles,CA,13940.85,FALSE,Pending,4,2,7,4,2,0,0,0
+ND0218,87,Female,Sunrise Healthcare,13-01-2023,6,24-07-2023,8,Successful,Hypertension,Medication,Lauren Burns,Chicago,IL,1784.8,FALSE,Unpaid,6,5,6,8,4,0,1,0
+HP93RB,47,Male,City Medical Center,21-07-2023,6,28-12-2023,2,Readmitted,Diabetes,Surgery,Alexander Black,Los Angeles,CA,9635.95,TRUE,Paid,1,5,2,3,2,0,0,0
+MDZY3K,34,Male,General Hospital,17-08-2023,12,24-10-2023,5,Successful,Diabetes,Medication,Eduardo Wright,Chicago,IL,13420.37,FALSE,Pending,8,1,1,7,1,0,0,0
+G4JM4G,37,Male,City Medical Center,12-12-2023,25,02-01-2024,3,Successful,Cardiac Arrest,Surgery,Julie Butler,Miami,FL,15436.18,TRUE,Unpaid,4,4,5,2,4,0,0,0
+9TDGAM,65,Male,City Medical Center,01-01-2023,15,06-02-2023,4,Readmitted,Cardiac Arrest,Surgery,Angela Fry,Houston,TX,9349.41,TRUE,Paid,1,2,5,1,1,0,0,0
+VUV1IZ,19,Female,City Medical Center,15-11-2023,4,24-11-2023,2,Successful,Hypertension,Medication,Laura Lowe,Miami,FL,12790.54,TRUE,Unpaid,5,3,2,2,4,0,0,1
+IOJXHX,54,Male,City Medical Center,05-08-2023,24,05-03-2023,5,Successful,Diabetes,Medication,David Watkins,Los Angeles,CA,11021.72,TRUE,Unpaid,2,2,2,4,3,0,0,0
+PZ0DXS,18,Male,General Hospital,03-02-2023,4,19-04-2023,3,Successful,COVID-19,Surgery,Darrell Allen,Houston,TX,1519.96,FALSE,Unpaid,2,3,1,5,5,0,1,1
+9JYRS9,21,Female,General Hospital,25-12-2023,2,30-06-2023,1,Successful,Fracture,Medication,Judith Russell,Chicago,IL,14984.69,FALSE,Paid,6,3,1,3,5,0,0,0
+J6E876,71,Female,City Medical Center,23-09-2023,27,21-06-2023,3,Readmitted,Hypertension,Observation,Julie Butler,Houston,TX,3861.06,TRUE,Unpaid,2,2,4,3,5,0,0,0
+UQVO81,42,Female,City Medical Center,08-05-2023,24,06-09-2023,2,Successful,Hypertension,Surgery,Victoria Taylor,New York,NY,1120.21,TRUE,Paid,1,5,2,3,4,0,0,0
+G5KJIN,20,Male,General Hospital,31-07-2023,12,15-07-2023,2,Successful,Cardiac Arrest,Medication,Eduardo Wright,Houston,TX,9297.77,TRUE,Pending,4,4,4,4,3,0,0,0
+MYB8GU,26,Female,General Hospital,20-09-2023,7,04-02-2023,8,Successful,COVID-19,Observation,Ashley Harris,New York,NY,17379.93,FALSE,Paid,6,2,4,8,3,0,1,0
+RCKXSD,51,Male,General Hospital,08-11-2023,20,05-07-2023,6,Successful,Hypertension,Medication,Mr. Luke Pena MD,Houston,TX,3441.17,TRUE,Unpaid,3,8,2,8,5,0,0,0
+Z5969C,60,Male,Sunrise Healthcare,21-03-2023,9,04-11-2023,7,Readmitted,COVID-19,Medication,Bill Aguirre,New York,NY,750.72,TRUE,Paid,8,8,10,9,1,0,0,0
+IH6FDM,39,Female,Sunrise Healthcare,14-06-2023,9,11-10-2023,5,Complication,Hypertension,Observation,Kyle Chen,Los Angeles,CA,2644.6,TRUE,Unpaid,7,8,8,9,4,1,0,0
+BE05UH,87,Female,Sunrise Healthcare,09-09-2023,8,11-07-2023,10,Readmitted,Cardiac Arrest,Observation,Michelle Martin,Miami,FL,7591.35,TRUE,Pending,10,8,8,9,5,0,0,0
+HCCVFB,19,Female,City Medical Center,12-01-2023,14,10-08-2023,3,Successful,Fracture,Medication,Angela Fry,Chicago,IL,11813.35,TRUE,Paid,1,2,3,4,2,0,0,0
+WBQ87W,83,Male,Sunrise Healthcare,31-10-2023,1,27-06-2023,9,Complication,Cardiac Arrest,Medication,Bill Aguirre,Houston,TX,4263.74,FALSE,Pending,7,9,9,8,3,0,0,0
+3HV9EM,49,Male,City Medical Center,31-07-2023,23,06-02-2023,4,Successful,Hypertension,Medication,Gloria Hanson,Miami,FL,16138.3,TRUE,Paid,3,4,1,2,3,0,0,0
+24P3PL,33,Male,City Medical Center,09-10-2023,21,17-04-2023,3,Readmitted,COVID-19,Observation,Michelle Stewart,Chicago,IL,15189.29,FALSE,Unpaid,5,1,4,3,4,1,0,0
+QPLHTC,18,Male,Sunrise Healthcare,22-04-2023,23,28-05-2023,9,Complication,Flu,Therapy,Kyle Chen,Chicago,IL,14069.34,FALSE,Paid,5,9,10,10,2,0,0,0
+P3W1ET,89,Male,City Medical Center,30-07-2023,12,02-10-2023,4,Successful,Cardiac Arrest,Observation,Alexander Black,New York,NY,10005.66,FALSE,Pending,4,5,5,1,5,0,0,0
+A3UTFV,65,Male,Sunrise Healthcare,27-08-2023,25,17-03-2023,9,Successful,COVID-19,Observation,Bill Aguirre,Los Angeles,CA,7621.73,FALSE,Paid,9,10,6,10,1,0,1,0
+RH56PL,67,Female,Sunrise Healthcare,25-09-2023,2,26-09-2023,7,Successful,Cardiac Arrest,Observation,Michelle Martin,Los Angeles,CA,7823.94,FALSE,Pending,5,10,9,10,5,0,0,0
+7N96WB,30,Male,General Hospital,25-10-2023,13,17-02-2023,5,Successful,Hypertension,Medication,Raven Walker,Miami,FL,10309.88,TRUE,Pending,5,1,2,6,1,0,0,0
+UB0IAK,32,Female,Sunrise Healthcare,13-11-2023,27,30-01-2023,9,Deceased,COVID-19,Observation,Lauren Burns,Los Angeles,CA,2007.64,FALSE,Unpaid,6,7,9,8,4,0,0,0
+CWZDRF,70,Female,General Hospital,27-02-2023,4,01-09-2023,3,Successful,Fracture,Observation,Robert Hutchinson,Houston,TX,13804.96,FALSE,Paid,5,2,6,4,1,0,1,0
+8VOVLR,61,Female,Sunrise Healthcare,03-02-2023,20,25-03-2023,6,Successful,COVID-19,Medication,Michelle Martin,Los Angeles,CA,7354.4,TRUE,Pending,9,6,8,8,4,0,0,0
+83X3NF,25,Female,Sunrise Healthcare,20-09-2023,18,05-11-2023,10,Successful,Diabetes,Medication,Jennifer Allen,Miami,FL,4882.8,FALSE,Unpaid,8,7,8,8,3,1,1,0
+CPGNIO,63,Female,General Hospital,31-12-2023,19,01-03-2023,2,Complication,Flu,Therapy,Judith Russell,Los Angeles,CA,5927.38,TRUE,Unpaid,1,2,1,8,4,0,0,0
+U8B0B8,86,Male,General Hospital,04-02-2023,16,29-08-2023,1,Successful,Hypertension,Medication,Sheryl Williams,Houston,TX,4015.74,TRUE,Unpaid,8,7,7,2,5,0,0,0
+RNTRJY,36,Male,Sunrise Healthcare,28-09-2023,27,23-02-2023,10,Successful,COVID-19,Medication,Lauren Burns,New York,NY,18080.58,TRUE,Pending,9,10,8,6,4,0,1,1
+BY694N,55,Male,City Medical Center,15-08-2023,14,24-05-2023,5,Successful,Hypertension,Medication,Michelle Stewart,Miami,FL,3796.23,TRUE,Paid,3,5,3,5,1,0,1,0
+APC8FY,28,Male,General Hospital,25-01-2023,29,09-12-2023,7,Successful,Cardiac Arrest,Surgery,Jennifer Duran,New York,NY,17717.06,TRUE,Pending,6,7,2,8,1,0,0,0
+M7HU7D,60,Female,City Medical Center,22-08-2023,8,28-12-2023,1,Successful,Cardiac Arrest,Surgery,Michelle Stewart,New York,NY,11658.75,FALSE,Unpaid,4,5,5,3,2,0,0,1
+YODL55,37,Female,City Medical Center,28-02-2023,12,03-06-2023,2,Complication,COVID-19,Medication,Gloria Hanson,New York,NY,17415.29,TRUE,Pending,1,4,1,4,1,0,1,0
+1M4NTR,37,Female,City Medical Center,08-09-2023,9,05-02-2023,5,Successful,Diabetes,Medication,Alexander Black,Chicago,IL,9744.25,TRUE,Pending,5,4,1,5,4,0,0,0
+2F52BW,38,Male,General Hospital,01-12-2023,6,23-02-2023,5,Successful,COVID-19,Therapy,Jennifer Duran,Chicago,IL,18588.86,FALSE,Unpaid,8,2,7,4,4,0,0,0
+S4ES7J,74,Male,City Medical Center,27-03-2023,26,12-05-2023,1,Successful,Fracture,Medication,Julie Butler,New York,NY,4624.07,FALSE,Paid,3,5,2,3,2,0,0,0
+YBK4OI,67,Male,General Hospital,08-09-2023,18,17-11-2023,6,Successful,Diabetes,Medication,Mr. Luke Pena MD,Miami,FL,11316.49,FALSE,Unpaid,6,2,8,6,3,0,0,0
+WSI8UI,43,Male,City Medical Center,29-06-2023,2,19-01-2023,5,Successful,Hypertension,Medication,Angela Fry,Houston,TX,2953.85,FALSE,Unpaid,1,2,5,2,1,0,1,0
+1GPP6D,47,Female,Sunrise Healthcare,26-07-2023,23,22-11-2023,7,Successful,COVID-19,Medication,Jennifer Allen,Houston,TX,9220.8,TRUE,Pending,10,7,5,9,1,0,0,0
+DQ298G,48,Female,Sunrise Healthcare,10-12-2023,8,27-08-2023,9,Successful,Hypertension,Medication,Jennifer Allen,Los Angeles,CA,11613.12,FALSE,Unpaid,7,7,5,10,1,0,0,0
+01VNGV,59,Male,General Hospital,29-05-2023,24,31-01-2023,1,Successful,Flu,Surgery,David Gates,Miami,FL,12310.67,TRUE,Pending,3,5,8,8,4,0,0,0
+EB0UOU,85,Male,Sunrise Healthcare,12-03-2023,14,07-02-2023,5,Successful,Diabetes,Observation,Lauren Burns,Chicago,IL,7627.81,FALSE,Unpaid,8,8,8,8,1,0,0,0
+JWEAMU,78,Female,Sunrise Healthcare,01-05-2023,6,16-02-2023,10,Readmitted,COVID-19,Surgery,Kyle Chen,New York,NY,1988.55,FALSE,Unpaid,9,7,10,10,4,0,0,0
+ZUR59Q,78,Female,City Medical Center,10-09-2023,10,15-03-2023,4,Successful,Flu,Medication,Amanda Higgins,Los Angeles,CA,13278.86,FALSE,Paid,2,2,5,4,4,0,1,0
+8KUZD7,87,Female,General Hospital,03-04-2023,8,19-11-2023,1,Complication,COVID-19,Observation,Eduardo Wright,Houston,TX,10024.42,FALSE,Unpaid,4,7,6,5,3,0,0,0
+R822UM,85,Female,City Medical Center,13-09-2023,17,27-08-2023,4,Readmitted,Fracture,Observation,David Watkins,Chicago,IL,3169.14,FALSE,Paid,1,5,3,4,1,0,0,1
+QIAB26,34,Male,City Medical Center,11-09-2023,25,26-04-2023,2,Successful,Cardiac Arrest,Surgery,Michelle Stewart,Chicago,IL,18749.58,TRUE,Unpaid,3,2,2,2,2,0,0,0
+JU1K7H,36,Female,City Medical Center,18-12-2023,29,09-08-2023,1,Complication,Hypertension,Observation,Diana Boyd,New York,NY,19135.54,TRUE,Unpaid,2,5,1,4,4,0,0,0
+VHOQWX,68,Female,City Medical Center,15-10-2023,12,02-08-2023,3,Successful,COVID-19,Medication,Michelle Stewart,Houston,TX,17203.82,TRUE,Unpaid,3,2,5,5,2,0,0,0
+SE5AWH,87,Female,City Medical Center,05-11-2023,17,05-10-2023,3,Successful,Diabetes,Medication,David Watkins,Miami,FL,16955.43,FALSE,Paid,2,5,5,4,2,1,0,1
+MHWAX8,80,Female,City Medical Center,28-02-2023,13,11-03-2023,5,Successful,COVID-19,Medication,Julie Butler,Chicago,IL,2424.09,TRUE,Pending,4,3,3,4,3,0,0,0
+XQETU4,47,Male,City Medical Center,10-03-2023,19,27-03-2023,1,Successful,COVID-19,Surgery,Victoria Taylor,New York,NY,19871.69,FALSE,Paid,4,5,2,1,2,0,0,0
+9KOSG1,42,Male,General Hospital,27-03-2023,12,07-10-2023,1,Successful,COVID-19,Surgery,Jennifer Duran,Miami,FL,8307.42,FALSE,Unpaid,3,6,2,4,3,0,0,0
+EE35HJ,88,Male,Sunrise Healthcare,01-10-2023,16,22-12-2023,9,Successful,COVID-19,Medication,Bill Aguirre,Houston,TX,3680.86,TRUE,Pending,10,7,8,6,5,0,0,0
+51Q4HY,43,Male,City Medical Center,15-08-2023,25,04-11-2023,2,Successful,Diabetes,Observation,David Watkins,Chicago,IL,16335.98,TRUE,Unpaid,5,2,4,5,1,0,0,0
+IBOC9D,73,Male,City Medical Center,22-03-2023,27,20-07-2023,1,Successful,Diabetes,Observation,Michelle Stewart,Miami,FL,4901.75,FALSE,Paid,1,5,1,5,2,0,0,0
+NYJU9L,39,Male,City Medical Center,24-04-2023,5,12-06-2023,3,Successful,COVID-19,Medication,David Watkins,Miami,FL,10760.42,FALSE,Paid,5,4,5,2,3,0,0,0
+0BM54P,36,Female,City Medical Center,03-07-2023,25,01-10-2023,5,Successful,Cardiac Arrest,Medication,Diana Boyd,Miami,FL,2996.31,TRUE,Pending,5,2,5,3,1,0,0,0
+557KJO,48,Female,City Medical Center,07-10-2023,16,01-12-2023,1,Successful,COVID-19,Observation,Laura Lowe,Chicago,IL,9755.59,FALSE,Paid,3,5,4,2,1,0,0,0
+QRIYNY,43,Female,City Medical Center,18-11-2023,25,08-11-2023,2,Successful,Hypertension,Therapy,Laura Lowe,Chicago,IL,11383.76,TRUE,Unpaid,3,2,4,1,5,0,0,0
+V3TU5U,59,Female,Sunrise Healthcare,14-11-2023,6,14-06-2023,6,Successful,Hypertension,Surgery,Kyle Chen,Los Angeles,CA,9195.52,TRUE,Pending,10,10,10,6,4,0,0,0
+853LRU,58,Male,Sunrise Healthcare,23-02-2023,11,28-12-2023,8,Successful,Diabetes,Surgery,Jennifer Allen,Houston,TX,1854.99,FALSE,Unpaid,8,7,10,5,1,0,0,0
+MUHGW5,40,Female,City Medical Center,16-07-2023,17,11-09-2023,5,Readmitted,Hypertension,Medication,Jacqueline Johnson,New York,NY,9956.31,FALSE,Pending,3,5,3,5,5,0,0,0
+KVVYV1,64,Male,Sunrise Healthcare,20-10-2023,26,25-07-2023,10,Readmitted,Hypertension,Observation,Kyle Chen,Miami,FL,9644.39,FALSE,Pending,7,7,10,8,4,0,0,0
+2MRB2U,30,Female,General Hospital,20-10-2023,23,26-01-2023,1,Successful,Fracture,Observation,Darrell Allen,Los Angeles,CA,5601.6,FALSE,Unpaid,4,1,7,3,3,0,1,0
+O04OWX,83,Female,City Medical Center,18-10-2023,14,17-11-2023,1,Complication,COVID-19,Medication,Angela Fry,New York,NY,18471.23,TRUE,Paid,2,3,1,2,2,0,0,0
+MV6CSW,83,Female,General Hospital,29-06-2023,6,09-11-2023,8,Successful,COVID-19,Therapy,Ashley Harris,Los Angeles,CA,8646.95,FALSE,Unpaid,4,3,4,2,4,0,0,0
+23YHPH,33,Male,General Hospital,10-08-2023,25,29-12-2023,5,Successful,COVID-19,Observation,Raven Walker,Chicago,IL,17350.26,TRUE,Paid,4,2,4,2,3,0,1,0
+AECAD8,45,Female,City Medical Center,01-10-2023,23,25-10-2023,2,Readmitted,COVID-19,Surgery,Amanda Higgins,Miami,FL,2638.44,TRUE,Paid,2,3,3,2,4,0,1,0
+57YJU0,52,Male,Sunrise Healthcare,01-09-2023,28,04-09-2023,7,Successful,Flu,Surgery,Jennifer Allen,New York,NY,6718.11,FALSE,Unpaid,10,7,8,8,2,0,0,0
+0BMI9V,58,Male,General Hospital,03-06-2023,11,17-03-2023,8,Readmitted,COVID-19,Medication,Mr. Luke Pena MD,New York,NY,3938.45,TRUE,Pending,3,8,3,2,2,0,0,0
+ZLQNN7,48,Female,City Medical Center,31-10-2023,12,01-11-2023,4,Successful,Diabetes,Therapy,Diana Boyd,New York,NY,8464.01,FALSE,Unpaid,3,1,4,2,5,0,0,1
+TKP4FS,49,Male,General Hospital,30-09-2023,13,09-01-2023,8,Successful,Diabetes,Medication,David Gates,New York,NY,2676.92,FALSE,Pending,5,5,5,2,1,0,0,0
+DDTJX8,71,Male,General Hospital,15-05-2023,4,27-08-2023,5,Successful,Flu,Surgery,Robert Hutchinson,New York,NY,9100.18,TRUE,Paid,5,8,2,4,4,0,0,0
+ZUUJDT,89,Female,General Hospital,09-11-2023,7,26-09-2023,2,Successful,COVID-19,Medication,Mr. Luke Pena MD,Los Angeles,CA,7400.48,TRUE,Pending,1,5,3,2,4,0,0,0
+QGD2NC,76,Female,General Hospital,08-01-2023,2,26-10-2023,8,Successful,Cardiac Arrest,Therapy,Ashley Harris,Miami,FL,4854.64,TRUE,Unpaid,8,7,8,1,4,0,0,0
+XPDX73,58,Female,Sunrise Healthcare,08-05-2023,6,18-01-2024,10,Successful,COVID-19,Observation,Bill Aguirre,Chicago,IL,13022.5,FALSE,Pending,8,7,9,8,5,0,0,0
+RS4SSV,83,Female,General Hospital,25-02-2023,6,26-04-2023,2,Complication,Diabetes,Medication,Ashley Harris,Chicago,IL,19042.77,FALSE,Paid,8,7,7,8,1,0,0,0
+XL349S,71,Female,General Hospital,06-05-2023,18,04-11-2023,2,Successful,Fracture,Observation,Eduardo Wright,Chicago,IL,4538.71,TRUE,Paid,3,2,2,7,3,0,0,0
+936R1K,57,Female,General Hospital,08-06-2023,20,16-05-2023,7,Successful,Hypertension,Surgery,David Gates,Chicago,IL,14379.92,FALSE,Pending,6,5,1,5,5,0,0,0
+6QFDT0,45,Male,Sunrise Healthcare,28-02-2023,8,08-07-2023,10,Successful,Fracture,Surgery,Michelle Martin,Los Angeles,CA,14976.43,FALSE,Paid,10,8,7,8,4,0,0,0
+OFNKIZ,54,Female,General Hospital,27-02-2023,8,24-09-2023,8,Readmitted,Cardiac Arrest,Therapy,Darrell Allen,Houston,TX,10213.35,TRUE,Paid,8,8,3,1,3,0,1,0
+PEJCM3,82,Female,General Hospital,20-05-2023,29,24-03-2023,3,Successful,COVID-19,Surgery,Ashley Harris,Miami,FL,18004.53,FALSE,Pending,1,1,2,1,3,0,0,0
+FQS8ZE,72,Male,Sunrise Healthcare,25-06-2023,8,27-02-2023,9,Successful,Flu,Medication,Kyle Chen,New York,NY,19344.61,TRUE,Paid,9,8,9,6,4,0,0,0
+2TUJE9,21,Female,Sunrise Healthcare,18-04-2023,8,15-09-2023,10,Deceased,COVID-19,Therapy,Lauren Burns,Houston,TX,7563.81,TRUE,Pending,9,8,9,9,5,0,0,1
+FZD8AX,27,Male,Sunrise Healthcare,30-07-2023,1,20-01-2023,10,Successful,Cardiac Arrest,Surgery,Charles Kennedy,Chicago,IL,13195.15,TRUE,Pending,7,9,10,7,4,0,0,0
+9F4TXY,64,Female,General Hospital,15-03-2023,2,17-08-2023,8,Successful,Cardiac Arrest,Observation,Mr. Luke Pena MD,Houston,TX,13413.15,FALSE,Paid,8,6,8,4,2,0,1,0
+9U3X3V,31,Female,Sunrise Healthcare,16-06-2023,12,30-06-2023,8,Readmitted,Hypertension,Therapy,Jennifer Allen,Miami,FL,8370.89,TRUE,Pending,6,10,6,9,5,0,0,0
+1G81NJ,55,Male,Sunrise Healthcare,23-12-2023,15,11-11-2023,7,Complication,Cardiac Arrest,Medication,Jennifer Allen,New York,NY,6677.43,TRUE,Paid,10,9,9,9,3,0,0,0
+PP4YMF,29,Female,General Hospital,31-10-2023,4,18-01-2023,8,Successful,Fracture,Surgery,Darrell Allen,New York,NY,18708.01,TRUE,Paid,4,2,5,2,4,0,0,0
+I9TRUD,62,Male,Sunrise Healthcare,21-08-2023,28,08-04-2023,10,Successful,Hypertension,Therapy,Kyle Chen,Miami,FL,15904.64,TRUE,Paid,9,10,10,9,2,0,0,0
+60GFOR,34,Female,General Hospital,23-11-2023,25,27-03-2023,1,Complication,COVID-19,Surgery,Darrell Allen,Miami,FL,2732.06,FALSE,Unpaid,2,7,4,7,1,0,0,0
+5KTXOG,52,Female,City Medical Center,01-07-2023,3,03-05-2023,1,Successful,COVID-19,Therapy,Gloria Hanson,Chicago,IL,2837.74,TRUE,Paid,1,5,3,2,2,0,0,0
+UZNURE,83,Male,Sunrise Healthcare,02-05-2023,14,13-01-2024,10,Readmitted,Flu,Observation,Michael Yoder,New York,NY,18489.58,FALSE,Pending,6,9,9,7,5,0,0,0
+CWZXSY,58,Female,City Medical Center,30-11-2023,22,23-11-2023,5,Successful,Cardiac Arrest,Observation,Diana Boyd,Houston,TX,2087.49,TRUE,Pending,4,4,1,4,3,0,0,0
+UL6DGV,84,Female,General Hospital,22-07-2023,23,02-11-2023,8,Successful,Cardiac Arrest,Surgery,Eduardo Wright,Los Angeles,CA,13924.22,FALSE,Pending,2,6,3,3,2,0,0,0
+6QX71V,46,Male,Sunrise Healthcare,29-01-2023,8,13-07-2023,9,Successful,Diabetes,Therapy,Kyle Chen,Los Angeles,CA,4921.79,FALSE,Unpaid,6,8,6,8,5,0,0,0
+Q7FF7A,35,Female,General Hospital,21-07-2023,13,06-04-2023,4,Complication,Hypertension,Surgery,Jennifer Duran,Miami,FL,1186.11,FALSE,Unpaid,6,8,1,2,3,0,0,0
+JUEBVB,37,Male,City Medical Center,03-04-2023,23,07-03-2023,1,Readmitted,Diabetes,Observation,Amanda Higgins,Chicago,IL,1662.93,FALSE,Pending,4,1,4,2,4,0,0,0
+J7PVLX,31,Female,General Hospital,25-11-2023,19,01-10-2023,1,Successful,Hypertension,Observation,Raven Walker,Los Angeles,CA,7783.68,TRUE,Pending,8,5,8,2,5,0,0,0
+J85GUT,51,Male,Sunrise Healthcare,22-12-2023,22,03-04-2023,10,Readmitted,Fracture,Medication,Kyle Chen,New York,NY,2012.97,TRUE,Unpaid,8,9,6,7,5,0,0,0
+ZDVOUO,66,Female,Sunrise Healthcare,25-06-2023,5,31-07-2023,8,Successful,Hypertension,Therapy,Michael Yoder,Miami,FL,12134.46,FALSE,Pending,9,10,8,9,2,0,0,0
+V1N01Z,71,Male,City Medical Center,26-11-2023,13,05-08-2023,3,Successful,COVID-19,Surgery,Diana Boyd,Houston,TX,13121.46,FALSE,Paid,3,1,2,3,4,0,1,0
+BYCH68,48,Male,General Hospital,30-07-2023,28,14-04-2023,8,Readmitted,Flu,Observation,Mr. Luke Pena MD,Miami,FL,7782.64,FALSE,Paid,2,2,6,5,1,0,0,0
+FWYSEK,75,Female,Sunrise Healthcare,03-07-2023,26,29-01-2023,9,Readmitted,Hypertension,Medication,Lauren Burns,Houston,TX,14986.12,TRUE,Pending,8,7,10,10,1,0,0,0
+LJHX19,59,Female,City Medical Center,05-04-2023,20,08-02-2023,1,Readmitted,Hypertension,Surgery,Julie Butler,Miami,FL,10055.83,FALSE,Paid,3,5,2,4,5,0,0,0
+UHIORT,75,Male,Sunrise Healthcare,30-09-2023,1,16-11-2023,9,Complication,Hypertension,Therapy,Charles Kennedy,Miami,FL,8889.46,FALSE,Pending,7,10,8,9,3,0,0,0
+FLBGPC,47,Female,Sunrise Healthcare,17-05-2023,16,01-05-2023,9,Successful,Flu,Therapy,Lauren Burns,Miami,FL,8436.27,TRUE,Unpaid,8,9,9,10,1,0,0,0
+C061AH,42,Male,General Hospital,25-08-2023,29,16-10-2023,4,Successful,Cardiac Arrest,Therapy,Eduardo Wright,Houston,TX,8906.58,TRUE,Pending,2,8,4,5,3,0,0,0
+5D3FS5,80,Female,Sunrise Healthcare,19-12-2023,23,25-02-2023,8,Readmitted,Flu,Observation,Michael Yoder,Houston,TX,19373.81,TRUE,Unpaid,6,6,8,8,3,0,0,0
+ILKPAU,36,Female,General Hospital,22-09-2023,24,02-01-2024,3,Successful,Cardiac Arrest,Medication,Raven Walker,Miami,FL,13787.44,TRUE,Paid,1,6,4,7,5,0,0,0
+3M7D14,89,Male,Sunrise Healthcare,15-05-2023,2,12-04-2023,10,Successful,COVID-19,Medication,Lauren Burns,Los Angeles,CA,6646.59,TRUE,Paid,6,5,7,10,1,1,0,0
+0EYC6D,25,Male,City Medical Center,24-05-2023,7,10-03-2023,3,Successful,Flu,Medication,Julie Butler,Chicago,IL,14810.27,TRUE,Paid,2,2,2,5,1,0,0,0
+YT7ZE8,20,Female,Sunrise Healthcare,19-01-2023,6,13-08-2023,7,Successful,Cardiac Arrest,Medication,Michael Washington,Chicago,IL,6940.21,FALSE,Pending,8,5,5,7,4,0,0,0
+12IFSK,84,Female,General Hospital,19-08-2023,5,29-12-2023,7,Readmitted,COVID-19,Medication,Raven Walker,Chicago,IL,2951.44,FALSE,Unpaid,7,8,6,4,1,0,0,1
+BIUX7V,34,Female,General Hospital,14-05-2023,29,11-04-2023,6,Successful,COVID-19,Observation,Eduardo Wright,Houston,TX,9769.53,TRUE,Unpaid,8,8,5,4,1,0,0,0
+CL13ZU,31,Female,City Medical Center,24-04-2023,4,21-08-2023,4,Complication,Cardiac Arrest,Observation,David Watkins,Houston,TX,15144.97,FALSE,Paid,5,5,5,4,1,0,0,0
+1Z6U87,26,Female,Sunrise Healthcare,19-05-2023,2,06-03-2023,9,Successful,Cardiac Arrest,Therapy,Michael Yoder,Los Angeles,CA,7864.37,TRUE,Paid,10,9,5,10,1,0,0,0
+RKWVQE,79,Male,Sunrise Healthcare,05-05-2023,10,25-06-2023,5,Successful,Fracture,Medication,Bill Aguirre,Chicago,IL,17448.9,FALSE,Unpaid,9,10,10,9,5,0,0,0
+K3O086,38,Female,City Medical Center,23-07-2023,22,25-01-2023,2,Successful,COVID-19,Surgery,Alexander Black,Chicago,IL,8045.58,TRUE,Pending,2,3,1,1,2,0,1,0
+TP7B81,54,Female,Sunrise Healthcare,02-03-2023,5,09-01-2024,10,Successful,Cardiac Arrest,Medication,Michelle Martin,Miami,FL,7321.86,TRUE,Paid,7,9,5,10,5,0,1,0
+FITAHW,28,Male,Sunrise Healthcare,07-09-2023,18,15-11-2023,9,Successful,COVID-19,Observation,Kyle Chen,Houston,TX,19965.76,FALSE,Pending,8,9,9,9,1,0,0,0
+CDYOU8,37,Male,General Hospital,25-10-2023,10,13-03-2023,7,Successful,Flu,Observation,Ashley Harris,Chicago,IL,9908.2,FALSE,Paid,8,7,7,1,1,0,0,0
+N9LQI8,52,Male,Sunrise Healthcare,13-01-2023,23,25-10-2023,10,Successful,Diabetes,Observation,Lauren Burns,Los Angeles,CA,16201.81,TRUE,Paid,5,9,10,8,1,0,0,0
+MOR6F0,70,Female,Sunrise Healthcare,12-09-2023,22,06-03-2023,9,Successful,Diabetes,Medication,Bill Aguirre,Los Angeles,CA,16197.27,TRUE,Pending,9,6,6,10,2,0,1,0
+W07N9H,64,Male,City Medical Center,26-03-2023,28,13-09-2023,1,Successful,Hypertension,Therapy,Alexander Black,Chicago,IL,18564.2,TRUE,Pending,3,3,1,2,4,0,0,0
+8S3NTY,69,Male,City Medical Center,20-01-2023,15,12-07-2023,5,Successful,Cardiac Arrest,Surgery,Amanda Higgins,Houston,TX,2155.45,TRUE,Pending,4,3,1,3,3,0,0,0
+XNZWVS,25,Male,General Hospital,19-02-2023,27,29-06-2023,3,Successful,Cardiac Arrest,Surgery,Jennifer Duran,Los Angeles,CA,5788.8,TRUE,Pending,5,8,5,1,4,0,0,0
+CSI1TG,21,Male,Sunrise Healthcare,13-06-2023,9,05-03-2023,10,Successful,COVID-19,Observation,Michael Yoder,Miami,FL,15471.09,TRUE,Unpaid,9,9,8,9,3,0,0,0
+NISN9Q,44,Female,Sunrise Healthcare,02-04-2023,11,22-03-2023,5,Readmitted,Hypertension,Medication,Lauren Burns,Los Angeles,CA,11470.73,FALSE,Unpaid,5,9,9,8,2,0,1,0
+3I6YNK,61,Female,Sunrise Healthcare,29-03-2023,26,14-11-2023,10,Successful,Cardiac Arrest,Medication,Kyle Chen,New York,NY,11412.49,FALSE,Paid,10,8,6,9,4,0,0,1
+8N3DD1,57,Female,General Hospital,10-03-2023,21,21-03-2023,3,Complication,COVID-19,Therapy,Sheryl Williams,New York,NY,3741.2,FALSE,Paid,1,2,7,8,5,0,1,1
+HBVP23,64,Male,General Hospital,06-02-2023,25,15-12-2023,5,Readmitted,Cardiac Arrest,Medication,Ashley Harris,Houston,TX,5982.48,FALSE,Paid,2,3,2,6,4,0,0,0
+L8KUUE,61,Male,City Medical Center,10-09-2023,25,20-03-2023,3,Successful,COVID-19,Therapy,Laura Lowe,Chicago,IL,10666.01,FALSE,Unpaid,3,2,4,3,1,0,0,0
+TC6IID,65,Male,General Hospital,09-09-2023,29,11-10-2023,2,Readmitted,Cardiac Arrest,Medication,Judith Russell,Houston,TX,5905.04,TRUE,Pending,5,2,5,2,3,0,0,0
+8Q7X5A,69,Male,Sunrise Healthcare,20-05-2023,17,10-10-2023,8,Successful,Fracture,Medication,Lauren Burns,Houston,TX,4600.51,TRUE,Paid,9,9,10,5,1,0,0,1
+HWLLOS,85,Male,Sunrise Healthcare,21-12-2023,21,15-11-2023,10,Readmitted,COVID-19,Observation,Michael Yoder,Houston,TX,2211.24,FALSE,Unpaid,8,8,10,9,2,0,0,0
+Z2VUT2,28,Male,General Hospital,17-06-2023,9,31-03-2023,1,Readmitted,Fracture,Medication,Ashley Harris,Houston,TX,3536.66,TRUE,Paid,6,6,2,4,1,0,0,0
+DG11DV,21,Female,Sunrise Healthcare,23-02-2023,23,19-08-2023,6,Successful,Fracture,Medication,Michael Washington,Miami,FL,15492.92,FALSE,Unpaid,9,8,7,8,3,0,0,0
+LCVBX7,65,Female,Sunrise Healthcare,27-06-2023,16,16-06-2023,5,Successful,Fracture,Surgery,Charles Kennedy,Miami,FL,14516.19,FALSE,Pending,9,8,9,10,1,0,0,0
+0AHWFV,43,Male,General Hospital,24-10-2023,6,13-08-2023,2,Successful,Fracture,Observation,Ashley Harris,Los Angeles,CA,1393.76,TRUE,Unpaid,7,1,5,7,4,0,0,0
+YRQLFZ,56,Female,General Hospital,28-10-2023,22,15-07-2023,1,Successful,Flu,Medication,David Gates,New York,NY,4464.04,TRUE,Pending,3,3,1,6,3,0,1,1
+0HSA28,75,Male,Sunrise Healthcare,25-12-2023,11,10-10-2023,9,Successful,Hypertension,Observation,Michael Washington,Houston,TX,11428.88,FALSE,Paid,8,7,8,9,1,0,0,1
+N8TMHT,36,Male,Sunrise Healthcare,16-04-2023,23,11-08-2023,6,Successful,Diabetes,Surgery,Kyle Chen,Los Angeles,CA,6791.24,FALSE,Pending,8,5,7,9,2,0,0,0
+6ZUIXQ,75,Female,Sunrise Healthcare,17-05-2023,17,15-07-2023,8,Successful,Flu,Medication,Charles Kennedy,New York,NY,16553.37,FALSE,Unpaid,9,9,5,6,3,0,1,1
+XUMKSK,45,Male,City Medical Center,09-07-2023,4,01-08-2023,4,Successful,Cardiac Arrest,Medication,Mitchell Kennedy,Chicago,IL,15807.29,FALSE,Paid,1,5,5,4,5,0,0,0
+MASLHH,83,Female,City Medical Center,08-05-2023,29,24-08-2023,1,Deceased,Cardiac Arrest,Surgery,Amanda Higgins,Miami,FL,17885.82,TRUE,Paid,5,2,4,4,2,0,0,0
+L6Z1EH,27,Male,City Medical Center,08-12-2023,15,25-04-2023,5,Complication,Hypertension,Medication,Jacqueline Johnson,New York,NY,11477.16,FALSE,Unpaid,1,4,2,5,3,0,0,0
+Y0W3WT,75,Male,General Hospital,16-02-2023,1,18-04-2023,1,Successful,Diabetes,Therapy,David Gates,Chicago,IL,7365.49,TRUE,Pending,1,5,8,5,1,0,0,0
+RRBD36,31,Female,City Medical Center,05-01-2023,22,07-12-2023,5,Successful,Diabetes,Medication,Michelle Stewart,New York,NY,12318.26,FALSE,Unpaid,5,3,5,4,4,0,0,0
+9RS1T6,32,Male,General Hospital,14-09-2023,29,09-11-2023,6,Successful,Diabetes,Observation,Raven Walker,Miami,FL,2238.17,FALSE,Pending,6,2,1,3,4,0,1,0
+LOB2JB,50,Male,General Hospital,27-10-2023,20,15-02-2023,7,Successful,Fracture,Medication,Ashley Harris,Miami,FL,686.93,TRUE,Pending,1,2,8,1,2,0,0,0
+KMJNRI,34,Male,City Medical Center,30-05-2023,1,06-03-2023,3,Readmitted,Flu,Medication,Gloria Hanson,Los Angeles,CA,833.32,TRUE,Paid,1,3,2,2,1,0,0,0
+1CTF0B,41,Female,City Medical Center,21-10-2023,9,19-03-2023,2,Successful,Cardiac Arrest,Therapy,Michelle Stewart,Houston,TX,8447.09,TRUE,Pending,4,5,3,1,3,0,0,0
+2CP3BQ,47,Male,City Medical Center,31-08-2023,12,27-05-2023,4,Successful,Flu,Therapy,Gloria Hanson,New York,NY,4947.51,TRUE,Paid,3,1,1,3,4,0,0,0
+L8AOZU,79,Male,Sunrise Healthcare,02-10-2023,4,25-10-2023,5,Readmitted,Flu,Medication,Lauren Burns,New York,NY,3568.09,TRUE,Unpaid,8,9,10,6,2,0,0,0
+4YWX1U,30,Male,City Medical Center,27-07-2023,28,27-03-2023,3,Readmitted,Flu,Surgery,Mitchell Kennedy,Chicago,IL,12498.86,FALSE,Unpaid,1,1,2,2,4,0,0,0
+R98I37,79,Female,Sunrise Healthcare,25-04-2023,22,25-01-2023,8,Successful,Diabetes,Surgery,Kyle Chen,Miami,FL,19904.35,FALSE,Paid,10,9,8,9,3,0,0,0
+5CC1OW,64,Female,General Hospital,14-07-2023,13,24-04-2023,5,Successful,Hypertension,Surgery,David Gates,New York,NY,3966.19,FALSE,Paid,4,8,4,5,4,0,0,0
+K596X7,33,Female,Sunrise Healthcare,09-12-2023,7,24-12-2023,9,Successful,Hypertension,Therapy,Lauren Burns,Miami,FL,11155.22,TRUE,Pending,6,8,10,8,2,0,0,1
+1GDAAT,83,Female,City Medical Center,19-06-2023,8,12-04-2023,1,Successful,Diabetes,Therapy,Victoria Taylor,New York,NY,2834.69,TRUE,Paid,3,3,5,1,3,0,0,0
+S2JR18,60,Female,General Hospital,23-03-2023,28,13-05-2023,3,Deceased,Cardiac Arrest,Medication,Jennifer Duran,Los Angeles,CA,18717.61,TRUE,Unpaid,7,7,4,4,5,1,0,0
+40KEH7,25,Male,General Hospital,03-06-2023,13,28-05-2023,5,Successful,Cardiac Arrest,Therapy,Darrell Allen,Houston,TX,6189.23,FALSE,Paid,8,2,1,3,1,0,0,0
+LA4DE3,20,Female,General Hospital,21-05-2023,11,03-01-2024,6,Successful,Cardiac Arrest,Medication,Judith Russell,New York,NY,17627.63,TRUE,Paid,6,4,7,5,1,0,1,0
+XCKDZ0,29,Female,Sunrise Healthcare,10-11-2023,9,13-11-2023,8,Readmitted,Hypertension,Medication,Michael Washington,Miami,FL,6019.99,FALSE,Paid,5,7,8,5,1,0,1,0
+0FO38W,33,Male,City Medical Center,26-05-2023,25,26-03-2023,1,Complication,Hypertension,Medication,Alexander Black,Los Angeles,CA,16218.02,FALSE,Pending,5,5,5,3,3,1,0,0
+FDRI2M,76,Female,General Hospital,19-11-2023,24,28-08-2023,2,Deceased,Flu,Observation,Eduardo Wright,New York,NY,4582.94,FALSE,Paid,6,7,2,6,4,0,0,0
+Q5VDEM,66,Male,General Hospital,02-05-2023,16,21-01-2023,3,Successful,Diabetes,Surgery,Raven Walker,Chicago,IL,6209.39,TRUE,Pending,8,5,5,2,3,0,0,0
+7VWC75,80,Female,General Hospital,09-09-2023,10,20-06-2023,5,Successful,Fracture,Surgery,Raven Walker,Houston,TX,4253.27,FALSE,Pending,6,7,2,5,3,0,0,0
+UUKDA1,79,Male,Sunrise Healthcare,09-12-2023,11,14-10-2023,8,Successful,Flu,Observation,Charles Kennedy,New York,NY,5653.07,FALSE,Paid,6,6,8,9,2,0,0,0
+X8M7K9,66,Male,Sunrise Healthcare,07-11-2023,12,27-06-2023,10,Successful,COVID-19,Observation,Michael Yoder,Los Angeles,CA,16779.88,FALSE,Pending,10,6,10,8,3,0,0,0
+Q8RVXS,68,Female,City Medical Center,30-03-2023,28,03-01-2024,3,Successful,Hypertension,Surgery,Gloria Hanson,Chicago,IL,12961.13,TRUE,Paid,1,2,1,3,4,1,1,0
+UH1EQ9,50,Female,Sunrise Healthcare,27-02-2023,14,25-04-2023,6,Successful,Flu,Medication,Michael Yoder,Los Angeles,CA,8414.65,FALSE,Unpaid,7,9,8,8,2,0,0,0
+S07KLU,47,Male,General Hospital,04-03-2023,19,25-08-2023,8,Successful,Diabetes,Surgery,Ashley Harris,Los Angeles,CA,19444.66,TRUE,Unpaid,7,7,1,8,5,0,0,0
+K1EQTL,76,Male,City Medical Center,13-12-2023,12,10-11-2023,5,Readmitted,COVID-19,Medication,Laura Lowe,Chicago,IL,9564.8,TRUE,Pending,5,5,3,4,3,0,0,0
+FQSZ5F,32,Male,General Hospital,04-11-2023,18,18-01-2024,7,Successful,Flu,Observation,Raven Walker,Los Angeles,CA,19410.32,FALSE,Unpaid,3,3,7,6,4,0,1,0
+9K6XWO,40,Male,General Hospital,07-10-2023,21,24-06-2023,4,Complication,Diabetes,Surgery,Raven Walker,Chicago,IL,4333.44,FALSE,Paid,7,7,1,1,2,0,0,0
+0KQN0R,62,Male,Sunrise Healthcare,13-03-2023,17,24-07-2023,5,Successful,Diabetes,Observation,Michael Yoder,New York,NY,18140.45,TRUE,Pending,10,8,10,9,3,0,0,0
+1DG8IH,79,Male,City Medical Center,09-01-2023,3,16-07-2023,5,Readmitted,Hypertension,Medication,David Watkins,Chicago,IL,769.53,FALSE,Paid,2,4,2,2,1,0,0,0
+QQ65HS,88,Male,Sunrise Healthcare,04-04-2023,1,27-10-2023,8,Successful,Fracture,Medication,Michael Yoder,Chicago,IL,11133.41,TRUE,Pending,10,10,10,7,5,0,0,0
+CEM4P5,32,Female,Sunrise Healthcare,05-12-2023,29,06-05-2023,9,Complication,Flu,Medication,Lauren Burns,Houston,TX,8749.52,TRUE,Pending,6,10,10,8,4,0,0,0
+V2VCJU,63,Male,City Medical Center,02-12-2023,19,22-01-2023,5,Successful,Diabetes,Medication,Gloria Hanson,Chicago,IL,10739.21,TRUE,Pending,1,2,1,1,4,0,0,0
+PLBX83,81,Female,General Hospital,01-06-2023,29,28-02-2023,8,Successful,Cardiac Arrest,Therapy,David Gates,Chicago,IL,11292.17,FALSE,Pending,4,4,4,2,1,0,1,0
+38SHZG,63,Female,General Hospital,22-12-2023,4,04-10-2023,3,Complication,Diabetes,Therapy,Ashley Harris,New York,NY,8086.11,TRUE,Unpaid,7,1,4,1,3,0,0,0
+3GCA9Y,73,Male,City Medical Center,09-02-2023,23,12-03-2023,3,Successful,Fracture,Surgery,Julie Butler,Houston,TX,19964.86,TRUE,Unpaid,3,3,3,4,4,0,0,0
+AOMHEI,61,Male,General Hospital,25-12-2023,28,16-07-2023,2,Successful,Diabetes,Medication,Sheryl Williams,Miami,FL,19541.89,FALSE,Unpaid,7,5,3,2,3,0,1,0
+A98BWI,46,Female,City Medical Center,03-03-2023,16,08-10-2023,5,Readmitted,Hypertension,Therapy,Julie Butler,New York,NY,19254.03,FALSE,Pending,3,1,2,5,5,0,0,0
+7ND34K,79,Male,City Medical Center,11-09-2023,12,19-06-2023,2,Readmitted,Flu,Observation,Gloria Hanson,New York,NY,19592.16,TRUE,Unpaid,4,5,5,1,4,0,0,0
+8HCNM5,69,Male,Sunrise Healthcare,10-03-2023,21,07-01-2024,6,Successful,Hypertension,Surgery,Bill Aguirre,Miami,FL,15963.74,TRUE,Pending,10,10,5,10,4,1,0,0
+7SPBQ7,71,Female,City Medical Center,02-09-2023,21,31-05-2023,2,Successful,Flu,Observation,Gloria Hanson,Chicago,IL,19777.51,TRUE,Unpaid,3,3,3,5,2,0,1,0
+PBBZM4,74,Female,Sunrise Healthcare,31-12-2023,13,24-08-2023,8,Successful,COVID-19,Medication,Kyle Chen,Los Angeles,CA,17901.02,FALSE,Pending,10,9,9,9,5,1,0,0
+7CHWN0,83,Female,General Hospital,19-06-2023,17,26-10-2023,1,Successful,Flu,Medication,Judith Russell,Houston,TX,8610.69,TRUE,Unpaid,2,7,7,6,5,0,0,0
+2AQ3MU,39,Male,General Hospital,27-06-2023,8,19-01-2023,2,Deceased,COVID-19,Therapy,Jennifer Duran,Los Angeles,CA,15803.15,TRUE,Unpaid,4,2,1,4,3,0,0,0
+SSYV4Q,37,Male,General Hospital,08-07-2023,13,17-08-2023,7,Successful,Hypertension,Surgery,Raven Walker,Miami,FL,18285.32,FALSE,Unpaid,3,2,4,5,5,0,0,0
+W5JJ9H,50,Female,General Hospital,17-09-2023,20,23-07-2023,5,Successful,Cardiac Arrest,Surgery,Eduardo Wright,New York,NY,14395.82,FALSE,Pending,5,1,6,2,1,0,1,0
+T5N1XO,89,Male,Sunrise Healthcare,13-03-2023,26,24-03-2023,10,Deceased,Fracture,Medication,Lauren Burns,New York,NY,8744.26,TRUE,Pending,9,6,7,6,3,0,0,1
+V3DMWH,42,Female,General Hospital,17-01-2023,5,27-03-2023,8,Successful,Cardiac Arrest,Observation,David Gates,Houston,TX,1782.91,FALSE,Unpaid,6,4,1,7,4,0,0,0
+RL4N7R,63,Male,City Medical Center,07-12-2023,18,07-06-2023,2,Successful,COVID-19,Medication,Gloria Hanson,New York,NY,16289.09,TRUE,Pending,3,2,3,1,5,0,1,0
+7KLO42,74,Female,City Medical Center,26-02-2023,15,10-12-2023,5,Successful,Diabetes,Observation,Gloria Hanson,New York,NY,19078.49,TRUE,Paid,5,5,4,3,1,0,1,0
+ZR5VQW,22,Male,City Medical Center,06-08-2023,12,05-11-2023,1,Successful,Diabetes,Medication,Julie Butler,Houston,TX,7568.03,FALSE,Unpaid,3,2,2,3,1,0,1,0
+XHFE21,72,Female,Sunrise Healthcare,17-04-2023,29,30-06-2023,9,Successful,Cardiac Arrest,Medication,Charles Kennedy,Houston,TX,3462.17,TRUE,Unpaid,5,6,5,9,3,0,0,1
+KASI07,78,Male,General Hospital,31-10-2023,17,03-08-2023,3,Successful,Diabetes,Observation,Eduardo Wright,Miami,FL,6866.82,TRUE,Paid,2,8,1,2,4,0,0,0
+D9ROMS,25,Male,General Hospital,22-06-2023,25,15-02-2023,6,Successful,COVID-19,Observation,Robert Hutchinson,New York,NY,11861.14,FALSE,Pending,4,1,5,4,2,0,0,0
+FLQWZ2,33,Female,General Hospital,07-08-2023,15,19-11-2023,3,Successful,Hypertension,Medication,Mr. Luke Pena MD,New York,NY,6680.12,TRUE,Pending,8,3,3,3,4,0,0,0
+60YJWU,65,Male,Sunrise Healthcare,04-09-2023,2,03-03-2023,6,Successful,Fracture,Therapy,Charles Kennedy,Miami,FL,12407.07,FALSE,Pending,7,6,9,10,5,0,0,0
+UM6XKQ,78,Male,City Medical Center,06-08-2023,6,21-04-2023,5,Successful,Flu,Medication,Amanda Higgins,Chicago,IL,19353.62,TRUE,Unpaid,5,4,2,1,1,0,0,0
+DY3IUT,32,Female,City Medical Center,31-01-2023,17,20-02-2023,1,Successful,COVID-19,Surgery,Gloria Hanson,Chicago,IL,13579.32,FALSE,Unpaid,3,4,1,1,1,0,1,0
+SSLQ18,82,Male,General Hospital,16-02-2023,16,31-03-2023,8,Successful,COVID-19,Medication,Sheryl Williams,Chicago,IL,7571.86,FALSE,Unpaid,7,7,2,4,2,0,0,1
+RN8GMR,39,Male,City Medical Center,14-05-2023,17,19-10-2023,5,Successful,Flu,Surgery,Victoria Taylor,Miami,FL,18747.18,FALSE,Unpaid,3,3,2,3,1,0,1,0
+M94BPI,20,Male,City Medical Center,18-04-2023,25,20-02-2023,5,Successful,Flu,Observation,Julie Butler,New York,NY,11529.89,FALSE,Unpaid,4,1,4,1,4,0,0,0
+IKV69W,71,Female,Sunrise Healthcare,13-03-2023,20,12-05-2023,6,Successful,Fracture,Medication,Michelle Martin,Miami,FL,3003.26,FALSE,Pending,6,10,9,7,3,0,0,0
+7IXHG9,31,Female,Sunrise Healthcare,23-11-2023,9,26-03-2023,9,Successful,Fracture,Medication,Bill Aguirre,Miami,FL,10230.13,FALSE,Paid,9,5,8,9,3,0,0,0
+RC1FU1,53,Female,Sunrise Healthcare,18-04-2023,27,24-03-2023,10,Complication,Fracture,Medication,Jennifer Allen,Chicago,IL,13245.91,TRUE,Pending,5,6,7,9,3,0,0,1
+A9U8MJ,84,Female,Sunrise Healthcare,05-11-2023,5,21-06-2023,8,Successful,Diabetes,Therapy,Kyle Chen,Los Angeles,CA,16845.96,TRUE,Pending,9,7,9,10,1,0,0,0
+JMXBVQ,27,Female,General Hospital,29-09-2023,23,02-10-2023,4,Complication,COVID-19,Medication,Mr. Luke Pena MD,New York,NY,18761.3,FALSE,Unpaid,8,2,4,4,5,0,0,0
+9NJ8YC,66,Male,Sunrise Healthcare,20-06-2023,1,08-10-2023,10,Complication,Hypertension,Surgery,Michael Yoder,Chicago,IL,6689.61,TRUE,Paid,10,8,8,9,3,0,0,0
+QLX2Y9,82,Male,City Medical Center,26-04-2023,6,19-12-2023,4,Successful,Flu,Therapy,Amanda Higgins,Los Angeles,CA,3532.49,FALSE,Paid,2,5,5,2,3,0,0,0
+ZAT1PQ,74,Female,General Hospital,25-11-2023,24,25-12-2023,8,Successful,COVID-19,Medication,Eduardo Wright,Los Angeles,CA,1939.66,FALSE,Pending,4,1,2,6,4,0,0,0
+1L037F,44,Male,City Medical Center,15-03-2023,14,07-09-2023,5,Deceased,COVID-19,Observation,Laura Lowe,Houston,TX,14897.91,TRUE,Paid,5,4,3,3,4,0,0,0
+G55Y6G,22,Male,City Medical Center,13-09-2023,17,04-08-2023,1,Successful,Fracture,Surgery,Angela Fry,New York,NY,16005.59,FALSE,Pending,2,5,4,2,2,0,0,0
+LPP9MG,88,Male,City Medical Center,22-03-2023,25,24-10-2023,5,Readmitted,Fracture,Medication,Julie Butler,Los Angeles,CA,8482.78,TRUE,Pending,3,4,4,1,5,0,0,0
+9I5KH6,74,Male,Sunrise Healthcare,25-09-2023,19,04-06-2023,9,Successful,COVID-19,Therapy,Jennifer Allen,Chicago,IL,8220.55,FALSE,Pending,9,10,10,10,1,0,0,0
+WYHVDC,32,Female,Sunrise Healthcare,08-05-2023,1,04-12-2023,6,Successful,Fracture,Medication,Lauren Burns,Houston,TX,19107.62,FALSE,Pending,8,8,10,8,1,0,0,0
+22771M,47,Female,General Hospital,22-11-2023,1,20-04-2023,3,Successful,Diabetes,Observation,Judith Russell,New York,NY,18375.29,TRUE,Unpaid,7,6,8,4,5,0,0,0
+OWZDZI,37,Male,General Hospital,23-08-2023,13,02-06-2023,3,Successful,Flu,Medication,David Gates,Miami,FL,5048.69,FALSE,Paid,7,3,4,2,2,0,0,1
+E5TKO5,54,Male,Sunrise Healthcare,10-02-2023,14,22-03-2023,10,Successful,COVID-19,Therapy,Kyle Chen,Chicago,IL,15725.75,FALSE,Unpaid,10,7,7,7,1,0,0,0
+1VQZGZ,20,Female,City Medical Center,30-06-2023,27,18-01-2023,2,Successful,Flu,Medication,Jacqueline Johnson,Los Angeles,CA,12642.66,FALSE,Unpaid,2,1,4,2,1,0,0,1
+YJSKMH,58,Male,General Hospital,06-06-2023,6,10-08-2023,7,Readmitted,Diabetes,Surgery,Robert Hutchinson,Los Angeles,CA,3507.34,TRUE,Unpaid,8,6,7,1,4,0,0,0
+D41KAX,56,Male,Sunrise Healthcare,28-02-2023,27,17-11-2023,6,Readmitted,Fracture,Medication,Charles Kennedy,Chicago,IL,7457.04,TRUE,Pending,10,8,6,10,4,0,0,0
+4ZETK6,43,Male,Sunrise Healthcare,11-12-2023,6,19-10-2023,6,Successful,Cardiac Arrest,Surgery,Michael Washington,Los Angeles,CA,3960.72,TRUE,Pending,8,9,9,10,3,1,0,0
+07O5UE,19,Female,Sunrise Healthcare,06-09-2023,1,26-05-2023,9,Readmitted,Diabetes,Observation,Charles Kennedy,Houston,TX,6255.54,TRUE,Unpaid,10,9,10,8,3,0,0,0
+FVRNJM,40,Female,City Medical Center,11-07-2023,14,13-11-2023,3,Readmitted,Cardiac Arrest,Surgery,Diana Boyd,New York,NY,12498.37,TRUE,Unpaid,4,2,1,3,3,0,0,0
+43C3F2,40,Male,Sunrise Healthcare,24-01-2023,3,12-03-2023,9,Readmitted,Flu,Medication,Jennifer Allen,Houston,TX,7817.68,FALSE,Paid,9,10,9,8,4,0,0,0
+H6QKMK,33,Male,Sunrise Healthcare,21-03-2023,23,20-12-2023,8,Successful,COVID-19,Surgery,Lauren Burns,Los Angeles,CA,8184.16,TRUE,Unpaid,7,10,8,8,3,0,0,0
+41FPD8,26,Male,Sunrise Healthcare,14-05-2023,10,07-11-2023,7,Complication,Fracture,Medication,Lauren Burns,Miami,FL,11023.12,TRUE,Pending,7,10,10,6,2,0,0,0
+ZLKYRS,30,Male,Sunrise Healthcare,01-08-2023,19,18-03-2023,6,Successful,Diabetes,Therapy,Bill Aguirre,New York,NY,2200.87,FALSE,Unpaid,10,9,10,8,1,0,0,0
+WRZFD2,45,Male,General Hospital,14-12-2023,19,26-02-2023,2,Successful,Fracture,Surgery,Ashley Harris,New York,NY,14906.55,FALSE,Paid,7,5,6,2,4,0,0,1
+7QPB7H,44,Male,General Hospital,15-06-2023,19,11-05-2023,1,Deceased,Cardiac Arrest,Observation,Robert Hutchinson,Chicago,IL,8333.34,TRUE,Paid,3,3,6,3,3,0,0,0
+MH3593,68,Female,Sunrise Healthcare,14-12-2023,28,13-07-2023,9,Successful,Cardiac Arrest,Surgery,Michelle Martin,Chicago,IL,9867.74,FALSE,Unpaid,10,10,9,7,1,0,0,0
+AQTXV2,81,Female,City Medical Center,03-12-2023,23,05-02-2023,1,Successful,Hypertension,Surgery,Mitchell Kennedy,Miami,FL,19498.84,FALSE,Paid,2,2,4,1,4,0,1,1
+VIJ911,69,Male,General Hospital,12-03-2023,4,12-03-2023,6,Readmitted,COVID-19,Medication,Judith Russell,New York,NY,7215.15,FALSE,Paid,8,2,1,6,5,1,0,0
+UXBH0V,55,Female,Sunrise Healthcare,02-08-2023,20,06-01-2024,7,Successful,Cardiac Arrest,Surgery,Michelle Martin,Miami,FL,13140.27,TRUE,Pending,9,10,6,5,5,0,0,0
+02CMJ9,82,Male,General Hospital,06-03-2023,19,22-09-2023,1,Readmitted,COVID-19,Surgery,Judith Russell,Chicago,IL,8153.83,FALSE,Paid,1,1,3,7,3,0,0,0
+I07A5Y,35,Male,General Hospital,09-08-2023,10,28-10-2023,4,Complication,Hypertension,Medication,David Gates,Chicago,IL,17938.51,FALSE,Paid,8,2,5,4,4,0,0,0
+2GCTT3,80,Female,City Medical Center,04-11-2023,27,27-04-2023,4,Successful,Diabetes,Surgery,Gloria Hanson,New York,NY,17011.75,TRUE,Unpaid,3,5,4,5,1,1,0,0
+880ZNQ,68,Female,Sunrise Healthcare,13-10-2023,25,17-02-2023,9,Successful,Hypertension,Medication,Michelle Martin,Houston,TX,5211.67,FALSE,Pending,7,8,8,9,3,0,0,0
+R2T0RD,26,Male,Sunrise Healthcare,04-07-2023,2,13-07-2023,9,Complication,COVID-19,Surgery,Kyle Chen,Los Angeles,CA,13989.04,FALSE,Paid,8,7,10,8,3,0,0,0
+AAZTWJ,30,Male,City Medical Center,26-07-2023,4,25-12-2023,5,Successful,Cardiac Arrest,Medication,David Watkins,Chicago,IL,1770.85,TRUE,Unpaid,4,1,2,3,3,0,0,0
+KEAQV7,57,Female,City Medical Center,09-04-2023,24,20-01-2024,5,Readmitted,Flu,Medication,Victoria Taylor,Chicago,IL,19282.12,TRUE,Unpaid,3,2,1,4,4,0,0,0
+2DEKU8,72,Female,Sunrise Healthcare,30-08-2023,6,19-03-2023,8,Readmitted,COVID-19,Medication,Michelle Martin,Houston,TX,7305.31,TRUE,Unpaid,10,10,7,8,5,0,0,0
+LZSGGZ,60,Male,Sunrise Healthcare,07-06-2023,7,29-03-2023,10,Successful,Fracture,Surgery,Michael Washington,Houston,TX,16720.93,FALSE,Unpaid,8,8,7,10,1,0,0,0
+EUNDWT,61,Male,City Medical Center,08-04-2023,16,04-11-2023,1,Successful,Flu,Therapy,Mitchell Kennedy,Miami,FL,6709.41,TRUE,Unpaid,1,2,4,4,2,0,0,1
+O2HS10,85,Male,General Hospital,11-02-2023,29,16-05-2023,6,Readmitted,COVID-19,Medication,Ashley Harris,Miami,FL,12839.03,TRUE,Unpaid,3,3,6,6,3,1,0,0
+DO8ACX,50,Female,General Hospital,19-05-2023,7,30-10-2023,3,Successful,Fracture,Surgery,Robert Hutchinson,Los Angeles,CA,19680.02,FALSE,Paid,7,2,4,4,1,0,0,0
+0972XX,41,Male,City Medical Center,10-10-2023,18,25-02-2023,2,Successful,Hypertension,Observation,Gloria Hanson,Los Angeles,CA,17596.62,FALSE,Pending,1,1,1,2,1,0,0,1
+DC7WWE,53,Female,General Hospital,15-08-2023,20,30-10-2023,6,Readmitted,Flu,Surgery,Mr. Luke Pena MD,New York,NY,3627.14,FALSE,Pending,1,4,6,7,3,0,0,0
+4FJGUT,27,Male,City Medical Center,13-03-2023,26,24-04-2023,2,Readmitted,COVID-19,Medication,Laura Lowe,Miami,FL,11176.02,FALSE,Unpaid,4,2,2,5,1,0,0,0
+CVD1L9,37,Female,General Hospital,31-08-2023,26,20-05-2023,5,Successful,Diabetes,Surgery,Sheryl Williams,Chicago,IL,7296.37,FALSE,Unpaid,1,5,3,6,4,0,1,0
+EMW3Y0,29,Female,General Hospital,18-01-2023,22,08-07-2023,4,Successful,Hypertension,Surgery,Sheryl Williams,Miami,FL,8969.61,TRUE,Pending,8,1,5,8,1,0,0,0
+N9PVUU,79,Female,Sunrise Healthcare,18-03-2023,19,02-05-2023,9,Successful,Fracture,Surgery,Charles Kennedy,Chicago,IL,7036.07,TRUE,Paid,7,7,9,8,1,0,0,0
+HP4J57,35,Female,Sunrise Healthcare,14-02-2023,9,07-02-2023,10,Complication,Diabetes,Medication,Jennifer Allen,Houston,TX,7051.21,TRUE,Unpaid,5,10,5,9,5,0,0,0
+IQK5JV,80,Male,General Hospital,09-12-2023,29,20-06-2023,3,Readmitted,Cardiac Arrest,Observation,Ashley Harris,Miami,FL,11079.79,FALSE,Pending,6,8,4,8,2,0,0,0
+QDYUAY,42,Female,General Hospital,20-05-2023,20,07-10-2023,7,Deceased,Hypertension,Observation,David Gates,Houston,TX,4243.3,TRUE,Pending,3,2,5,1,5,0,0,0
+9QXBO5,29,Female,Sunrise Healthcare,26-06-2023,10,01-07-2023,8,Successful,Hypertension,Medication,Michelle Martin,Los Angeles,CA,10979.21,FALSE,Unpaid,9,9,10,10,3,0,0,0
+FAWQ72,38,Female,Sunrise Healthcare,10-08-2023,13,26-12-2023,8,Complication,COVID-19,Medication,Michelle Martin,Los Angeles,CA,5939.83,FALSE,Pending,10,7,8,9,3,0,0,0
+IMFFTC,42,Male,Sunrise Healthcare,02-04-2023,18,10-12-2023,7,Deceased,COVID-19,Therapy,Michael Yoder,New York,NY,6135.17,TRUE,Paid,5,10,10,8,5,0,0,0
+QLAQCZ,28,Male,City Medical Center,22-01-2023,16,06-07-2023,1,Successful,Fracture,Medication,Michelle Stewart,Miami,FL,14905.59,TRUE,Pending,1,5,4,3,4,0,0,0
+O955DR,81,Male,General Hospital,21-06-2023,22,24-10-2023,6,Successful,Hypertension,Observation,Judith Russell,Houston,TX,1077.08,FALSE,Unpaid,8,5,4,7,4,0,0,0
+S8N6N7,67,Male,Sunrise Healthcare,02-04-2023,17,28-03-2023,9,Readmitted,COVID-19,Medication,Charles Kennedy,Chicago,IL,7928.44,FALSE,Unpaid,8,6,5,9,4,0,0,0
+DX2SF6,79,Male,General Hospital,11-07-2023,22,22-04-2023,2,Successful,Cardiac Arrest,Therapy,Eduardo Wright,Los Angeles,CA,8446.92,TRUE,Pending,4,4,1,2,4,0,0,0
+SAE0PF,66,Male,City Medical Center,18-03-2023,13,24-11-2023,5,Successful,COVID-19,Medication,Gloria Hanson,Los Angeles,CA,9959.65,TRUE,Pending,3,3,2,3,3,0,0,0
+M8SLPJ,31,Female,City Medical Center,08-10-2023,12,18-03-2023,2,Successful,Hypertension,Medication,David Watkins,Chicago,IL,13545.71,FALSE,Unpaid,5,1,1,2,2,0,0,0
+YT4DWB,18,Female,Sunrise Healthcare,30-12-2023,10,10-12-2023,8,Successful,Flu,Therapy,Kyle Chen,Houston,TX,7708.89,FALSE,Paid,9,5,9,5,4,0,0,0
+VHGNCP,42,Female,City Medical Center,28-06-2023,1,26-02-2023,4,Successful,Diabetes,Observation,Angela Fry,Houston,TX,4656.17,FALSE,Pending,1,2,2,3,3,0,0,0
+SRPH6L,76,Male,General Hospital,26-08-2023,8,19-04-2023,3,Successful,Hypertension,Observation,Judith Russell,Miami,FL,17755.02,FALSE,Paid,8,6,7,4,4,0,0,0
+KE0LQF,89,Female,Sunrise Healthcare,15-05-2023,21,10-03-2023,8,Deceased,Cardiac Arrest,Surgery,Bill Aguirre,Miami,FL,19630.25,TRUE,Paid,9,8,9,8,5,0,1,0
+6E1NE6,86,Female,General Hospital,31-12-2023,22,07-10-2023,7,Complication,Hypertension,Medication,Jennifer Duran,New York,NY,890.29,TRUE,Unpaid,2,3,1,8,5,0,0,0
+SVEB3D,22,Male,General Hospital,07-10-2023,18,27-07-2023,4,Complication,Cardiac Arrest,Surgery,Eduardo Wright,Los Angeles,CA,11156.1,FALSE,Unpaid,6,2,2,6,1,1,0,0
+6MTGOW,36,Female,City Medical Center,19-01-2023,2,20-07-2023,3,Successful,Hypertension,Surgery,David Watkins,Miami,FL,7163.2,FALSE,Unpaid,2,4,5,2,1,0,0,1
+NWS2T2,40,Male,City Medical Center,24-03-2023,16,11-10-2023,5,Complication,Diabetes,Surgery,Laura Lowe,Houston,TX,5901.3,TRUE,Paid,1,3,4,4,1,0,0,0
+XRJHZ2,26,Female,City Medical Center,16-08-2023,12,27-12-2023,4,Complication,Diabetes,Medication,Jacqueline Johnson,Chicago,IL,7046.27,FALSE,Unpaid,2,5,4,3,2,0,0,0
+JQBFE1,67,Male,City Medical Center,22-09-2023,9,14-02-2023,4,Successful,Cardiac Arrest,Medication,Julie Butler,Houston,TX,12958.12,FALSE,Unpaid,5,1,4,4,1,0,0,0
+ERZT0L,33,Male,City Medical Center,22-04-2023,3,20-11-2023,5,Successful,Hypertension,Observation,Diana Boyd,Los Angeles,CA,4218.96,FALSE,Paid,4,1,5,3,3,0,0,0
+GCJ7Y8,50,Male,Sunrise Healthcare,08-09-2023,22,12-08-2023,10,Successful,Diabetes,Medication,Charles Kennedy,Houston,TX,18300.78,FALSE,Paid,9,8,8,8,2,0,0,0
+PBXJVZ,19,Female,General Hospital,13-06-2023,26,27-06-2023,4,Readmitted,Fracture,Therapy,Darrell Allen,New York,NY,9589.23,FALSE,Paid,6,8,1,7,2,0,0,1
+02T0TS,31,Female,General Hospital,24-12-2023,21,26-09-2023,6,Successful,Hypertension,Medication,Raven Walker,Los Angeles,CA,6848.75,FALSE,Paid,5,1,8,6,2,0,0,0
+T8B37V,18,Male,General Hospital,17-06-2023,28,28-07-2023,6,Complication,Diabetes,Therapy,Judith Russell,Chicago,IL,15427.86,TRUE,Pending,8,8,3,4,2,0,0,0
+CFO0JI,75,Male,General Hospital,09-08-2023,4,09-06-2023,2,Successful,Flu,Medication,Mr. Luke Pena MD,New York,NY,818.76,FALSE,Unpaid,3,6,3,2,4,0,0,0
+65F9B2,33,Female,City Medical Center,31-10-2023,26,28-02-2023,1,Successful,Flu,Therapy,Mitchell Kennedy,Los Angeles,CA,8921.13,TRUE,Pending,5,2,3,4,5,0,0,0
+DASZYJ,64,Female,General Hospital,10-07-2023,2,01-02-2023,6,Complication,Fracture,Surgery,Jennifer Duran,Chicago,IL,7428.42,TRUE,Paid,5,2,6,7,4,0,0,0
+OVUV97,61,Male,Sunrise Healthcare,21-11-2023,8,26-09-2023,10,Successful,Diabetes,Therapy,Jennifer Allen,New York,NY,7095.09,TRUE,Paid,10,10,9,5,5,0,0,0
+3Y1ADG,31,Female,Sunrise Healthcare,19-06-2023,10,04-09-2023,9,Successful,Flu,Observation,Bill Aguirre,New York,NY,7072.89,FALSE,Paid,6,8,8,9,4,0,0,0
+I9SAJ9,41,Female,General Hospital,14-02-2023,16,24-02-2023,5,Deceased,Hypertension,Medication,Ashley Harris,Los Angeles,CA,1109.79,FALSE,Paid,7,2,1,8,5,0,0,0
+I55FQJ,72,Female,General Hospital,14-01-2023,23,04-11-2023,4,Complication,COVID-19,Medication,Jennifer Duran,Miami,FL,3466.27,FALSE,Paid,6,4,5,6,1,0,0,0
+08UY1O,32,Male,Sunrise Healthcare,19-08-2023,11,02-01-2024,8,Successful,Diabetes,Surgery,Charles Kennedy,New York,NY,3266.76,TRUE,Unpaid,5,8,8,10,5,1,0,0
+D2I0ZS,89,Male,Sunrise Healthcare,06-06-2023,18,26-03-2023,9,Successful,Fracture,Surgery,Michael Yoder,New York,NY,19777.9,TRUE,Pending,8,8,7,8,2,0,1,0
+1QTW56,51,Female,City Medical Center,14-05-2023,22,13-07-2023,1,Successful,Diabetes,Medication,Alexander Black,Chicago,IL,932.23,FALSE,Pending,4,4,5,3,1,0,0,0
+E7KC6K,19,Male,Sunrise Healthcare,06-02-2023,14,29-01-2023,7,Readmitted,Cardiac Arrest,Therapy,Jennifer Allen,Houston,TX,3757.94,FALSE,Unpaid,5,9,10,8,2,0,0,0
+PR3JRS,44,Female,City Medical Center,22-02-2023,8,09-05-2023,2,Successful,Cardiac Arrest,Surgery,Amanda Higgins,Los Angeles,CA,19496.4,TRUE,Unpaid,4,2,1,2,1,0,0,0
+9MCJA0,89,Female,City Medical Center,18-01-2023,23,20-10-2023,4,Successful,Flu,Medication,Jacqueline Johnson,Los Angeles,CA,12751,TRUE,Unpaid,1,3,5,1,2,0,1,0
+HQIFY1,40,Male,City Medical Center,07-02-2023,15,01-09-2023,3,Successful,Cardiac Arrest,Medication,Jacqueline Johnson,Miami,FL,9288.01,TRUE,Pending,1,4,2,4,5,0,0,0
+6IRUB9,85,Male,City Medical Center,06-07-2023,17,06-07-2023,5,Complication,Fracture,Surgery,Diana Boyd,Miami,FL,2035.84,FALSE,Pending,4,2,4,1,3,0,0,0
+O1R7VK,31,Male,City Medical Center,15-07-2023,21,03-09-2023,2,Complication,Flu,Observation,Victoria Taylor,Los Angeles,CA,13558.39,TRUE,Paid,3,2,2,1,2,1,0,0
+MDVGXD,80,Female,General Hospital,31-08-2023,18,27-09-2023,7,Deceased,Fracture,Medication,Mr. Luke Pena MD,Miami,FL,3187.16,TRUE,Pending,3,3,1,2,2,0,0,0
+1OACNA,82,Female,Sunrise Healthcare,27-10-2023,6,31-10-2023,8,Successful,Hypertension,Therapy,Jennifer Allen,Chicago,IL,13588.13,TRUE,Pending,10,9,8,8,3,0,0,1
+U2EJ1U,85,Male,City Medical Center,30-10-2023,23,05-12-2023,4,Complication,Fracture,Therapy,Amanda Higgins,Los Angeles,CA,19593.94,FALSE,Unpaid,3,4,5,3,5,0,0,0
+GCTS8D,80,Male,Sunrise Healthcare,04-02-2023,14,27-01-2023,8,Successful,Cardiac Arrest,Surgery,Jennifer Allen,Miami,FL,10873.47,FALSE,Pending,6,5,10,10,4,0,0,0
+EADL0W,81,Male,Sunrise Healthcare,03-08-2023,23,06-02-2023,10,Successful,Hypertension,Medication,Kyle Chen,Los Angeles,CA,4674.65,FALSE,Paid,8,9,8,8,2,0,0,0
+YUXY55,49,Female,City Medical Center,07-08-2023,3,31-03-2023,1,Readmitted,Cardiac Arrest,Therapy,Laura Lowe,Houston,TX,12693.03,TRUE,Pending,5,4,2,3,4,0,0,0
+E9P6UI,30,Female,General Hospital,12-11-2023,7,17-12-2023,4,Successful,Fracture,Medication,Robert Hutchinson,New York,NY,10502.13,TRUE,Unpaid,4,1,6,1,1,0,0,0
+F8VEWQ,83,Female,City Medical Center,31-03-2023,15,01-03-2023,3,Successful,Cardiac Arrest,Surgery,Mitchell Kennedy,Los Angeles,CA,10896.24,TRUE,Unpaid,4,2,2,1,3,0,0,0
+LWPC3V,36,Male,General Hospital,04-11-2023,21,29-08-2023,4,Complication,Cardiac Arrest,Medication,Judith Russell,New York,NY,9823.09,TRUE,Paid,4,8,8,3,3,1,0,0
+I2WM5W,41,Male,Sunrise Healthcare,09-09-2023,24,15-08-2023,8,Successful,Cardiac Arrest,Observation,Michael Yoder,Miami,FL,13637.94,FALSE,Paid,9,10,9,10,2,0,0,1
+QUBFR3,28,Female,General Hospital,08-01-2023,28,18-08-2023,7,Successful,Diabetes,Therapy,Jennifer Duran,New York,NY,11652.93,TRUE,Pending,4,7,3,1,1,0,1,0
+V63Q5N,76,Male,General Hospital,13-09-2023,16,15-02-2023,7,Successful,Hypertension,Medication,Sheryl Williams,Los Angeles,CA,19746.4,TRUE,Paid,1,6,8,5,2,0,0,0
+J97I1K,32,Male,General Hospital,29-12-2023,16,09-04-2023,2,Successful,Hypertension,Surgery,Raven Walker,Houston,TX,16604.34,FALSE,Paid,2,8,1,2,2,0,0,0
+NSO1XH,27,Male,Sunrise Healthcare,27-07-2023,8,24-11-2023,7,Readmitted,Hypertension,Medication,Charles Kennedy,Miami,FL,5661.62,TRUE,Unpaid,8,9,8,6,5,0,0,0
+I66SCJ,58,Male,Sunrise Healthcare,11-05-2023,7,24-04-2023,8,Successful,Fracture,Medication,Michelle Martin,Los Angeles,CA,14652.25,TRUE,Unpaid,7,8,7,10,3,0,0,0
+A27MA7,44,Female,General Hospital,12-08-2023,6,06-12-2023,7,Readmitted,COVID-19,Observation,Judith Russell,Miami,FL,4678.86,TRUE,Pending,7,2,4,8,3,0,0,0
+2M2XZQ,77,Male,General Hospital,16-07-2023,2,16-04-2023,2,Successful,Fracture,Therapy,Mr. Luke Pena MD,Chicago,IL,15755.75,FALSE,Pending,6,3,2,6,3,0,0,0
+GMEZCG,69,Female,City Medical Center,22-05-2023,22,12-12-2023,5,Successful,Hypertension,Therapy,Jacqueline Johnson,New York,NY,3377.37,TRUE,Pending,5,1,1,2,4,0,0,0
+AQYCO2,45,Female,General Hospital,09-09-2023,13,31-10-2023,6,Successful,Flu,Therapy,Ashley Harris,Chicago,IL,9734.3,FALSE,Pending,1,3,7,1,3,0,0,0
+5ZPY1I,82,Male,City Medical Center,06-04-2023,12,11-02-2023,4,Readmitted,Cardiac Arrest,Therapy,Mitchell Kennedy,Los Angeles,CA,15916.82,TRUE,Unpaid,5,2,2,5,4,0,0,0
+A2VPGN,34,Female,General Hospital,26-01-2023,15,02-09-2023,1,Successful,Cardiac Arrest,Observation,Robert Hutchinson,Houston,TX,5962.2,FALSE,Pending,6,5,2,1,3,0,0,0
+2SSBOC,61,Female,City Medical Center,21-04-2023,27,24-05-2023,2,Complication,COVID-19,Surgery,Laura Lowe,Miami,FL,16823.82,FALSE,Pending,3,5,5,3,2,0,0,0
+K3RB5H,27,Male,Sunrise Healthcare,03-05-2023,9,08-07-2023,7,Successful,Flu,Medication,Lauren Burns,New York,NY,13060.94,FALSE,Paid,9,8,8,8,3,0,0,0
+VFL9O1,80,Female,General Hospital,05-07-2023,2,04-05-2023,2,Deceased,Diabetes,Medication,Darrell Allen,Miami,FL,8251.69,TRUE,Pending,2,5,3,8,3,0,0,0
+RBMOT2,64,Female,General Hospital,17-06-2023,17,27-10-2023,5,Readmitted,Fracture,Medication,David Gates,Los Angeles,CA,8756.63,TRUE,Paid,8,5,1,3,5,0,0,0
+2CSCND,55,Female,General Hospital,20-02-2023,27,18-03-2023,4,Complication,Diabetes,Observation,Judith Russell,Miami,FL,18556.83,FALSE,Unpaid,3,7,8,1,5,0,0,0
+K4503B,87,Female,General Hospital,05-01-2023,29,17-03-2023,3,Readmitted,Flu,Therapy,Raven Walker,New York,NY,4746.92,FALSE,Pending,1,3,6,5,3,0,0,0
+I147OY,70,Female,City Medical Center,18-03-2023,5,03-05-2023,5,Successful,COVID-19,Therapy,Julie Butler,Los Angeles,CA,14020.57,TRUE,Paid,3,5,5,5,5,0,1,0
+9HI5Q8,61,Female,General Hospital,09-06-2023,11,13-10-2023,5,Readmitted,Flu,Surgery,Robert Hutchinson,Miami,FL,14292.24,FALSE,Pending,5,6,8,2,2,0,0,0
+S2G1I1,71,Female,Sunrise Healthcare,27-07-2023,22,29-12-2023,8,Successful,COVID-19,Medication,Lauren Burns,Houston,TX,18487.77,TRUE,Paid,8,10,8,5,4,0,0,0
+F2QPW4,37,Female,Sunrise Healthcare,14-09-2023,19,07-06-2023,8,Successful,Diabetes,Observation,Michelle Martin,Los Angeles,CA,14406.7,TRUE,Pending,5,8,10,6,1,0,0,0
+CUZ9VL,48,Male,General Hospital,24-07-2023,24,04-10-2023,3,Successful,Diabetes,Therapy,Jennifer Duran,Los Angeles,CA,11897.11,FALSE,Unpaid,2,4,5,6,1,0,0,0
+MKPHB3,24,Male,Sunrise Healthcare,12-09-2023,7,07-02-2023,9,Successful,Flu,Surgery,Charles Kennedy,Houston,TX,18099.19,FALSE,Unpaid,10,5,9,10,4,0,0,0
+3LJKOP,75,Male,General Hospital,11-01-2023,2,18-01-2023,6,Successful,Flu,Medication,Mr. Luke Pena MD,Chicago,IL,16668.07,TRUE,Paid,1,3,3,3,1,0,0,0
+QZBLZW,27,Female,General Hospital,08-01-2023,16,01-09-2023,7,Successful,Cardiac Arrest,Medication,Eduardo Wright,New York,NY,14477.14,TRUE,Paid,6,1,1,3,4,0,0,0
+R5CC3A,27,Female,Sunrise Healthcare,01-02-2023,12,15-07-2023,5,Successful,COVID-19,Medication,Michael Yoder,Chicago,IL,1135.28,TRUE,Unpaid,8,9,8,6,1,0,0,0
+351UM0,56,Female,General Hospital,28-01-2023,23,18-04-2023,1,Successful,Cardiac Arrest,Observation,Jennifer Duran,Miami,FL,7783.65,FALSE,Pending,5,2,3,6,2,0,0,0
+9GVJOO,45,Male,Sunrise Healthcare,25-07-2023,15,26-09-2023,10,Successful,Fracture,Therapy,Michael Washington,Houston,TX,12821.85,TRUE,Paid,8,8,9,8,1,0,1,0
+D5WFXT,47,Male,City Medical Center,16-08-2023,1,02-03-2023,4,Deceased,Fracture,Surgery,Jacqueline Johnson,Chicago,IL,10683.89,FALSE,Unpaid,5,2,3,4,1,0,1,0
+TL61HA,54,Male,General Hospital,08-05-2023,25,27-01-2023,6,Readmitted,Flu,Medication,Ashley Harris,Los Angeles,CA,6726.71,FALSE,Paid,7,7,2,3,5,0,1,0
+VFU58O,84,Female,City Medical Center,12-09-2023,13,07-08-2023,3,Readmitted,Diabetes,Surgery,Laura Lowe,Miami,FL,3316.27,TRUE,Unpaid,3,1,5,5,5,0,0,0
+EFY2GM,60,Male,Sunrise Healthcare,31-07-2023,23,04-11-2023,7,Successful,Fracture,Observation,Michelle Martin,Miami,FL,11283.43,FALSE,Unpaid,7,8,9,8,4,0,0,0
+RBHK60,69,Male,City Medical Center,27-08-2023,6,19-12-2023,2,Successful,Fracture,Surgery,Amanda Higgins,Chicago,IL,6075.39,FALSE,Paid,2,5,3,3,4,1,0,0
+TL405J,73,Female,City Medical Center,26-07-2023,13,16-08-2023,4,Deceased,Cardiac Arrest,Medication,Amanda Higgins,Chicago,IL,5043.51,FALSE,Paid,2,4,2,3,1,0,0,0
+C084OP,85,Male,Sunrise Healthcare,14-11-2023,18,15-01-2023,7,Readmitted,Cardiac Arrest,Therapy,Lauren Burns,Houston,TX,8279.69,FALSE,Unpaid,9,5,10,10,2,0,0,0
+M8KUK3,26,Female,City Medical Center,10-10-2023,3,13-07-2023,2,Complication,Fracture,Medication,Laura Lowe,New York,NY,15817.08,TRUE,Pending,2,2,2,4,4,0,0,0
+8V4NX5,40,Male,City Medical Center,02-09-2023,1,06-03-2023,3,Successful,Flu,Therapy,David Watkins,Chicago,IL,10013.14,TRUE,Unpaid,3,1,5,1,1,0,0,0
+95O8CP,80,Female,Sunrise Healthcare,14-02-2023,15,01-07-2023,7,Successful,Cardiac Arrest,Medication,Jennifer Allen,Chicago,IL,4721.6,FALSE,Pending,7,9,10,8,1,0,0,0
+EUJSYD,78,Female,City Medical Center,15-04-2023,26,17-11-2023,4,Complication,Fracture,Medication,Julie Butler,Los Angeles,CA,2779.61,FALSE,Pending,4,1,4,1,1,0,0,0
+2SBJYT,57,Female,Sunrise Healthcare,14-12-2023,13,29-08-2023,5,Successful,Diabetes,Medication,Michael Yoder,Miami,FL,10230.25,FALSE,Pending,6,10,10,8,3,0,0,0
+SWXK71,61,Female,City Medical Center,08-10-2023,5,26-09-2023,1,Successful,Cardiac Arrest,Therapy,Laura Lowe,New York,NY,15990.14,FALSE,Paid,3,2,3,5,2,0,0,0
+EEULDT,41,Female,Sunrise Healthcare,22-08-2023,25,15-01-2024,9,Readmitted,Fracture,Medication,Lauren Burns,Los Angeles,CA,13229.95,FALSE,Unpaid,7,10,8,10,3,0,0,0
+YNK5KR,68,Male,Sunrise Healthcare,08-07-2023,13,19-05-2023,8,Complication,COVID-19,Medication,Michael Yoder,Houston,TX,5026.9,TRUE,Unpaid,10,10,8,9,3,0,0,0
+0RWKUE,75,Female,City Medical Center,13-02-2023,22,27-02-2023,1,Successful,Cardiac Arrest,Surgery,Michelle Stewart,Houston,TX,9015.78,TRUE,Pending,4,2,3,1,4,0,1,0
+WYJVSA,50,Female,City Medical Center,13-08-2023,5,17-06-2023,1,Successful,COVID-19,Observation,Mitchell Kennedy,Chicago,IL,17176.99,TRUE,Pending,2,3,1,1,4,0,0,0
+GDAOLV,33,Female,City Medical Center,22-05-2023,28,05-04-2023,3,Deceased,Cardiac Arrest,Observation,Michelle Stewart,Chicago,IL,3964.29,TRUE,Pending,2,3,5,3,2,0,0,0
+VQ2NT6,39,Female,General Hospital,16-05-2023,19,12-03-2023,1,Successful,Cardiac Arrest,Therapy,Mr. Luke Pena MD,Houston,TX,10875.57,FALSE,Unpaid,4,6,6,4,2,1,0,0
+OLT3C1,74,Male,General Hospital,25-06-2023,21,24-12-2023,8,Complication,Hypertension,Medication,Jennifer Duran,Chicago,IL,7446.51,FALSE,Pending,6,3,2,8,3,0,0,0
+Z3MMBB,79,Female,General Hospital,22-05-2023,24,30-08-2023,2,Complication,Hypertension,Observation,Jennifer Duran,New York,NY,2921.51,TRUE,Unpaid,3,8,8,8,3,0,0,0
+9ZKHVT,88,Male,Sunrise Healthcare,21-03-2023,28,27-01-2023,9,Complication,COVID-19,Therapy,Charles Kennedy,Chicago,IL,1473.13,TRUE,Unpaid,10,9,9,9,3,0,0,0
+H2Z3QT,89,Female,City Medical Center,23-03-2023,18,03-06-2023,1,Complication,Flu,Medication,Angela Fry,Miami,FL,11339.49,TRUE,Paid,5,1,5,1,4,0,0,0
+PGP0WX,87,Female,Sunrise Healthcare,15-05-2023,21,18-03-2023,6,Successful,Fracture,Surgery,Charles Kennedy,Chicago,IL,904.6,FALSE,Pending,10,10,8,6,1,0,0,0
+I8TQ4H,47,Male,General Hospital,26-07-2023,22,11-02-2023,3,Successful,Flu,Medication,Robert Hutchinson,Los Angeles,CA,2517.2,FALSE,Pending,2,4,6,6,5,0,0,0
+O43TLQ,40,Male,City Medical Center,10-12-2023,10,10-04-2023,1,Successful,Flu,Medication,David Watkins,New York,NY,7277.5,FALSE,Pending,5,5,2,2,1,0,0,0
+32SK7G,49,Male,Sunrise Healthcare,26-06-2023,24,12-06-2023,10,Successful,Hypertension,Observation,Michelle Martin,Los Angeles,CA,1348.64,TRUE,Paid,10,5,7,10,5,0,0,1
+7TXJ5O,74,Female,City Medical Center,31-08-2023,8,26-08-2023,3,Successful,Fracture,Observation,Angela Fry,Los Angeles,CA,8308.68,TRUE,Pending,3,2,3,4,1,0,0,0
+TCHWKH,26,Male,Sunrise Healthcare,24-02-2023,15,22-05-2023,9,Successful,Hypertension,Observation,Charles Kennedy,Miami,FL,3042.12,FALSE,Unpaid,9,7,6,9,3,0,1,0
+23J19M,48,Female,City Medical Center,21-05-2023,21,16-04-2023,3,Readmitted,Hypertension,Surgery,Diana Boyd,New York,NY,7322.53,FALSE,Pending,3,5,5,3,5,0,0,1
+59ZVD4,88,Male,General Hospital,25-02-2023,25,21-07-2023,6,Successful,Hypertension,Medication,Jennifer Duran,New York,NY,15927.61,FALSE,Unpaid,1,3,7,8,1,0,0,0
+RXWVB4,26,Male,General Hospital,15-01-2023,20,01-07-2023,3,Successful,Diabetes,Surgery,Eduardo Wright,New York,NY,12714.1,TRUE,Unpaid,7,4,3,2,1,0,0,0
+K15EJX,30,Female,City Medical Center,04-07-2023,28,24-12-2023,5,Successful,Flu,Surgery,Diana Boyd,New York,NY,9185.32,FALSE,Unpaid,3,5,5,2,3,0,0,0
+8WQA44,75,Male,Sunrise Healthcare,10-11-2023,25,29-01-2023,10,Successful,Flu,Observation,Michelle Martin,New York,NY,2290.75,FALSE,Unpaid,10,8,10,8,3,0,0,0
+7IVMYR,20,Male,General Hospital,29-03-2023,27,27-12-2023,1,Successful,Flu,Medication,Eduardo Wright,Miami,FL,12573.42,TRUE,Pending,3,6,7,1,4,0,0,0
+LQOOOM,52,Female,General Hospital,07-04-2023,23,30-11-2023,4,Successful,Diabetes,Medication,Raven Walker,Chicago,IL,3692.34,FALSE,Paid,1,2,8,2,2,0,0,0
+Q5ITZ0,38,Female,General Hospital,24-05-2023,22,19-02-2023,7,Successful,Cardiac Arrest,Surgery,Sheryl Williams,Los Angeles,CA,1993.43,FALSE,Paid,3,8,5,2,4,0,0,0
+URMPIL,81,Female,City Medical Center,08-01-2023,4,01-12-2023,5,Readmitted,COVID-19,Medication,Amanda Higgins,New York,NY,13447.92,FALSE,Unpaid,4,1,3,3,3,1,0,0
+SG8RPD,69,Male,City Medical Center,03-08-2023,2,16-01-2024,5,Deceased,COVID-19,Therapy,Julie Butler,Chicago,IL,18285.17,FALSE,Pending,3,3,2,4,1,0,0,0
+Y5MQFS,51,Male,Sunrise Healthcare,22-06-2023,24,05-11-2023,10,Deceased,Diabetes,Medication,Jennifer Allen,Chicago,IL,9481.57,TRUE,Paid,8,5,9,8,1,0,0,0
+MZN4DH,52,Male,Sunrise Healthcare,11-08-2023,6,21-11-2023,8,Successful,Flu,Surgery,Lauren Burns,Los Angeles,CA,1299.42,FALSE,Pending,10,7,9,10,4,0,0,0
+YM513C,32,Male,Sunrise Healthcare,09-02-2023,28,17-01-2023,7,Successful,COVID-19,Medication,Bill Aguirre,Miami,FL,17665.81,TRUE,Paid,8,10,5,10,1,0,0,0
+1C7PV5,23,Male,City Medical Center,01-07-2023,3,30-08-2023,5,Successful,Diabetes,Observation,Gloria Hanson,Houston,TX,1805.99,FALSE,Unpaid,3,3,4,2,1,0,0,0
+HHFN58,49,Female,City Medical Center,27-09-2023,7,18-10-2023,2,Successful,Hypertension,Therapy,Laura Lowe,Houston,TX,17416.51,TRUE,Unpaid,3,2,2,4,2,0,0,1
+JCL42E,69,Male,Sunrise Healthcare,06-07-2023,10,18-12-2023,6,Successful,Fracture,Surgery,Jennifer Allen,Chicago,IL,8140.48,FALSE,Unpaid,9,10,6,8,2,0,0,0
+Y4UTVD,45,Female,Sunrise Healthcare,02-09-2023,23,17-03-2023,8,Successful,COVID-19,Therapy,Bill Aguirre,Los Angeles,CA,7625.19,FALSE,Paid,5,9,7,5,1,0,0,0
+MTMQ96,81,Male,City Medical Center,05-11-2023,6,26-09-2023,3,Complication,Fracture,Surgery,Mitchell Kennedy,Houston,TX,11084.55,TRUE,Pending,2,3,1,4,3,0,1,0
+AOMQXH,36,Female,Sunrise Healthcare,19-08-2023,16,26-04-2023,5,Successful,Flu,Therapy,Michael Washington,Chicago,IL,19163.15,FALSE,Unpaid,6,9,8,7,3,0,0,0
+0WHHZM,32,Male,General Hospital,04-06-2023,2,22-07-2023,7,Successful,COVID-19,Surgery,Mr. Luke Pena MD,Miami,FL,18025.44,FALSE,Pending,5,6,6,1,3,0,0,0
+1YPBRQ,23,Male,City Medical Center,24-06-2023,24,13-09-2023,3,Successful,Diabetes,Medication,Amanda Higgins,Houston,TX,9671.44,TRUE,Pending,4,1,3,2,1,0,0,0
+3M523R,55,Female,Sunrise Healthcare,02-12-2023,17,05-04-2023,5,Successful,Cardiac Arrest,Surgery,Michelle Martin,Chicago,IL,14068.55,FALSE,Unpaid,8,9,6,10,5,1,0,0
+MU3UQS,43,Male,City Medical Center,25-04-2023,13,03-12-2023,3,Readmitted,COVID-19,Medication,Gloria Hanson,Chicago,IL,11818.37,FALSE,Paid,1,5,3,4,4,1,0,0
+OIJ4W3,68,Female,General Hospital,07-11-2023,1,14-02-2023,8,Successful,COVID-19,Surgery,Judith Russell,New York,NY,14022.5,FALSE,Unpaid,4,4,4,4,4,0,0,0
+6IA8K7,70,Male,City Medical Center,27-10-2023,6,26-09-2023,5,Successful,COVID-19,Surgery,Diana Boyd,Miami,FL,16671.89,FALSE,Unpaid,4,5,5,1,5,0,0,0
+PI5OL6,73,Male,City Medical Center,18-01-2023,5,27-05-2023,1,Successful,COVID-19,Therapy,Michelle Stewart,New York,NY,1172.63,FALSE,Paid,3,4,4,1,1,0,0,0
+NHH0LA,76,Female,City Medical Center,29-09-2023,25,09-03-2023,3,Successful,Diabetes,Therapy,Michelle Stewart,Los Angeles,CA,6852.32,TRUE,Pending,2,2,5,1,4,0,0,0
+K4Q652,87,Male,City Medical Center,12-01-2023,13,23-12-2023,5,Successful,Diabetes,Surgery,Jacqueline Johnson,New York,NY,19206.92,TRUE,Paid,4,5,5,1,4,0,1,1
+UUWFVH,75,Female,General Hospital,28-10-2023,28,26-09-2023,7,Deceased,Cardiac Arrest,Medication,Sheryl Williams,New York,NY,19012.06,FALSE,Paid,1,8,6,4,3,0,1,0
+8KXUBS,30,Male,City Medical Center,11-07-2023,23,30-03-2023,4,Deceased,Diabetes,Medication,Amanda Higgins,Houston,TX,718.81,FALSE,Unpaid,5,4,3,2,3,0,0,0
+1QFS1B,60,Male,City Medical Center,20-08-2023,18,09-01-2023,3,Complication,Diabetes,Therapy,Gloria Hanson,Chicago,IL,4428.08,TRUE,Paid,3,4,3,2,4,0,0,0
+DVZ9M5,68,Male,Sunrise Healthcare,03-04-2023,29,14-03-2023,10,Successful,Flu,Medication,Charles Kennedy,Miami,FL,19878.52,TRUE,Paid,6,10,5,9,5,0,0,0
+Q9S81A,36,Male,City Medical Center,06-08-2023,12,18-09-2023,2,Successful,Flu,Observation,Jacqueline Johnson,New York,NY,10110.09,TRUE,Paid,4,2,5,2,2,0,0,0
+R6LHXP,38,Male,Sunrise Healthcare,05-10-2023,7,14-09-2023,8,Successful,Fracture,Medication,Lauren Burns,Miami,FL,11670.89,TRUE,Pending,9,10,8,10,5,0,1,0
+D0IPL4,41,Male,General Hospital,19-12-2023,15,16-10-2023,3,Readmitted,Cardiac Arrest,Surgery,Judith Russell,New York,NY,3745.19,TRUE,Pending,1,3,3,8,2,0,0,0
+XNY7CX,43,Male,General Hospital,30-10-2023,3,22-01-2023,7,Complication,Flu,Observation,Darrell Allen,Los Angeles,CA,17939.54,TRUE,Unpaid,6,2,2,7,3,0,0,0
+IZTJSC,62,Female,General Hospital,29-01-2023,16,27-03-2023,6,Readmitted,Cardiac Arrest,Medication,Judith Russell,New York,NY,5009.65,FALSE,Unpaid,8,1,4,2,1,0,0,0
+XEC0PO,45,Male,General Hospital,28-10-2023,1,19-08-2023,4,Successful,Cardiac Arrest,Observation,Jennifer Duran,Houston,TX,4198.13,FALSE,Pending,5,7,7,2,5,0,0,0
+8LZ7W4,46,Male,Sunrise Healthcare,18-03-2023,27,18-07-2023,7,Successful,COVID-19,Medication,Michelle Martin,Chicago,IL,4948.39,FALSE,Paid,6,8,9,7,2,0,0,0
+TLWDWA,34,Male,City Medical Center,09-01-2023,16,16-12-2023,2,Successful,Hypertension,Observation,Gloria Hanson,Los Angeles,CA,18432.62,FALSE,Unpaid,3,5,4,5,5,0,0,0
+YB3CUY,85,Female,General Hospital,24-01-2023,24,10-10-2023,2,Successful,Hypertension,Medication,Mr. Luke Pena MD,New York,NY,14205.51,FALSE,Unpaid,8,3,8,4,2,1,0,0
+TVU6OO,61,Female,City Medical Center,15-01-2023,12,07-05-2023,1,Successful,Hypertension,Surgery,Alexander Black,Miami,FL,15487.63,TRUE,Paid,2,5,2,1,2,0,1,0
+YUXEFW,78,Male,Sunrise Healthcare,13-06-2023,19,18-09-2023,8,Successful,Cardiac Arrest,Observation,Michelle Martin,Los Angeles,CA,7852.21,TRUE,Paid,10,10,9,9,3,0,0,0
+D0RU18,85,Male,Sunrise Healthcare,13-01-2023,27,22-03-2023,9,Complication,COVID-19,Observation,Bill Aguirre,Los Angeles,CA,18228.95,TRUE,Paid,7,9,8,6,4,0,1,0
+VWCJYH,42,Male,Sunrise Healthcare,13-12-2023,8,22-02-2023,5,Successful,Fracture,Medication,Kyle Chen,New York,NY,15893.46,TRUE,Paid,8,9,10,10,1,0,0,0
+KE2EIB,84,Female,General Hospital,21-06-2023,23,02-12-2023,6,Successful,Fracture,Medication,Ashley Harris,Los Angeles,CA,15136.65,TRUE,Paid,1,2,3,7,4,0,0,0
+A3K1LZ,19,Male,City Medical Center,23-12-2023,12,26-07-2023,4,Successful,Hypertension,Medication,Julie Butler,Miami,FL,19433.34,TRUE,Pending,3,3,1,2,5,0,0,1
+MH13I4,66,Female,City Medical Center,23-11-2023,15,02-07-2023,3,Successful,Fracture,Medication,Mitchell Kennedy,Los Angeles,CA,7640.84,FALSE,Paid,1,3,5,3,2,0,1,0
+U74YLA,87,Male,City Medical Center,19-07-2023,2,26-08-2023,4,Complication,COVID-19,Surgery,Michelle Stewart,Miami,FL,12413.99,FALSE,Unpaid,5,1,3,5,5,0,0,0
+VAAUOQ,43,Female,Sunrise Healthcare,17-03-2023,29,08-08-2023,5,Successful,Hypertension,Therapy,Michael Washington,New York,NY,18243.63,TRUE,Pending,10,9,5,8,4,0,1,0
+V8PHQQ,89,Female,General Hospital,13-06-2023,17,16-09-2023,4,Successful,COVID-19,Medication,Jennifer Duran,Chicago,IL,15922.33,FALSE,Unpaid,1,2,2,2,1,0,0,0
+ZMQQNF,44,Male,Sunrise Healthcare,02-03-2023,7,04-12-2023,10,Readmitted,Fracture,Surgery,Michelle Martin,Los Angeles,CA,11485.89,TRUE,Paid,9,9,9,9,2,1,0,0
+8NHO0M,35,Male,Sunrise Healthcare,02-09-2023,13,08-08-2023,10,Successful,Hypertension,Observation,Michelle Martin,Chicago,IL,1986.17,FALSE,Unpaid,8,10,9,9,3,0,0,0
+48FEVW,71,Male,City Medical Center,04-06-2023,1,29-10-2023,1,Successful,COVID-19,Medication,Angela Fry,Miami,FL,13228.11,TRUE,Paid,5,4,1,5,3,0,0,0
+Y7ZEZT,18,Male,Sunrise Healthcare,14-09-2023,6,12-12-2023,9,Complication,Diabetes,Medication,Michael Washington,Los Angeles,CA,10767.83,TRUE,Unpaid,9,10,6,8,1,0,1,0
+FFRDQN,78,Male,City Medical Center,01-09-2023,13,20-07-2023,1,Readmitted,Diabetes,Medication,Diana Boyd,Houston,TX,4091.52,FALSE,Unpaid,3,2,5,5,4,0,0,0
+NMGOS8,20,Male,General Hospital,11-06-2023,11,12-12-2023,2,Successful,COVID-19,Surgery,Jennifer Duran,Chicago,IL,17703.94,TRUE,Paid,6,6,6,1,5,0,0,0
+Q8ST98,85,Male,City Medical Center,09-03-2023,10,26-07-2023,1,Successful,COVID-19,Medication,Diana Boyd,Los Angeles,CA,7193.35,FALSE,Unpaid,4,2,1,3,2,0,0,0
+5XQGA8,58,Female,General Hospital,10-12-2023,16,13-01-2024,1,Successful,Flu,Therapy,Darrell Allen,Chicago,IL,8055.86,FALSE,Pending,6,1,2,8,3,0,0,0
+59MFNO,54,Male,City Medical Center,04-10-2023,27,21-07-2023,1,Complication,Flu,Surgery,Julie Butler,Los Angeles,CA,13611.83,TRUE,Unpaid,3,3,4,5,2,0,1,0
+DP1PDZ,68,Male,Sunrise Healthcare,10-06-2023,26,08-12-2023,7,Successful,Cardiac Arrest,Surgery,Jennifer Allen,New York,NY,10031.58,TRUE,Pending,7,10,8,9,1,0,0,0
+15B4CH,32,Female,Sunrise Healthcare,16-09-2023,24,30-06-2023,10,Complication,Hypertension,Medication,Lauren Burns,Chicago,IL,2240.98,TRUE,Pending,9,5,10,9,4,1,0,0
+XO4IBH,25,Male,General Hospital,03-11-2023,23,21-09-2023,3,Readmitted,Cardiac Arrest,Medication,Robert Hutchinson,Houston,TX,8055.11,FALSE,Unpaid,5,7,6,5,2,0,1,0
+GP83JR,55,Male,General Hospital,01-12-2023,20,19-05-2023,5,Readmitted,Cardiac Arrest,Therapy,Mr. Luke Pena MD,Houston,TX,2342.09,FALSE,Pending,6,8,1,5,4,0,0,0
+E27WE3,73,Male,General Hospital,05-04-2023,17,26-08-2023,8,Successful,Fracture,Surgery,Judith Russell,Miami,FL,4219.63,TRUE,Pending,1,1,6,3,5,0,0,0
+FD2WF5,64,Male,City Medical Center,03-09-2023,17,23-05-2023,4,Successful,Diabetes,Medication,Alexander Black,Los Angeles,CA,639.9,TRUE,Unpaid,5,3,5,5,2,0,0,1
+RO5IJT,27,Female,City Medical Center,09-08-2023,4,28-02-2023,4,Successful,Fracture,Therapy,Alexander Black,Chicago,IL,4035.61,TRUE,Paid,3,1,4,4,4,0,0,0
+FCKQ5D,66,Female,General Hospital,03-05-2023,5,18-07-2023,1,Complication,Hypertension,Observation,Sheryl Williams,Miami,FL,6943.72,TRUE,Paid,5,4,8,6,1,0,0,0
+DQSE5V,58,Male,Sunrise Healthcare,06-07-2023,28,09-01-2024,9,Successful,COVID-19,Surgery,Bill Aguirre,Chicago,IL,10995.26,TRUE,Pending,7,8,9,8,4,0,0,0
+F8VATV,47,Male,City Medical Center,19-09-2023,23,13-08-2023,5,Successful,Flu,Therapy,David Watkins,Los Angeles,CA,18425.91,TRUE,Pending,5,1,2,2,5,0,0,0
+KMCILW,22,Female,City Medical Center,30-09-2023,14,05-12-2023,2,Successful,Hypertension,Observation,Mitchell Kennedy,Houston,TX,11036.37,TRUE,Paid,4,1,3,3,5,0,0,0
+N6RIWJ,88,Male,City Medical Center,01-03-2023,20,05-10-2023,2,Successful,COVID-19,Medication,Victoria Taylor,New York,NY,14259.27,FALSE,Pending,5,5,2,3,3,0,0,0
+SEW3Y1,48,Female,General Hospital,05-05-2023,10,14-02-2023,1,Successful,Hypertension,Medication,Raven Walker,Houston,TX,7474.7,FALSE,Paid,5,2,4,6,1,0,0,1
+7YJN3Y,69,Female,General Hospital,03-12-2023,14,11-10-2023,2,Successful,COVID-19,Medication,Raven Walker,Miami,FL,15156.8,TRUE,Unpaid,1,2,3,7,2,0,0,0
+N87J8K,40,Female,General Hospital,07-12-2023,28,01-02-2023,6,Successful,Flu,Medication,Darrell Allen,New York,NY,12599.14,TRUE,Pending,4,7,6,3,1,0,0,0
+KUUVGQ,65,Male,General Hospital,20-02-2023,1,11-09-2023,2,Successful,COVID-19,Medication,Robert Hutchinson,Miami,FL,9465.98,FALSE,Unpaid,2,4,7,1,4,0,0,0
+BLRKPR,57,Male,General Hospital,27-06-2023,11,27-07-2023,2,Successful,Cardiac Arrest,Medication,Sheryl Williams,Los Angeles,CA,4278.49,TRUE,Paid,3,4,1,2,4,0,0,0
+8ZPFLM,23,Male,Sunrise Healthcare,19-05-2023,26,09-03-2023,5,Readmitted,Hypertension,Medication,Michael Yoder,New York,NY,6419.05,FALSE,Paid,9,8,10,9,1,0,0,0
+DBZ00O,55,Female,Sunrise Healthcare,23-11-2023,23,10-06-2023,9,Readmitted,Flu,Medication,Charles Kennedy,Miami,FL,12608.45,FALSE,Unpaid,6,10,10,10,3,0,0,0
+HGLMQQ,58,Male,General Hospital,19-06-2023,18,17-05-2023,2,Successful,COVID-19,Therapy,Raven Walker,Los Angeles,CA,8808.1,TRUE,Pending,1,8,1,7,5,0,0,0
+9UHEZP,44,Male,City Medical Center,08-02-2023,16,03-03-2023,3,Successful,Cardiac Arrest,Therapy,Alexander Black,Houston,TX,17843.04,FALSE,Unpaid,3,1,4,3,4,0,0,0
+912L3W,86,Female,General Hospital,10-03-2023,29,26-11-2023,2,Complication,Cardiac Arrest,Medication,Raven Walker,Los Angeles,CA,5079.39,FALSE,Unpaid,4,2,5,1,4,0,0,0
+PNJG2C,74,Male,Sunrise Healthcare,24-08-2023,27,09-12-2023,9,Successful,Diabetes,Medication,Michael Washington,Chicago,IL,1924.92,TRUE,Pending,8,10,8,6,2,0,0,0
+O9SMU0,34,Male,Sunrise Healthcare,17-02-2023,18,14-10-2023,8,Successful,Cardiac Arrest,Medication,Michael Washington,Los Angeles,CA,11992.3,TRUE,Paid,7,9,10,5,3,0,0,1
+2TYF9B,88,Male,City Medical Center,26-02-2023,8,10-01-2023,3,Successful,Fracture,Therapy,Laura Lowe,Los Angeles,CA,17777.99,FALSE,Unpaid,1,4,3,5,2,0,0,0
+V5PRE9,64,Female,Sunrise Healthcare,04-10-2023,28,12-07-2023,8,Successful,Flu,Medication,Michael Yoder,Chicago,IL,7612.41,TRUE,Unpaid,5,8,9,8,2,0,0,0
+3SW7M2,30,Male,General Hospital,04-12-2023,10,02-06-2023,6,Successful,Flu,Observation,Mr. Luke Pena MD,Miami,FL,13130.37,FALSE,Paid,7,3,4,6,5,0,0,0
+9V9ISF,28,Female,City Medical Center,09-04-2023,26,09-07-2023,4,Readmitted,Flu,Medication,Alexander Black,Miami,FL,5012.55,FALSE,Unpaid,4,2,5,4,1,1,0,0
+OTI5DR,41,Female,General Hospital,15-01-2023,10,15-01-2024,5,Complication,COVID-19,Medication,Darrell Allen,Los Angeles,CA,11390.2,FALSE,Paid,6,6,4,1,5,0,0,0
+ETWKVD,21,Female,General Hospital,21-11-2023,5,06-04-2023,3,Successful,Hypertension,Therapy,Darrell Allen,Chicago,IL,15842.45,FALSE,Pending,5,7,7,3,3,0,0,0
+27MI4G,63,Male,City Medical Center,28-06-2023,10,01-05-2023,5,Successful,COVID-19,Medication,Laura Lowe,Chicago,IL,17407.12,FALSE,Paid,4,2,4,5,2,0,0,1
+DS348U,35,Male,General Hospital,28-11-2023,18,11-05-2023,7,Successful,Fracture,Therapy,Jennifer Duran,Houston,TX,2549.82,FALSE,Paid,4,7,7,8,5,0,0,0
+4S45BJ,60,Male,Sunrise Healthcare,03-03-2023,21,10-11-2023,10,Successful,Hypertension,Medication,Charles Kennedy,Miami,FL,7449.3,TRUE,Unpaid,8,10,6,10,2,0,0,1
+BBXQ5P,50,Female,General Hospital,29-04-2023,24,03-12-2023,2,Successful,Cardiac Arrest,Medication,Mr. Luke Pena MD,New York,NY,12973.07,TRUE,Paid,7,8,4,7,1,0,0,0
+P4XAKU,27,Female,City Medical Center,06-02-2023,6,28-04-2023,2,Successful,COVID-19,Surgery,Michelle Stewart,Miami,FL,1177.1,TRUE,Paid,1,4,1,3,4,0,0,0
+DGZL4Q,76,Male,City Medical Center,14-05-2023,3,06-05-2023,5,Readmitted,Hypertension,Medication,Angela Fry,Miami,FL,13967,TRUE,Unpaid,3,4,4,5,5,0,0,0
+6K15A1,48,Female,City Medical Center,26-01-2023,8,08-06-2023,4,Successful,Cardiac Arrest,Medication,Mitchell Kennedy,Houston,TX,10796.66,FALSE,Paid,2,3,3,4,1,0,0,0
+GBXDSZ,45,Male,General Hospital,08-01-2023,9,18-12-2023,3,Readmitted,Hypertension,Therapy,Robert Hutchinson,New York,NY,6127.04,FALSE,Unpaid,2,7,4,2,2,0,0,0
+KKCLC0,77,Male,City Medical Center,04-01-2023,5,22-08-2023,5,Successful,Cardiac Arrest,Therapy,Angela Fry,Houston,TX,16385.76,FALSE,Pending,1,4,5,5,2,0,0,0
+BPB3T1,20,Male,City Medical Center,21-01-2023,29,11-11-2023,1,Successful,Hypertension,Medication,Amanda Higgins,New York,NY,6155.99,FALSE,Paid,3,1,3,1,4,0,0,0
+Y5J6MP,72,Male,General Hospital,29-05-2023,2,10-05-2023,4,Successful,COVID-19,Surgery,Raven Walker,Los Angeles,CA,19832.59,FALSE,Pending,2,7,6,7,2,0,1,0
+VT0P75,31,Male,Sunrise Healthcare,25-01-2023,2,21-05-2023,8,Successful,COVID-19,Medication,Michael Yoder,New York,NY,16419.22,TRUE,Paid,10,8,9,8,4,0,0,0
+ZYBLIL,75,Male,General Hospital,23-05-2023,7,04-09-2023,4,Readmitted,Fracture,Medication,Eduardo Wright,Houston,TX,14305.62,TRUE,Paid,7,8,2,3,4,0,0,0
+ZIJ57T,32,Male,City Medical Center,02-09-2023,17,02-01-2024,4,Successful,Diabetes,Medication,Victoria Taylor,Miami,FL,1696.28,TRUE,Pending,5,1,4,4,4,0,0,0
+BA9X0B,19,Female,City Medical Center,12-02-2023,10,15-08-2023,5,Successful,Flu,Therapy,Michelle Stewart,New York,NY,18134.05,FALSE,Pending,3,4,2,5,3,0,1,0
+4NB2OL,41,Male,General Hospital,20-10-2023,12,03-12-2023,6,Successful,COVID-19,Observation,Eduardo Wright,New York,NY,15906.08,FALSE,Unpaid,6,7,8,2,1,0,0,0
+1TXUJN,81,Female,Sunrise Healthcare,04-07-2023,2,17-05-2023,8,Successful,COVID-19,Observation,Michael Yoder,Chicago,IL,4965.99,TRUE,Unpaid,6,9,8,9,1,0,0,0
+RXN7LV,88,Female,City Medical Center,11-02-2023,10,05-01-2024,4,Successful,Cardiac Arrest,Surgery,Gloria Hanson,Miami,FL,8148.84,FALSE,Pending,5,2,4,2,5,0,0,0
+F99VNP,41,Male,City Medical Center,02-04-2023,20,02-03-2023,5,Successful,Diabetes,Observation,Amanda Higgins,Los Angeles,CA,5738.32,FALSE,Paid,4,1,3,1,5,0,0,0
+9Y569T,44,Female,City Medical Center,13-11-2023,1,03-05-2023,3,Deceased,COVID-19,Therapy,David Watkins,Houston,TX,19696.11,TRUE,Unpaid,1,2,5,3,4,0,0,0
+RCW5PE,54,Female,General Hospital,20-11-2023,4,04-02-2023,6,Complication,Hypertension,Medication,Mr. Luke Pena MD,Los Angeles,CA,17156.83,FALSE,Paid,5,6,1,6,5,0,0,0
+DUN4NF,56,Female,City Medical Center,22-02-2023,13,30-10-2023,1,Successful,Diabetes,Medication,Michelle Stewart,Miami,FL,18639.39,TRUE,Unpaid,4,3,3,2,3,0,0,0
+LPQWNG,80,Male,Sunrise Healthcare,25-03-2023,12,23-09-2023,10,Successful,Flu,Medication,Charles Kennedy,New York,NY,15881.1,TRUE,Unpaid,10,9,6,5,1,0,0,0
+5OQ7E0,43,Male,City Medical Center,03-02-2023,11,15-10-2023,2,Successful,Hypertension,Observation,Amanda Higgins,New York,NY,9398.79,TRUE,Unpaid,2,4,1,3,4,0,0,0
+WNO648,82,Male,City Medical Center,17-03-2023,29,24-05-2023,4,Successful,Cardiac Arrest,Medication,Alexander Black,Miami,FL,4505.97,TRUE,Pending,4,1,3,4,3,0,0,0
+Q1SW5M,21,Male,Sunrise Healthcare,19-12-2023,10,26-12-2023,9,Readmitted,Fracture,Observation,Michael Washington,New York,NY,4557.56,FALSE,Paid,8,5,8,10,1,0,0,0
+T8EI2F,46,Male,City Medical Center,16-07-2023,15,10-11-2023,1,Complication,Hypertension,Observation,Alexander Black,New York,NY,3457.82,FALSE,Pending,5,3,5,4,4,0,0,0
+Y4VBE0,18,Female,General Hospital,13-10-2023,5,01-12-2023,1,Successful,Flu,Surgery,David Gates,New York,NY,11159.67,FALSE,Unpaid,4,4,5,7,3,1,0,0
+YHATW5,67,Female,General Hospital,29-03-2023,25,02-02-2023,1,Successful,Hypertension,Surgery,Judith Russell,Houston,TX,18439.35,TRUE,Pending,3,2,3,8,3,0,1,0
+KXK2ZP,28,Male,General Hospital,23-08-2023,17,06-03-2023,2,Deceased,Diabetes,Medication,Ashley Harris,Houston,TX,19840.06,FALSE,Pending,1,7,5,3,1,0,1,0
+8TCAAQ,76,Female,Sunrise Healthcare,20-08-2023,28,26-09-2023,6,Deceased,Diabetes,Medication,Jennifer Allen,Chicago,IL,6102.35,TRUE,Pending,8,10,8,9,5,0,0,0
+B2TFH2,79,Female,City Medical Center,07-01-2023,5,23-02-2023,4,Successful,Flu,Medication,Laura Lowe,Los Angeles,CA,14097.63,FALSE,Paid,2,4,4,4,4,0,0,0
+6C8E0L,53,Female,General Hospital,19-10-2023,2,29-03-2023,5,Successful,Diabetes,Therapy,David Gates,Miami,FL,12143.41,FALSE,Pending,5,1,4,8,5,0,1,0
+TTIDS0,73,Female,Sunrise Healthcare,07-02-2023,9,19-06-2023,9,Successful,Hypertension,Medication,Kyle Chen,Miami,FL,10034.25,TRUE,Pending,8,5,9,9,4,0,0,0
+MMV1VS,38,Male,City Medical Center,21-02-2023,6,25-11-2023,1,Readmitted,Fracture,Medication,David Watkins,Miami,FL,13482.49,FALSE,Pending,2,1,2,1,2,0,0,0
+HHZZWM,30,Male,Sunrise Healthcare,23-05-2023,18,03-01-2023,8,Successful,Hypertension,Therapy,Jennifer Allen,Chicago,IL,7741.58,TRUE,Pending,8,10,10,6,3,0,0,0
+1ITSLO,26,Male,General Hospital,09-08-2023,14,04-10-2023,3,Complication,Fracture,Observation,Darrell Allen,Houston,TX,18917.45,TRUE,Pending,1,2,7,4,1,0,0,0
+4NKZ0K,28,Female,General Hospital,28-08-2023,19,14-10-2023,5,Successful,Diabetes,Therapy,Eduardo Wright,Chicago,IL,14256.25,FALSE,Pending,1,7,2,1,1,0,0,0
+7SF1A8,87,Female,General Hospital,23-05-2023,14,27-03-2023,6,Successful,Hypertension,Medication,Judith Russell,Miami,FL,15206.92,FALSE,Pending,1,2,7,7,4,0,0,0
+HGKDYL,18,Male,Sunrise Healthcare,15-12-2023,8,28-06-2023,10,Successful,Diabetes,Medication,Kyle Chen,Los Angeles,CA,5227.23,FALSE,Unpaid,10,10,10,9,5,0,0,0
+ZLXPMY,87,Male,Sunrise Healthcare,29-12-2023,17,21-11-2023,8,Readmitted,Fracture,Surgery,Lauren Burns,New York,NY,3787.35,FALSE,Pending,9,6,7,7,3,0,0,0
+DK5GK1,73,Female,General Hospital,18-02-2023,28,27-12-2023,8,Successful,Diabetes,Observation,Jennifer Duran,Houston,TX,8189.65,TRUE,Pending,5,6,6,3,4,0,1,1
+WW1ZY2,48,Male,Sunrise Healthcare,04-10-2023,3,26-07-2023,9,Complication,COVID-19,Medication,Michelle Martin,Houston,TX,15450.11,TRUE,Paid,8,8,8,5,1,0,0,0
+S69NN8,54,Male,General Hospital,28-09-2023,29,13-08-2023,4,Successful,Cardiac Arrest,Therapy,Darrell Allen,Chicago,IL,18806.52,FALSE,Unpaid,2,3,5,4,1,1,1,0
+31QCP3,64,Female,General Hospital,14-01-2023,10,08-06-2023,4,Readmitted,Hypertension,Therapy,Raven Walker,Houston,TX,8832.93,FALSE,Pending,6,5,6,2,1,0,0,0
+2OYWYG,64,Female,City Medical Center,25-10-2023,17,18-05-2023,4,Readmitted,COVID-19,Medication,Amanda Higgins,Miami,FL,15596.06,FALSE,Paid,3,5,2,1,3,0,0,0
+VQRJJG,86,Male,Sunrise Healthcare,15-01-2023,27,27-04-2023,8,Successful,Diabetes,Observation,Kyle Chen,Miami,FL,9672.95,TRUE,Pending,10,5,6,8,5,0,0,0
+06A7DQ,75,Female,General Hospital,22-08-2023,11,09-08-2023,2,Readmitted,Diabetes,Therapy,Sheryl Williams,Chicago,IL,6256.95,FALSE,Pending,5,7,3,5,1,0,0,0
+DZDAG3,53,Male,General Hospital,04-03-2023,8,25-07-2023,6,Successful,Cardiac Arrest,Surgery,Raven Walker,Miami,FL,14915.67,TRUE,Pending,3,2,2,3,4,0,0,0
+I8HXS9,49,Female,Sunrise Healthcare,15-07-2023,1,29-10-2023,7,Successful,Diabetes,Observation,Bill Aguirre,Los Angeles,CA,16064.94,FALSE,Pending,8,8,5,8,4,0,1,0
+05NR12,81,Female,City Medical Center,27-01-2023,13,30-07-2023,4,Successful,Cardiac Arrest,Medication,Michelle Stewart,Chicago,IL,4455.4,FALSE,Pending,3,3,4,5,3,0,0,0
+P84DQZ,88,Male,City Medical Center,03-04-2023,21,21-05-2023,2,Readmitted,Hypertension,Medication,Gloria Hanson,Los Angeles,CA,6450.81,TRUE,Paid,3,2,4,5,4,0,0,0
+D33VKB,59,Female,General Hospital,15-04-2023,4,20-09-2023,3,Readmitted,Fracture,Medication,Darrell Allen,New York,NY,10148.15,TRUE,Pending,1,6,3,3,4,0,1,0
+L39RZG,65,Male,Sunrise Healthcare,05-11-2023,7,10-06-2023,8,Successful,Cardiac Arrest,Therapy,Charles Kennedy,Los Angeles,CA,4137.18,FALSE,Paid,10,5,7,6,2,0,0,0
+AZWZFF,47,Female,City Medical Center,21-02-2023,14,11-08-2023,1,Complication,Cardiac Arrest,Observation,Julie Butler,New York,NY,18612.27,TRUE,Pending,1,1,2,2,3,1,0,0
+HXVSR4,38,Male,Sunrise Healthcare,15-11-2023,5,23-02-2023,6,Successful,COVID-19,Therapy,Michelle Martin,New York,NY,12031.01,TRUE,Paid,9,10,10,7,3,0,1,0
+36JL30,77,Female,Sunrise Healthcare,30-06-2023,24,05-03-2023,5,Readmitted,Diabetes,Medication,Bill Aguirre,Los Angeles,CA,2863.46,FALSE,Unpaid,10,8,7,8,2,0,0,0
+IUL26O,30,Female,General Hospital,26-02-2023,28,09-06-2023,1,Successful,Hypertension,Medication,Robert Hutchinson,Chicago,IL,4088.58,TRUE,Pending,6,4,4,2,2,0,0,0
+BRCGR6,18,Male,City Medical Center,30-04-2023,11,02-08-2023,5,Successful,Fracture,Medication,Julie Butler,Miami,FL,19109.93,TRUE,Unpaid,4,4,5,5,1,0,0,0
+4KDRD7,82,Female,General Hospital,04-11-2023,17,18-03-2023,8,Successful,Flu,Surgery,Darrell Allen,Miami,FL,14894.29,FALSE,Unpaid,5,8,3,1,5,0,0,0
+2XVBFY,50,Male,City Medical Center,29-12-2023,5,16-08-2023,1,Successful,Cardiac Arrest,Medication,Michelle Stewart,New York,NY,14820.9,FALSE,Unpaid,4,4,3,4,4,0,0,1
+UP4N15,55,Female,City Medical Center,12-02-2023,20,31-01-2023,5,Successful,Flu,Surgery,Jacqueline Johnson,New York,NY,1913.72,TRUE,Pending,2,4,1,1,4,0,0,0
+1IV5EW,42,Female,City Medical Center,15-05-2023,3,04-06-2023,3,Successful,Diabetes,Medication,Victoria Taylor,Chicago,IL,17958.33,FALSE,Unpaid,4,5,2,1,5,0,0,0
+E5JOG2,43,Male,City Medical Center,17-09-2023,5,29-04-2023,5,Successful,Cardiac Arrest,Medication,Jacqueline Johnson,Houston,TX,9152.84,TRUE,Paid,1,3,5,2,4,0,0,0
+CSJ12O,76,Female,City Medical Center,16-07-2023,26,30-06-2023,4,Deceased,Flu,Medication,Gloria Hanson,Los Angeles,CA,13364.49,TRUE,Pending,4,3,1,5,2,1,0,0
+8FLM2S,50,Female,Sunrise Healthcare,13-05-2023,15,28-08-2023,6,Successful,COVID-19,Surgery,Charles Kennedy,New York,NY,19213.94,TRUE,Unpaid,8,10,5,10,1,0,0,0
+CHHTDU,58,Male,General Hospital,12-09-2023,19,26-03-2023,5,Deceased,Flu,Medication,Ashley Harris,Miami,FL,2450.24,FALSE,Pending,4,3,8,7,2,0,0,0
+CHWPMC,47,Female,Sunrise Healthcare,08-08-2023,16,03-08-2023,5,Successful,COVID-19,Medication,Michelle Martin,Chicago,IL,9904.39,TRUE,Unpaid,7,10,7,5,4,0,0,0
+INMGOG,74,Male,City Medical Center,02-12-2023,8,01-07-2023,2,Successful,Fracture,Surgery,Julie Butler,Los Angeles,CA,1467.45,TRUE,Paid,2,2,5,3,3,0,0,1
+7VXAJP,66,Male,General Hospital,10-02-2023,13,10-03-2023,4,Successful,Diabetes,Therapy,Raven Walker,Chicago,IL,10241.14,TRUE,Pending,2,7,3,6,1,1,0,0
+HYLYQZ,65,Male,City Medical Center,12-09-2023,16,22-04-2023,4,Complication,Hypertension,Medication,Julie Butler,Los Angeles,CA,5419.06,FALSE,Pending,2,2,4,5,4,0,0,0
+N9WFEY,89,Female,General Hospital,02-01-2023,3,01-10-2023,8,Complication,Flu,Medication,Mr. Luke Pena MD,Los Angeles,CA,18265.78,FALSE,Unpaid,3,6,1,6,2,0,0,1
+RMN1R1,66,Female,Sunrise Healthcare,14-07-2023,1,21-01-2024,10,Successful,Cardiac Arrest,Surgery,Michael Yoder,New York,NY,8270.6,FALSE,Paid,10,5,9,10,5,0,1,0
+05I5T1,64,Male,General Hospital,30-08-2023,9,09-09-2023,2,Successful,Diabetes,Observation,Ashley Harris,Chicago,IL,12860.51,TRUE,Pending,5,6,8,8,3,0,0,1
+6D7CZH,73,Female,General Hospital,29-05-2023,9,16-04-2023,3,Successful,Flu,Surgery,Jennifer Duran,Chicago,IL,17275.6,TRUE,Unpaid,6,5,4,3,1,0,0,0
+FPX3ME,82,Male,General Hospital,17-07-2023,22,13-04-2023,2,Successful,Cardiac Arrest,Surgery,Mr. Luke Pena MD,Miami,FL,19681.99,FALSE,Paid,1,8,5,5,2,0,0,0
+YTRRBJ,29,Female,General Hospital,26-10-2023,26,10-01-2024,7,Complication,Cardiac Arrest,Observation,Judith Russell,Miami,FL,10324.48,TRUE,Paid,1,2,4,1,3,0,0,0
+LMKS8Z,86,Male,General Hospital,02-09-2023,17,07-12-2023,4,Successful,Hypertension,Medication,Raven Walker,New York,NY,9387.28,TRUE,Paid,4,8,7,6,2,0,0,0
+NXAVWS,23,Male,City Medical Center,04-12-2023,24,07-09-2023,2,Successful,Hypertension,Medication,Mitchell Kennedy,New York,NY,1976.92,TRUE,Paid,5,3,1,1,4,0,0,0
+RL116S,82,Female,General Hospital,18-04-2023,2,06-10-2023,2,Complication,Cardiac Arrest,Surgery,Raven Walker,Houston,TX,748.41,TRUE,Pending,2,6,7,2,3,0,0,0
+1Z878P,42,Male,General Hospital,31-07-2023,9,05-07-2023,1,Deceased,Hypertension,Medication,Sheryl Williams,Miami,FL,12371.64,FALSE,Pending,6,5,5,2,2,0,1,0
+MWVP18,18,Male,Sunrise Healthcare,05-06-2023,24,12-05-2023,8,Successful,Cardiac Arrest,Medication,Jennifer Allen,Los Angeles,CA,1776.55,FALSE,Paid,9,9,5,5,5,0,1,0
+HVUZUY,49,Female,General Hospital,26-01-2023,19,13-02-2023,3,Successful,Flu,Therapy,Ashley Harris,Chicago,IL,7917.39,FALSE,Unpaid,3,4,8,3,1,0,0,0
+AFWWW5,20,Male,Sunrise Healthcare,23-03-2023,13,27-06-2023,5,Successful,Fracture,Surgery,Charles Kennedy,New York,NY,570.33,TRUE,Unpaid,8,9,6,10,2,0,0,0
+3MRWO6,66,Male,City Medical Center,24-03-2023,5,12-02-2023,1,Successful,Hypertension,Medication,Alexander Black,Chicago,IL,12496.94,TRUE,Paid,1,3,2,3,1,0,0,0
+UW0RXG,36,Female,General Hospital,11-05-2023,9,03-09-2023,8,Successful,COVID-19,Medication,Robert Hutchinson,Chicago,IL,8795.6,FALSE,Paid,8,4,3,5,3,0,0,0
+T0F0I4,77,Male,Sunrise Healthcare,25-11-2023,13,27-02-2023,10,Readmitted,COVID-19,Surgery,Michael Washington,Houston,TX,2976.91,FALSE,Unpaid,5,8,10,8,4,0,0,0
+UZMWT1,46,Male,Sunrise Healthcare,10-04-2023,1,13-04-2023,10,Complication,COVID-19,Observation,Lauren Burns,Miami,FL,6279.17,FALSE,Paid,9,10,9,5,5,0,0,0
+Q1BYFK,67,Male,City Medical Center,13-09-2023,25,21-04-2023,1,Successful,Fracture,Medication,Amanda Higgins,New York,NY,11608.38,TRUE,Paid,1,2,4,2,3,1,0,0
+FKNBC8,19,Male,General Hospital,18-02-2023,15,07-11-2023,7,Successful,Cardiac Arrest,Medication,Ashley Harris,Chicago,IL,13305.91,FALSE,Pending,3,4,1,2,4,0,0,0
+6XSRX8,73,Male,General Hospital,04-03-2023,4,19-07-2023,8,Successful,Cardiac Arrest,Medication,Mr. Luke Pena MD,New York,NY,9515.55,TRUE,Pending,3,6,3,3,5,0,0,0
+A9Y7YP,34,Male,Sunrise Healthcare,07-11-2023,4,01-02-2023,10,Successful,Diabetes,Therapy,Lauren Burns,Los Angeles,CA,16177.2,FALSE,Paid,8,8,8,6,5,0,0,0
+72SWSY,77,Male,General Hospital,17-10-2023,20,11-05-2023,3,Successful,COVID-19,Observation,Jennifer Duran,Houston,TX,2692.59,TRUE,Paid,4,6,8,6,1,0,0,0
+PIAS67,53,Male,Sunrise Healthcare,15-04-2023,10,29-10-2023,5,Successful,COVID-19,Medication,Bill Aguirre,Los Angeles,CA,2148.64,TRUE,Pending,9,9,8,5,3,1,0,0
+PR7YFU,78,Female,General Hospital,15-04-2023,28,24-04-2023,1,Successful,Cardiac Arrest,Observation,Eduardo Wright,New York,NY,1362.76,FALSE,Paid,5,7,8,1,2,0,0,0
+F54J3R,34,Male,Sunrise Healthcare,21-11-2023,25,04-09-2023,5,Successful,COVID-19,Medication,Jennifer Allen,New York,NY,10948.64,TRUE,Pending,8,7,9,9,1,0,1,0
+XI4ODI,66,Male,General Hospital,15-01-2023,6,11-10-2023,3,Successful,Cardiac Arrest,Therapy,Jennifer Duran,Miami,FL,14271.52,TRUE,Pending,7,2,2,8,4,0,0,0
+IZDQPO,77,Female,City Medical Center,24-06-2023,27,12-12-2023,2,Successful,Cardiac Arrest,Surgery,Laura Lowe,Chicago,IL,3045.17,FALSE,Unpaid,1,3,4,3,3,0,1,0
+8EETOR,37,Male,General Hospital,16-09-2023,24,18-04-2023,8,Successful,Hypertension,Observation,Jennifer Duran,Chicago,IL,12959.44,FALSE,Pending,6,1,7,2,3,0,0,0
+B2MDJ4,67,Male,General Hospital,30-07-2023,12,04-12-2023,7,Successful,Cardiac Arrest,Observation,Robert Hutchinson,Los Angeles,CA,9800.48,FALSE,Unpaid,8,8,2,6,2,0,0,0
+HCI3K8,20,Male,City Medical Center,16-09-2023,20,13-02-2023,2,Successful,Flu,Surgery,Mitchell Kennedy,Houston,TX,19753.22,TRUE,Unpaid,1,4,4,2,3,0,0,0
+M9MLJI,60,Male,General Hospital,12-04-2023,16,25-12-2023,6,Successful,Flu,Surgery,Darrell Allen,Chicago,IL,14490.74,TRUE,Pending,4,6,6,1,4,0,0,0
+GBWUW2,74,Male,City Medical Center,17-09-2023,3,11-03-2023,4,Successful,Flu,Medication,Julie Butler,Miami,FL,13320.73,FALSE,Paid,1,2,4,1,3,0,0,0
+NZE4Y4,67,Male,General Hospital,10-12-2023,14,02-04-2023,1,Deceased,Flu,Medication,Ashley Harris,Los Angeles,CA,11623.77,FALSE,Pending,8,5,2,6,4,0,0,0
+TQBYM1,85,Female,Sunrise Healthcare,08-06-2023,1,12-07-2023,5,Successful,Fracture,Surgery,Michael Yoder,Los Angeles,CA,19948.64,TRUE,Unpaid,8,8,7,9,5,0,0,0
+FC8RKT,67,Female,Sunrise Healthcare,14-02-2023,10,18-07-2023,9,Successful,Diabetes,Therapy,Michelle Martin,Miami,FL,19618.95,FALSE,Pending,5,6,6,8,5,0,0,0
+ESVSPX,54,Female,General Hospital,28-10-2023,15,26-04-2023,8,Successful,Diabetes,Medication,Sheryl Williams,Houston,TX,10993.24,FALSE,Pending,1,3,6,2,3,0,0,0
+DOY8NS,63,Female,General Hospital,08-09-2023,7,14-03-2023,5,Successful,Cardiac Arrest,Medication,David Gates,Miami,FL,9376.08,TRUE,Unpaid,8,4,1,3,4,0,0,0
+9G3SYP,59,Female,General Hospital,27-11-2023,4,19-03-2023,7,Readmitted,COVID-19,Observation,Judith Russell,Houston,TX,9511.24,TRUE,Pending,1,4,3,3,2,0,0,0
+HR1PSQ,32,Male,Sunrise Healthcare,14-06-2023,14,26-11-2023,8,Complication,Flu,Medication,Lauren Burns,Miami,FL,8852.68,FALSE,Pending,9,5,9,10,5,0,0,0
+MG0J79,50,Male,General Hospital,12-07-2023,24,30-11-2023,6,Successful,Diabetes,Therapy,Robert Hutchinson,Miami,FL,10862.27,TRUE,Unpaid,1,8,1,2,5,1,0,0
+YFXRWF,28,Male,Sunrise Healthcare,09-01-2023,16,13-04-2023,7,Successful,Diabetes,Medication,Kyle Chen,New York,NY,5834.89,TRUE,Paid,9,9,9,7,4,0,1,0
+2YQXKZ,37,Male,City Medical Center,06-03-2023,14,25-01-2024,4,Successful,Flu,Medication,Gloria Hanson,Los Angeles,CA,18572.38,FALSE,Unpaid,4,3,5,4,3,0,0,0
+71CKNZ,41,Male,Sunrise Healthcare,09-10-2023,3,14-05-2023,10,Successful,Fracture,Surgery,Lauren Burns,Miami,FL,10059.49,FALSE,Unpaid,6,9,6,7,3,0,0,0
+U3HT5V,81,Female,Sunrise Healthcare,30-06-2023,17,11-07-2023,9,Successful,Fracture,Observation,Michael Yoder,Miami,FL,16919.15,FALSE,Pending,6,5,9,10,3,0,1,0
+GIA2HD,82,Female,City Medical Center,09-10-2023,21,13-09-2023,3,Successful,Diabetes,Surgery,Victoria Taylor,Chicago,IL,9768.42,TRUE,Unpaid,2,3,2,1,5,0,0,0
+8CG0A0,34,Male,Sunrise Healthcare,06-10-2023,14,13-07-2023,10,Successful,Fracture,Observation,Michelle Martin,Los Angeles,CA,14506.66,FALSE,Pending,5,6,7,10,3,0,0,0
+PGWK69,78,Male,General Hospital,30-01-2023,18,21-08-2023,4,Successful,Hypertension,Medication,Raven Walker,Chicago,IL,7069.2,TRUE,Pending,8,2,1,4,2,0,0,0
+Q8E5C8,32,Male,General Hospital,23-09-2023,3,17-03-2023,6,Readmitted,Flu,Therapy,Robert Hutchinson,Los Angeles,CA,12683.73,FALSE,Pending,7,2,1,2,2,0,0,0
+N44QXW,68,Female,Sunrise Healthcare,24-11-2023,22,22-12-2023,5,Successful,Diabetes,Surgery,Michael Yoder,Chicago,IL,10218.24,TRUE,Unpaid,10,7,8,9,5,0,0,0
+RNOOF0,44,Female,General Hospital,05-08-2023,19,08-06-2023,4,Successful,Flu,Observation,Ashley Harris,Miami,FL,7658.73,TRUE,Unpaid,6,5,3,4,5,1,0,0
+O9HOCM,78,Male,Sunrise Healthcare,16-11-2023,3,11-09-2023,10,Successful,Fracture,Therapy,Kyle Chen,Miami,FL,17690.35,FALSE,Pending,9,7,9,9,1,0,0,0
+7X553M,75,Female,General Hospital,15-04-2023,12,28-05-2023,5,Successful,Flu,Therapy,David Gates,New York,NY,2697.88,TRUE,Paid,3,3,3,6,5,0,0,0
+A7ON27,48,Male,General Hospital,03-07-2023,22,19-03-2023,6,Complication,Fracture,Observation,Darrell Allen,Chicago,IL,9995,FALSE,Paid,4,5,3,4,2,0,0,0
+RG24YN,29,Female,Sunrise Healthcare,26-11-2023,5,23-02-2023,6,Successful,Fracture,Observation,Michael Yoder,Houston,TX,4290.2,FALSE,Unpaid,6,6,8,5,3,1,0,0
+H0BQNY,63,Female,General Hospital,28-05-2023,10,10-03-2023,8,Complication,Flu,Medication,Mr. Luke Pena MD,New York,NY,17290.57,TRUE,Pending,8,1,1,6,3,0,0,0
+32TUV8,48,Male,Sunrise Healthcare,15-04-2023,9,23-03-2023,9,Successful,Fracture,Medication,Michael Washington,Chicago,IL,5442.65,TRUE,Pending,9,5,6,8,1,0,1,0
+PQPBDU,49,Female,General Hospital,16-02-2023,1,21-06-2023,7,Complication,Hypertension,Surgery,David Gates,Chicago,IL,12851.89,TRUE,Unpaid,1,5,7,7,3,1,0,0
+73FQYE,49,Female,General Hospital,28-03-2023,13,03-06-2023,3,Readmitted,Cardiac Arrest,Therapy,David Gates,New York,NY,3728.49,FALSE,Paid,6,1,7,6,1,0,0,0
+ETPIEB,70,Male,City Medical Center,05-11-2023,3,22-05-2023,3,Successful,Flu,Surgery,Diana Boyd,Miami,FL,8395.82,FALSE,Unpaid,2,1,2,2,4,0,0,0
+I9VVV7,78,Female,City Medical Center,09-05-2023,19,08-01-2024,4,Successful,Cardiac Arrest,Surgery,Jacqueline Johnson,Chicago,IL,18037.47,FALSE,Unpaid,4,1,3,2,2,0,0,0
+26RGA6,63,Male,Sunrise Healthcare,15-09-2023,11,30-04-2023,10,Readmitted,Flu,Medication,Michael Yoder,Miami,FL,3738.26,FALSE,Pending,10,5,10,10,5,0,1,0
+AXDDR0,24,Female,City Medical Center,10-11-2023,16,30-12-2023,5,Successful,Fracture,Medication,Laura Lowe,New York,NY,13432.32,FALSE,Unpaid,2,4,4,4,2,0,0,0
+5619FP,21,Male,Sunrise Healthcare,27-05-2023,6,08-10-2023,9,Successful,Fracture,Surgery,Lauren Burns,Miami,FL,4487.95,FALSE,Paid,5,5,10,8,2,0,0,0
+7WXMRM,69,Male,City Medical Center,13-03-2023,24,03-09-2023,4,Successful,Diabetes,Therapy,David Watkins,Los Angeles,CA,8607.11,TRUE,Unpaid,2,4,1,3,3,1,0,0
+QORW37,48,Female,General Hospital,20-05-2023,3,27-04-2023,7,Successful,Hypertension,Observation,Robert Hutchinson,Houston,TX,11042.03,FALSE,Pending,1,8,6,1,2,0,0,0
+DCGRGF,53,Female,Sunrise Healthcare,27-01-2023,19,24-02-2023,10,Successful,Diabetes,Observation,Michelle Martin,Chicago,IL,11757.48,FALSE,Paid,10,6,7,5,2,0,0,0
+VAD2UZ,71,Male,Sunrise Healthcare,29-01-2023,6,06-06-2023,6,Successful,Cardiac Arrest,Medication,Charles Kennedy,Houston,TX,12248.97,FALSE,Pending,8,9,8,9,2,0,0,0
+NILFTX,71,Female,General Hospital,28-09-2023,8,20-02-2023,4,Successful,Fracture,Medication,Eduardo Wright,Miami,FL,12982.56,FALSE,Unpaid,3,1,8,7,4,0,0,1
+0HAXGS,34,Female,Sunrise Healthcare,23-06-2023,22,01-02-2023,10,Successful,Diabetes,Observation,Lauren Burns,Chicago,IL,5799.49,TRUE,Unpaid,9,9,10,10,3,0,0,0
+V832VK,47,Female,Sunrise Healthcare,10-09-2023,13,13-09-2023,9,Readmitted,Fracture,Therapy,Michelle Martin,Miami,FL,8326.67,TRUE,Unpaid,8,6,9,7,4,0,0,0
+T27A43,39,Male,City Medical Center,01-03-2023,12,18-12-2023,2,Successful,Flu,Therapy,Laura Lowe,Los Angeles,CA,1227.71,TRUE,Pending,2,5,4,4,2,0,0,0
+RQNWYO,60,Male,Sunrise Healthcare,17-04-2023,10,11-11-2023,10,Deceased,Diabetes,Surgery,Jennifer Allen,New York,NY,15490.76,FALSE,Unpaid,9,9,8,9,4,0,0,0
+VCS78A,44,Male,General Hospital,08-08-2023,3,09-05-2023,8,Deceased,Cardiac Arrest,Observation,Jennifer Duran,Chicago,IL,16823.44,FALSE,Paid,2,3,6,6,4,0,0,0
+U2FAA0,54,Female,City Medical Center,16-09-2023,4,10-01-2024,5,Complication,Diabetes,Surgery,Amanda Higgins,Los Angeles,CA,4385.12,FALSE,Paid,5,1,5,5,4,0,0,0
+UPZP1A,63,Female,City Medical Center,26-05-2023,1,13-02-2023,1,Readmitted,Fracture,Medication,Victoria Taylor,Los Angeles,CA,4428.16,TRUE,Pending,1,2,2,4,1,0,0,1
+9JQWGG,52,Male,General Hospital,21-02-2023,13,26-11-2023,5,Complication,COVID-19,Medication,Raven Walker,Chicago,IL,1319.71,FALSE,Pending,5,3,5,4,2,0,0,0
+O7DNNP,21,Male,General Hospital,01-03-2023,24,15-04-2023,3,Readmitted,COVID-19,Surgery,Sheryl Williams,Miami,FL,19422.48,FALSE,Pending,5,1,6,3,3,0,0,1
+G5SBJQ,43,Female,City Medical Center,03-02-2023,4,12-11-2023,2,Successful,Hypertension,Therapy,Diana Boyd,Los Angeles,CA,16240.14,TRUE,Unpaid,4,2,4,2,4,0,1,0
+LFV5TA,36,Female,Sunrise Healthcare,06-04-2023,22,01-08-2023,10,Successful,Fracture,Therapy,Kyle Chen,Houston,TX,7533.71,TRUE,Paid,9,8,6,10,2,0,0,0
+FSRF6W,62,Female,City Medical Center,30-03-2023,11,30-08-2023,1,Complication,Flu,Surgery,Alexander Black,Los Angeles,CA,9897.21,FALSE,Paid,5,5,4,4,4,0,1,0
+WZMGO0,43,Female,General Hospital,12-11-2023,19,24-10-2023,7,Successful,Diabetes,Surgery,Sheryl Williams,Miami,FL,6193.36,TRUE,Paid,1,3,8,4,2,0,0,0
+Z6O90E,39,Male,City Medical Center,19-08-2023,11,28-08-2023,3,Readmitted,COVID-19,Medication,Angela Fry,Miami,FL,12146.26,FALSE,Pending,1,2,4,4,4,0,0,0
+B6PWPN,75,Female,General Hospital,02-10-2023,12,10-11-2023,4,Readmitted,Flu,Medication,Ashley Harris,Houston,TX,14487.51,FALSE,Pending,4,5,1,1,1,0,1,0
+2Z8OCW,80,Female,City Medical Center,03-09-2023,11,29-12-2023,2,Successful,Fracture,Medication,Julie Butler,Los Angeles,CA,9223.69,TRUE,Unpaid,4,1,4,1,2,0,0,0
+276WGC,45,Male,Sunrise Healthcare,21-04-2023,6,14-07-2023,8,Readmitted,Flu,Surgery,Lauren Burns,Miami,FL,17535.09,FALSE,Pending,9,6,9,9,4,0,0,1
+54RGAN,82,Male,City Medical Center,22-08-2023,12,26-06-2023,2,Successful,Fracture,Medication,Julie Butler,Chicago,IL,10582,TRUE,Paid,3,4,3,1,5,0,0,0
+5FJGZ7,61,Female,City Medical Center,05-10-2023,27,21-04-2023,5,Successful,Hypertension,Surgery,Diana Boyd,New York,NY,3312.94,TRUE,Unpaid,1,1,1,3,4,0,0,0
+39UQ6J,60,Male,General Hospital,15-06-2023,9,04-03-2023,3,Successful,Diabetes,Surgery,Robert Hutchinson,New York,NY,12634.68,FALSE,Pending,1,4,3,4,1,0,0,0
+LP5O01,54,Female,General Hospital,08-05-2023,25,05-05-2023,2,Successful,Flu,Therapy,Mr. Luke Pena MD,New York,NY,9513.5,TRUE,Pending,4,5,2,7,3,0,0,0
+QB9GMO,83,Female,General Hospital,25-08-2023,10,18-05-2023,6,Successful,Diabetes,Therapy,Mr. Luke Pena MD,Los Angeles,CA,18745.6,FALSE,Paid,5,8,1,3,5,0,0,0
+YWVZ6K,34,Male,City Medical Center,18-10-2023,3,07-08-2023,1,Successful,Flu,Medication,David Watkins,Houston,TX,8141.93,FALSE,Unpaid,1,4,1,2,4,0,0,0
+JYX6QX,57,Male,Sunrise Healthcare,17-04-2023,3,08-12-2023,5,Successful,Fracture,Medication,Michelle Martin,Miami,FL,8355.88,TRUE,Pending,9,10,10,8,2,0,0,0
+B5XIDQ,55,Female,General Hospital,08-05-2023,20,03-11-2023,6,Complication,Fracture,Medication,David Gates,Chicago,IL,13190.08,TRUE,Pending,2,2,2,7,1,0,0,0
+Q3KUUR,78,Male,General Hospital,14-07-2023,28,22-07-2023,3,Successful,Flu,Medication,Mr. Luke Pena MD,Chicago,IL,10776.23,TRUE,Unpaid,7,1,7,8,5,1,0,0
+2XJQRT,26,Female,City Medical Center,05-12-2023,23,16-04-2023,2,Successful,Hypertension,Therapy,Michelle Stewart,Los Angeles,CA,7801.77,FALSE,Unpaid,2,4,4,2,4,1,1,0
+RQIN24,78,Female,General Hospital,23-05-2023,16,29-05-2023,5,Successful,Fracture,Therapy,Darrell Allen,New York,NY,19800.6,FALSE,Pending,6,6,6,7,2,0,0,0
+DRTIMO,33,Female,Sunrise Healthcare,21-04-2023,3,10-02-2023,9,Readmitted,Cardiac Arrest,Surgery,Michael Yoder,Los Angeles,CA,6392.62,FALSE,Pending,10,8,8,10,5,0,0,0
+0O1SZZ,19,Male,Sunrise Healthcare,31-03-2023,10,16-03-2023,5,Readmitted,Cardiac Arrest,Observation,Michael Yoder,Houston,TX,5911.81,FALSE,Paid,5,8,7,9,5,0,0,0
+YZZ1R5,89,Female,General Hospital,08-09-2023,24,27-02-2023,5,Successful,Diabetes,Surgery,David Gates,Houston,TX,17356.34,FALSE,Unpaid,6,7,7,3,4,0,0,0
+CB6SQ6,60,Female,General Hospital,07-10-2023,11,10-04-2023,6,Successful,Cardiac Arrest,Surgery,Ashley Harris,Miami,FL,565.77,FALSE,Pending,3,5,7,4,5,0,0,0
+LCZ8H9,59,Female,City Medical Center,29-11-2023,8,26-11-2023,5,Readmitted,Cardiac Arrest,Observation,Mitchell Kennedy,Miami,FL,4424.44,FALSE,Pending,5,3,4,2,2,0,0,0
+G9PXAY,74,Male,Sunrise Healthcare,12-08-2023,6,20-03-2023,10,Successful,Hypertension,Medication,Lauren Burns,Houston,TX,12013.71,TRUE,Pending,6,9,8,10,1,0,1,0
+JPPH21,84,Female,Sunrise Healthcare,11-04-2023,20,10-12-2023,9,Successful,Hypertension,Therapy,Jennifer Allen,Houston,TX,3667.79,FALSE,Pending,10,8,8,10,5,0,0,0
+FPTPGN,47,Female,General Hospital,12-05-2023,11,20-10-2023,4,Successful,COVID-19,Medication,Raven Walker,Houston,TX,19723.18,FALSE,Paid,6,7,8,1,3,0,0,1
+ZZNG6Z,30,Female,City Medical Center,13-01-2023,28,31-10-2023,5,Successful,COVID-19,Medication,Amanda Higgins,Los Angeles,CA,9551.81,TRUE,Unpaid,3,4,5,3,3,0,0,0
+TCDZKB,36,Male,Sunrise Healthcare,08-04-2023,27,07-04-2023,10,Complication,Hypertension,Surgery,Michelle Martin,Houston,TX,12148.6,FALSE,Pending,9,9,5,5,3,0,0,0
+N3LZ6M,24,Female,Sunrise Healthcare,30-04-2023,21,19-07-2023,9,Successful,COVID-19,Surgery,Jennifer Allen,Chicago,IL,3627.28,FALSE,Unpaid,9,6,7,8,3,0,0,0
+NX7ZU1,26,Female,City Medical Center,20-10-2023,12,15-10-2023,1,Successful,Hypertension,Observation,Alexander Black,New York,NY,6142.87,TRUE,Unpaid,2,2,3,2,3,0,1,0
+9BIWOM,71,Male,City Medical Center,31-10-2023,16,23-03-2023,1,Successful,COVID-19,Medication,Michelle Stewart,Houston,TX,12485.18,FALSE,Pending,4,1,3,1,3,0,0,0
+WQBTTC,78,Male,Sunrise Healthcare,18-07-2023,18,12-08-2023,10,Deceased,Fracture,Medication,Michelle Martin,New York,NY,11216.29,TRUE,Pending,5,8,6,10,4,0,0,0
+LB9NPS,19,Female,Sunrise Healthcare,01-01-2023,13,05-11-2023,7,Complication,Hypertension,Observation,Bill Aguirre,Los Angeles,CA,15795.1,FALSE,Pending,9,10,10,10,2,0,0,0
+7FM9VR,67,Female,City Medical Center,01-03-2023,22,12-02-2023,2,Complication,Diabetes,Medication,Mitchell Kennedy,New York,NY,5750.05,FALSE,Paid,1,2,4,1,3,0,0,0
+L3G5SF,48,Female,Sunrise Healthcare,07-09-2023,3,22-01-2024,10,Successful,Diabetes,Observation,Bill Aguirre,Los Angeles,CA,13244.07,TRUE,Pending,9,6,9,5,3,0,1,0
+T0GEKO,50,Male,General Hospital,20-05-2023,15,20-03-2023,2,Successful,Hypertension,Medication,Jennifer Duran,Chicago,IL,6174.02,TRUE,Unpaid,2,8,4,4,4,0,0,0
+CEWIOC,28,Male,General Hospital,29-05-2023,22,26-06-2023,1,Readmitted,Cardiac Arrest,Observation,Robert Hutchinson,Los Angeles,CA,11941.68,FALSE,Unpaid,5,4,4,1,2,0,0,0
+2FQZUH,50,Female,City Medical Center,13-02-2023,28,31-01-2023,5,Successful,Diabetes,Therapy,Mitchell Kennedy,Los Angeles,CA,12298.1,FALSE,Paid,1,4,3,1,1,0,0,0
+UKHX8N,24,Male,City Medical Center,05-07-2023,21,02-07-2023,2,Readmitted,Cardiac Arrest,Medication,Angela Fry,Miami,FL,2875.86,TRUE,Pending,1,4,3,4,1,0,0,0
+NJL7JQ,48,Female,City Medical Center,18-04-2023,14,26-11-2023,1,Successful,Diabetes,Medication,Victoria Taylor,Houston,TX,11198.35,FALSE,Pending,3,2,4,5,2,0,0,0
+QC4ALD,65,Female,General Hospital,13-02-2023,18,13-04-2023,7,Successful,Flu,Medication,Mr. Luke Pena MD,Houston,TX,732.8,TRUE,Paid,7,1,7,3,1,0,0,0
+M7UVDR,64,Male,Sunrise Healthcare,19-03-2023,28,19-09-2023,8,Successful,Flu,Surgery,Charles Kennedy,Chicago,IL,10273.61,TRUE,Paid,5,10,6,8,1,0,1,0
+ESBLQJ,70,Female,General Hospital,14-08-2023,29,06-05-2023,2,Complication,Hypertension,Medication,Jennifer Duran,Chicago,IL,14101.68,TRUE,Pending,5,4,4,6,1,0,0,0
+7FHKLI,36,Male,Sunrise Healthcare,11-06-2023,14,23-07-2023,8,Readmitted,Diabetes,Surgery,Michelle Martin,Houston,TX,1920.24,FALSE,Pending,6,9,10,9,2,0,0,0
+BHK9JU,23,Male,General Hospital,08-10-2023,5,23-02-2023,7,Successful,Fracture,Surgery,Mr. Luke Pena MD,Miami,FL,18804.86,FALSE,Unpaid,6,6,7,6,3,0,0,0
+TH92LN,66,Female,Sunrise Healthcare,10-09-2023,21,02-10-2023,7,Successful,Cardiac Arrest,Therapy,Michael Washington,Houston,TX,9445.73,FALSE,Pending,6,7,10,10,1,0,0,0
+UVU3TX,67,Male,General Hospital,12-05-2023,14,07-03-2023,2,Readmitted,Diabetes,Surgery,Jennifer Duran,Miami,FL,18799.12,TRUE,Pending,6,1,7,1,5,0,0,0
+WGIAZV,29,Female,City Medical Center,24-05-2023,25,29-11-2023,3,Successful,Hypertension,Medication,Jacqueline Johnson,Chicago,IL,2594.27,FALSE,Unpaid,4,1,1,3,3,0,0,0
+JFQXJH,40,Male,General Hospital,23-09-2023,27,08-06-2023,1,Readmitted,Cardiac Arrest,Observation,Eduardo Wright,New York,NY,19023.1,TRUE,Unpaid,6,7,8,2,5,0,0,0
+UFUX6R,71,Female,Sunrise Healthcare,19-04-2023,8,12-12-2023,8,Successful,COVID-19,Medication,Bill Aguirre,Chicago,IL,2629.34,TRUE,Unpaid,5,8,10,7,4,0,0,0
+15L0J5,86,Female,General Hospital,13-07-2023,28,03-04-2023,4,Successful,Hypertension,Observation,Robert Hutchinson,Chicago,IL,9499.17,FALSE,Unpaid,5,8,3,2,2,0,0,0
+ZYKW7W,76,Female,General Hospital,04-02-2023,28,21-03-2023,6,Successful,Diabetes,Medication,David Gates,Los Angeles,CA,18790.85,FALSE,Paid,8,8,7,7,3,0,0,0
+24G6UB,53,Male,General Hospital,02-10-2023,23,27-10-2023,6,Successful,Fracture,Medication,Ashley Harris,Los Angeles,CA,5037.81,TRUE,Unpaid,6,2,8,6,2,0,1,0
+R67T8R,20,Female,City Medical Center,06-07-2023,15,09-10-2023,5,Successful,COVID-19,Surgery,Mitchell Kennedy,Los Angeles,CA,1178.31,FALSE,Paid,4,1,3,4,3,0,0,0
+XH3JWK,75,Male,General Hospital,31-08-2023,28,29-06-2023,6,Successful,Hypertension,Observation,Sheryl Williams,Los Angeles,CA,15965.66,TRUE,Unpaid,1,1,3,1,4,0,0,0
+BZ96MY,72,Male,City Medical Center,21-09-2023,29,30-06-2023,1,Successful,Diabetes,Observation,David Watkins,Miami,FL,12119.73,FALSE,Unpaid,4,2,4,3,2,0,0,0
+DSR3SW,74,Male,City Medical Center,10-01-2023,15,27-09-2023,3,Successful,Flu,Surgery,David Watkins,Houston,TX,10521.46,TRUE,Unpaid,1,1,3,1,1,0,1,0
+PALX7H,34,Male,General Hospital,15-06-2023,19,21-07-2023,8,Successful,Diabetes,Surgery,Darrell Allen,New York,NY,1169.7,FALSE,Pending,1,4,7,2,3,0,0,0
+REZ3MS,56,Male,General Hospital,29-01-2023,26,12-04-2023,6,Readmitted,Flu,Observation,Jennifer Duran,Chicago,IL,13238.01,TRUE,Paid,3,8,4,7,1,0,0,0
+2CZLBK,85,Female,General Hospital,28-09-2023,20,14-02-2023,3,Successful,Flu,Therapy,Jennifer Duran,Miami,FL,3846.66,FALSE,Unpaid,6,1,5,3,3,0,0,0
+1RMVLB,72,Male,Sunrise Healthcare,28-03-2023,6,13-05-2023,5,Successful,Hypertension,Medication,Charles Kennedy,New York,NY,18658.34,TRUE,Pending,5,8,10,8,4,0,0,0
+GZZXLP,62,Female,General Hospital,23-01-2023,19,26-10-2023,4,Successful,Diabetes,Medication,Judith Russell,Miami,FL,13871.68,TRUE,Paid,4,1,8,7,4,0,0,0
+WI5OME,18,Female,City Medical Center,29-07-2023,27,26-09-2023,5,Successful,Diabetes,Surgery,Amanda Higgins,Miami,FL,14287.16,TRUE,Paid,1,4,2,1,4,1,0,0
+KJMOG1,38,Male,General Hospital,15-02-2023,25,28-01-2023,7,Readmitted,Flu,Observation,David Gates,Chicago,IL,5035.32,TRUE,Pending,1,3,8,4,3,0,1,0
+58O9UF,38,Female,Sunrise Healthcare,28-01-2023,8,09-11-2023,7,Successful,Cardiac Arrest,Medication,Michelle Martin,Houston,TX,17674.7,TRUE,Paid,10,9,5,10,1,0,0,0
+ADKZW2,69,Female,General Hospital,26-01-2023,6,24-06-2023,6,Readmitted,COVID-19,Surgery,Sheryl Williams,Los Angeles,CA,10985.79,TRUE,Pending,1,2,5,8,1,0,1,0
+U0MWP3,60,Male,Sunrise Healthcare,23-09-2023,20,31-07-2023,8,Successful,Fracture,Therapy,Jennifer Allen,Houston,TX,17213.14,FALSE,Unpaid,8,10,7,7,2,0,0,0
+DP4YLZ,69,Female,Sunrise Healthcare,24-06-2023,23,24-04-2023,8,Successful,Diabetes,Medication,Charles Kennedy,Chicago,IL,5783.48,TRUE,Pending,10,6,10,10,5,0,0,0
+61ILE1,84,Male,General Hospital,04-01-2023,29,18-06-2023,4,Successful,COVID-19,Therapy,Raven Walker,Chicago,IL,15231.5,TRUE,Paid,5,6,5,4,4,0,0,1
+8E77MN,61,Male,City Medical Center,07-11-2023,15,24-12-2023,1,Readmitted,COVID-19,Medication,Gloria Hanson,Chicago,IL,11704.05,FALSE,Paid,1,1,1,4,4,0,0,0
+KD6GHJ,49,Male,Sunrise Healthcare,18-11-2023,27,04-10-2023,8,Readmitted,Cardiac Arrest,Observation,Michael Yoder,New York,NY,1444.18,FALSE,Unpaid,9,10,8,5,2,0,0,0
+OOE2SJ,27,Female,General Hospital,08-03-2023,3,14-07-2023,6,Successful,COVID-19,Medication,Mr. Luke Pena MD,Houston,TX,8404.18,TRUE,Pending,4,7,3,5,3,0,0,0
+LD4RP9,81,Female,General Hospital,15-05-2023,10,25-12-2023,2,Readmitted,Diabetes,Medication,Robert Hutchinson,Houston,TX,4086.25,FALSE,Unpaid,2,5,2,7,2,0,0,0
+YWL79C,86,Female,City Medical Center,24-02-2023,15,21-08-2023,5,Successful,Hypertension,Therapy,David Watkins,Miami,FL,7503.88,FALSE,Pending,1,5,5,4,2,0,0,0
+IR87ND,85,Female,Sunrise Healthcare,31-01-2023,24,13-02-2023,8,Readmitted,Hypertension,Observation,Kyle Chen,Miami,FL,7975.36,TRUE,Pending,6,8,8,9,4,0,1,0
+2O1PLE,45,Male,Sunrise Healthcare,15-03-2023,16,18-06-2023,7,Successful,COVID-19,Observation,Kyle Chen,Miami,FL,9761.1,TRUE,Pending,10,10,9,8,5,0,0,0
+7A5ZQ0,70,Male,General Hospital,19-01-2023,17,15-01-2024,8,Successful,Diabetes,Therapy,Darrell Allen,Chicago,IL,12205.66,FALSE,Unpaid,1,3,6,6,1,0,0,0
+X8ZWVD,68,Female,General Hospital,05-06-2023,19,19-05-2023,3,Successful,Diabetes,Medication,Eduardo Wright,Houston,TX,11634.06,FALSE,Unpaid,8,2,3,3,2,0,0,0
+IDGWBX,70,Male,City Medical Center,03-12-2023,11,09-01-2023,1,Deceased,Flu,Medication,Angela Fry,Chicago,IL,1260.33,FALSE,Paid,4,2,2,1,1,0,0,0
+447XZP,21,Female,City Medical Center,05-06-2023,16,25-02-2023,4,Readmitted,Cardiac Arrest,Medication,Jacqueline Johnson,New York,NY,15138.44,FALSE,Unpaid,5,1,2,1,5,0,0,0
+MO0DP3,34,Male,Sunrise Healthcare,27-05-2023,5,23-02-2023,8,Readmitted,Fracture,Observation,Bill Aguirre,Miami,FL,19009.09,FALSE,Pending,7,10,8,10,1,0,0,0
+39CVVL,84,Male,Sunrise Healthcare,28-03-2023,5,15-05-2023,10,Readmitted,Flu,Surgery,Lauren Burns,Chicago,IL,7299.29,FALSE,Pending,10,6,6,10,2,0,0,0
+UD44WT,64,Male,General Hospital,20-01-2023,26,16-06-2023,2,Successful,Fracture,Therapy,Jennifer Duran,Chicago,IL,4005.06,TRUE,Pending,7,8,7,2,1,0,0,0
+OW1PUO,73,Male,Sunrise Healthcare,26-09-2023,14,14-06-2023,8,Readmitted,Diabetes,Therapy,Michael Yoder,New York,NY,11030.03,FALSE,Unpaid,9,9,6,8,4,0,0,0
+QMS3RN,40,Male,City Medical Center,29-11-2023,18,05-01-2024,3,Deceased,Hypertension,Medication,Laura Lowe,Los Angeles,CA,14245.8,TRUE,Paid,5,1,5,5,2,0,0,0
+99TSGD,35,Female,City Medical Center,12-02-2023,26,29-05-2023,3,Successful,Flu,Therapy,David Watkins,Houston,TX,13738.65,TRUE,Unpaid,5,1,3,1,4,0,0,0
+7BEJ5M,18,Female,General Hospital,02-11-2023,8,16-08-2023,1,Successful,COVID-19,Medication,Mr. Luke Pena MD,Los Angeles,CA,12436.14,FALSE,Paid,7,1,4,5,4,0,0,1
+EJJ0UH,52,Male,City Medical Center,28-01-2023,5,03-06-2023,4,Successful,COVID-19,Surgery,Gloria Hanson,Miami,FL,3351.53,TRUE,Unpaid,2,1,1,5,5,0,1,0
+A1NU3U,81,Female,City Medical Center,17-09-2023,7,15-09-2023,3,Deceased,Fracture,Therapy,Jacqueline Johnson,Chicago,IL,16818.09,FALSE,Pending,4,4,5,5,2,0,0,0
+IQE4S9,75,Male,City Medical Center,22-01-2023,16,18-08-2023,1,Readmitted,Diabetes,Medication,Laura Lowe,New York,NY,8799.62,TRUE,Paid,1,4,2,1,2,0,0,0
+6MN629,76,Male,City Medical Center,11-04-2023,23,26-02-2023,2,Readmitted,Hypertension,Medication,Mitchell Kennedy,New York,NY,4818.64,FALSE,Unpaid,4,3,1,4,3,0,0,0
+J4FAG0,18,Male,General Hospital,08-02-2023,14,07-03-2023,2,Readmitted,Fracture,Surgery,Ashley Harris,Houston,TX,2182.19,TRUE,Pending,1,4,6,6,4,1,0,0
+U1PWTY,20,Male,General Hospital,17-10-2023,5,11-04-2023,6,Readmitted,Hypertension,Observation,Eduardo Wright,Los Angeles,CA,8626.02,FALSE,Paid,5,8,7,6,2,0,0,0
+1EURF2,84,Female,Sunrise Healthcare,19-12-2023,24,14-02-2023,8,Complication,Cardiac Arrest,Surgery,Lauren Burns,Houston,TX,12550.47,TRUE,Paid,8,9,10,5,4,0,0,0
+S6ACU8,54,Male,City Medical Center,27-10-2023,9,18-09-2023,1,Complication,Hypertension,Therapy,Angela Fry,Chicago,IL,13474.87,FALSE,Pending,5,2,4,5,2,0,0,0
+CYT7UW,46,Female,Sunrise Healthcare,19-06-2023,4,14-03-2023,10,Successful,COVID-19,Medication,Michael Yoder,Houston,TX,19273.37,TRUE,Pending,9,6,6,9,4,0,0,0
+FMWIQB,50,Male,General Hospital,23-10-2023,4,25-03-2023,6,Successful,Flu,Observation,David Gates,New York,NY,3486.39,TRUE,Unpaid,1,2,5,7,2,0,1,0
+SSGTIQ,78,Male,General Hospital,19-12-2023,16,11-12-2023,8,Successful,Flu,Therapy,Eduardo Wright,New York,NY,19722.59,TRUE,Unpaid,2,6,3,6,4,1,0,1
+0B9SQE,21,Female,General Hospital,10-05-2023,24,30-12-2023,2,Readmitted,Flu,Medication,Raven Walker,Miami,FL,13266.18,FALSE,Pending,1,7,7,4,1,0,0,0
+RGQ9DY,31,Male,General Hospital,05-06-2023,17,02-11-2023,6,Successful,Hypertension,Therapy,Ashley Harris,Miami,FL,9357.47,FALSE,Unpaid,3,8,4,7,2,0,0,1
+E3LDX2,50,Male,General Hospital,15-03-2023,15,27-10-2023,8,Successful,COVID-19,Surgery,David Gates,Chicago,IL,17819.79,FALSE,Pending,5,6,6,1,1,0,0,0
+IDXNER,39,Female,General Hospital,08-12-2023,4,25-05-2023,8,Successful,Hypertension,Observation,Jennifer Duran,Los Angeles,CA,14042.35,FALSE,Pending,8,2,5,4,1,0,1,0
+SLRQ3X,65,Female,General Hospital,31-03-2023,6,12-10-2023,6,Successful,Diabetes,Medication,Judith Russell,Houston,TX,7299.99,FALSE,Unpaid,7,6,1,5,2,0,0,0
+K8WQAO,20,Female,City Medical Center,08-03-2023,16,07-12-2023,1,Successful,COVID-19,Observation,Victoria Taylor,Chicago,IL,17739.67,TRUE,Unpaid,4,2,3,4,4,0,1,0
+5IO1X8,40,Male,Sunrise Healthcare,24-08-2023,29,06-12-2023,10,Successful,COVID-19,Medication,Kyle Chen,Miami,FL,13499,FALSE,Paid,9,8,5,9,1,0,0,0
+V0SLTA,85,Male,General Hospital,19-07-2023,4,15-03-2023,6,Successful,Hypertension,Medication,Ashley Harris,Houston,TX,14127.33,FALSE,Paid,1,2,8,8,2,0,0,0
+UAJ5VR,38,Female,City Medical Center,28-11-2023,6,26-03-2023,5,Successful,Hypertension,Surgery,Laura Lowe,Miami,FL,17979.6,TRUE,Unpaid,5,2,4,5,3,0,0,0
+501R2R,60,Female,City Medical Center,15-08-2023,5,10-07-2023,1,Successful,Flu,Therapy,Gloria Hanson,Houston,TX,9244.12,FALSE,Unpaid,2,3,2,3,1,0,0,0
+H47G9R,43,Male,Sunrise Healthcare,14-12-2023,16,22-02-2023,5,Successful,COVID-19,Surgery,Kyle Chen,Los Angeles,CA,13309.63,FALSE,Unpaid,10,5,8,6,1,0,0,1
+IIH8RE,58,Male,General Hospital,21-08-2023,25,29-10-2023,4,Successful,Flu,Therapy,Mr. Luke Pena MD,Chicago,IL,15021.44,FALSE,Paid,2,8,2,1,2,0,0,1
+N13DTY,55,Female,Sunrise Healthcare,23-09-2023,16,27-11-2023,5,Successful,Diabetes,Medication,Jennifer Allen,Houston,TX,9351.83,FALSE,Unpaid,10,9,6,5,3,1,0,0
+1LBNV4,28,Female,General Hospital,27-03-2023,10,29-09-2023,8,Successful,Cardiac Arrest,Observation,Sheryl Williams,New York,NY,2127.32,FALSE,Paid,6,3,7,2,2,0,0,0
+WTDOXY,46,Female,City Medical Center,12-04-2023,9,26-04-2023,1,Successful,Flu,Therapy,Victoria Taylor,New York,NY,15543.08,FALSE,Paid,4,4,2,4,5,0,0,0
+AG4LEL,77,Female,City Medical Center,02-08-2023,4,02-05-2023,1,Readmitted,Hypertension,Medication,Amanda Higgins,Houston,TX,1432.42,TRUE,Paid,2,1,4,3,5,0,0,0
+RBJO3Q,84,Male,City Medical Center,18-04-2023,29,04-07-2023,5,Successful,Fracture,Medication,Mitchell Kennedy,Houston,TX,14499.33,FALSE,Paid,4,3,1,5,1,0,0,0
+DG47F7,82,Male,City Medical Center,14-06-2023,14,28-02-2023,1,Successful,Cardiac Arrest,Surgery,Gloria Hanson,Houston,TX,18262.07,FALSE,Pending,3,4,2,2,3,0,0,0
+ONF5CC,78,Male,Sunrise Healthcare,01-04-2023,4,20-10-2023,8,Successful,Diabetes,Observation,Michelle Martin,New York,NY,7265.9,FALSE,Unpaid,10,7,8,8,1,0,0,0
+VVJCL2,36,Male,General Hospital,11-07-2023,12,22-12-2023,5,Successful,Hypertension,Medication,Darrell Allen,New York,NY,2490.2,TRUE,Unpaid,6,4,4,3,4,0,0,0
+QGMBDJ,63,Female,General Hospital,01-12-2023,24,17-01-2024,7,Successful,Cardiac Arrest,Medication,Raven Walker,Houston,TX,5040.85,TRUE,Pending,7,3,1,8,3,0,0,0
+XQFSE5,66,Male,Sunrise Healthcare,27-03-2023,10,19-04-2023,9,Successful,Hypertension,Surgery,Lauren Burns,Miami,FL,11464.49,TRUE,Unpaid,9,7,9,9,2,0,0,0
+JI0MSU,39,Female,General Hospital,10-08-2023,4,20-08-2023,6,Successful,Flu,Therapy,Raven Walker,Miami,FL,18881.86,TRUE,Paid,3,4,8,1,2,0,0,0
+XDX8CD,74,Male,City Medical Center,29-12-2023,18,25-03-2023,1,Successful,Hypertension,Medication,Laura Lowe,Los Angeles,CA,10489.51,FALSE,Pending,2,2,3,3,3,0,0,0
+84YMDN,31,Male,General Hospital,11-04-2023,13,22-07-2023,2,Successful,Diabetes,Observation,Mr. Luke Pena MD,Chicago,IL,2698.38,TRUE,Paid,3,8,6,3,4,0,0,0
+M0FQ98,61,Male,City Medical Center,14-08-2023,13,19-11-2023,5,Complication,Fracture,Observation,Victoria Taylor,Miami,FL,12741.77,FALSE,Pending,3,5,3,3,4,0,1,0
+QBMB1Z,33,Female,Sunrise Healthcare,30-12-2023,14,07-11-2023,9,Successful,Flu,Medication,Michael Yoder,New York,NY,14790.48,FALSE,Paid,6,10,10,8,4,0,0,0
+VC8LXE,29,Male,General Hospital,01-03-2023,18,20-08-2023,2,Readmitted,Flu,Observation,Mr. Luke Pena MD,Miami,FL,8169.03,FALSE,Unpaid,1,3,5,3,1,0,0,0
+TMLMJ6,72,Female,Sunrise Healthcare,07-09-2023,1,27-12-2023,10,Successful,Diabetes,Medication,Bill Aguirre,Los Angeles,CA,14569.52,TRUE,Unpaid,7,10,7,8,4,0,0,0
+P8CEZK,68,Female,General Hospital,17-02-2023,21,23-05-2023,1,Successful,Diabetes,Medication,Sheryl Williams,Los Angeles,CA,6834.04,FALSE,Unpaid,8,7,6,1,3,0,0,0
+GJ7CH4,56,Male,City Medical Center,27-04-2023,16,18-12-2023,1,Successful,Cardiac Arrest,Surgery,Gloria Hanson,Chicago,IL,15887.26,TRUE,Pending,5,1,5,1,3,0,0,0
+KGBF5T,50,Female,Sunrise Healthcare,15-08-2023,15,26-03-2023,8,Readmitted,Fracture,Medication,Charles Kennedy,Miami,FL,7150.91,FALSE,Unpaid,9,8,6,8,3,0,1,0
+7PYLGQ,50,Male,General Hospital,28-12-2023,22,20-10-2023,2,Successful,Hypertension,Surgery,David Gates,New York,NY,5494.09,TRUE,Pending,4,3,1,3,5,0,1,0
+KFW0FB,46,Female,City Medical Center,02-02-2023,25,20-02-2023,4,Successful,Cardiac Arrest,Medication,Diana Boyd,New York,NY,17644.04,TRUE,Paid,2,5,1,5,3,0,0,0
+VTYO2H,86,Male,Sunrise Healthcare,13-02-2023,5,11-05-2023,8,Successful,Hypertension,Medication,Lauren Burns,Houston,TX,11195.23,FALSE,Unpaid,10,8,10,9,3,0,0,1
+6VER34,87,Female,Sunrise Healthcare,14-06-2023,29,03-12-2023,6,Successful,Hypertension,Observation,Michael Yoder,New York,NY,6060.55,FALSE,Paid,5,10,10,9,4,0,0,0
+JORW6P,48,Female,General Hospital,11-12-2023,6,10-12-2023,7,Complication,Hypertension,Therapy,Sheryl Williams,Chicago,IL,18734.19,FALSE,Unpaid,3,1,7,7,5,0,0,0
+871B3M,48,Male,General Hospital,19-10-2023,6,17-05-2023,4,Successful,Cardiac Arrest,Medication,Jennifer Duran,Chicago,IL,13971.6,TRUE,Paid,4,5,3,6,3,0,0,0
+PE1TX0,63,Male,General Hospital,03-12-2023,3,12-04-2023,5,Successful,Flu,Surgery,Eduardo Wright,New York,NY,4803.66,TRUE,Pending,8,8,8,2,1,0,0,0
+30ZGEW,69,Male,City Medical Center,10-12-2023,16,17-08-2023,1,Successful,Diabetes,Surgery,David Watkins,New York,NY,12485.53,TRUE,Unpaid,2,5,4,4,1,0,1,0
+17O5Z4,27,Male,General Hospital,14-10-2023,12,07-03-2023,1,Successful,Flu,Surgery,Robert Hutchinson,Houston,TX,17472,FALSE,Pending,1,2,5,8,3,0,0,0
+SI2DC2,58,Female,Sunrise Healthcare,30-12-2023,4,19-01-2023,8,Successful,Fracture,Surgery,Michael Yoder,New York,NY,14074.99,TRUE,Pending,10,8,9,10,3,0,0,0
+K6K06U,20,Female,Sunrise Healthcare,13-08-2023,1,31-08-2023,6,Successful,Cardiac Arrest,Therapy,Charles Kennedy,Houston,TX,5272.8,FALSE,Paid,8,10,10,5,5,0,0,0
+4B09KR,76,Female,General Hospital,13-10-2023,4,08-05-2023,2,Successful,Fracture,Therapy,Jennifer Duran,Houston,TX,13152.54,TRUE,Unpaid,2,2,8,3,4,0,0,0
+A8841A,69,Female,General Hospital,23-07-2023,1,11-07-2023,7,Deceased,Diabetes,Surgery,Sheryl Williams,New York,NY,12573.61,TRUE,Pending,8,4,6,6,2,0,0,0
+YTCBRJ,51,Male,Sunrise Healthcare,21-06-2023,21,01-08-2023,10,Successful,Diabetes,Medication,Bill Aguirre,Los Angeles,CA,16506.45,TRUE,Paid,8,9,10,10,4,0,0,0
+EIB74J,66,Female,City Medical Center,12-01-2023,27,22-12-2023,1,Deceased,COVID-19,Surgery,Julie Butler,Los Angeles,CA,3973.59,FALSE,Paid,3,2,5,1,5,0,0,0
+L9UFCJ,45,Male,General Hospital,03-11-2023,27,05-02-2023,7,Successful,Fracture,Surgery,David Gates,Houston,TX,14142.88,FALSE,Paid,8,7,7,1,5,0,0,1
+EZUZZH,30,Female,General Hospital,01-05-2023,8,09-07-2023,7,Successful,Flu,Observation,Ashley Harris,New York,NY,1033.73,FALSE,Unpaid,3,3,4,4,5,0,0,0
+EOPAPC,86,Male,Sunrise Healthcare,01-09-2023,24,20-09-2023,10,Successful,Fracture,Medication,Michael Washington,Los Angeles,CA,14075.42,TRUE,Unpaid,8,10,7,6,4,0,0,0
+4MPUB0,84,Male,General Hospital,01-06-2023,5,03-11-2023,3,Complication,Cardiac Arrest,Medication,Robert Hutchinson,New York,NY,19228.53,TRUE,Paid,7,1,4,1,2,0,1,0
+ZYKHH6,78,Male,City Medical Center,01-06-2023,26,27-01-2023,5,Successful,Diabetes,Surgery,Julie Butler,New York,NY,3900.57,TRUE,Unpaid,1,5,5,4,1,0,1,0
+GUHUTH,77,Male,Sunrise Healthcare,07-07-2023,2,10-10-2023,9,Successful,Diabetes,Medication,Michael Yoder,New York,NY,6570.35,TRUE,Paid,7,10,5,7,4,0,0,0
+42IO3Z,88,Male,General Hospital,13-01-2023,12,01-01-2024,7,Successful,Fracture,Medication,Jennifer Duran,Miami,FL,11866,FALSE,Unpaid,7,2,6,1,2,0,0,0
+J2P9TV,41,Female,Sunrise Healthcare,01-04-2023,22,20-12-2023,9,Complication,Fracture,Therapy,Charles Kennedy,New York,NY,14781.7,TRUE,Unpaid,8,9,7,8,2,0,1,0
+GW2P14,80,Male,General Hospital,19-07-2023,17,23-07-2023,6,Successful,Hypertension,Therapy,Darrell Allen,Miami,FL,7215.24,TRUE,Paid,7,5,2,3,5,0,0,0
+N6I0XM,78,Female,General Hospital,15-03-2023,7,09-06-2023,7,Successful,Fracture,Medication,Mr. Luke Pena MD,Houston,TX,13453.05,FALSE,Paid,5,7,2,4,3,0,0,0
+Z211HW,40,Female,General Hospital,13-09-2023,11,04-07-2023,1,Successful,Hypertension,Medication,Eduardo Wright,Los Angeles,CA,18035.94,FALSE,Unpaid,1,8,5,4,4,0,1,0
+2EG90B,47,Male,City Medical Center,03-10-2023,4,21-06-2023,5,Readmitted,Cardiac Arrest,Surgery,David Watkins,Los Angeles,CA,14667.9,FALSE,Paid,1,5,1,4,3,0,0,0
+YI0AWJ,77,Female,City Medical Center,24-11-2023,5,14-07-2023,4,Deceased,Cardiac Arrest,Therapy,Julie Butler,Los Angeles,CA,14364.94,TRUE,Paid,3,5,1,2,3,0,1,0
+YCFFBR,35,Female,Sunrise Healthcare,25-11-2023,6,25-02-2023,10,Successful,Flu,Therapy,Kyle Chen,Los Angeles,CA,7948.43,FALSE,Paid,8,10,9,7,2,0,1,0
+WBLVTX,73,Female,General Hospital,12-03-2023,11,28-09-2023,6,Successful,Fracture,Surgery,Jennifer Duran,Los Angeles,CA,18272.87,TRUE,Paid,2,3,2,3,5,0,0,0
+TAAQA3,70,Male,General Hospital,19-03-2023,1,06-07-2023,3,Readmitted,Flu,Medication,Sheryl Williams,Los Angeles,CA,5907.8,FALSE,Unpaid,5,3,2,5,3,0,1,0
+CKXVZM,24,Male,City Medical Center,11-10-2023,25,05-05-2023,1,Readmitted,COVID-19,Observation,Victoria Taylor,Los Angeles,CA,4502.97,TRUE,Pending,3,3,3,4,4,0,0,0
+AXJ8X1,86,Male,General Hospital,10-05-2023,10,17-05-2023,8,Successful,Cardiac Arrest,Medication,Darrell Allen,Houston,TX,7602.37,TRUE,Unpaid,3,1,5,2,1,0,0,0
+9PPQOP,89,Male,City Medical Center,12-02-2023,20,18-12-2023,2,Readmitted,Diabetes,Surgery,Jacqueline Johnson,New York,NY,13178.05,TRUE,Paid,2,1,4,5,5,0,0,0
+O7KAOZ,69,Female,General Hospital,08-01-2023,24,20-06-2023,4,Successful,Hypertension,Surgery,Raven Walker,Chicago,IL,17302.72,TRUE,Paid,8,5,2,1,2,0,0,0
+DE8MJK,21,Female,Sunrise Healthcare,13-01-2023,21,25-02-2023,10,Successful,COVID-19,Surgery,Michelle Martin,Miami,FL,3075.54,TRUE,Unpaid,9,9,6,8,4,0,0,0
+R7WGCL,51,Female,General Hospital,01-08-2023,11,25-02-2023,7,Complication,Diabetes,Observation,Jennifer Duran,Chicago,IL,16369.14,TRUE,Paid,8,2,2,6,4,1,0,0
+GZ6OBG,86,Female,General Hospital,21-04-2023,24,06-10-2023,1,Successful,COVID-19,Surgery,Judith Russell,Chicago,IL,16350.06,FALSE,Unpaid,1,3,1,4,2,0,0,1
+5DT951,50,Female,City Medical Center,18-10-2023,17,16-01-2023,2,Deceased,Flu,Medication,Diana Boyd,New York,NY,11944.93,TRUE,Pending,4,2,5,2,1,0,0,0
+MA839Y,86,Female,General Hospital,23-01-2023,8,10-11-2023,1,Successful,Flu,Therapy,Judith Russell,New York,NY,15332.63,TRUE,Paid,2,6,8,2,3,0,0,0
+PSAEVX,55,Male,General Hospital,29-10-2023,27,13-11-2023,6,Successful,Hypertension,Surgery,Robert Hutchinson,New York,NY,4046.67,TRUE,Pending,1,6,3,5,4,0,1,0
+99D9RP,43,Female,City Medical Center,11-09-2023,13,29-07-2023,4,Complication,Cardiac Arrest,Medication,Laura Lowe,Los Angeles,CA,3806.93,TRUE,Pending,1,3,1,4,5,0,0,0
+RVBU92,18,Female,Sunrise Healthcare,15-01-2023,27,19-01-2024,10,Successful,Hypertension,Surgery,Lauren Burns,Houston,TX,17324.6,FALSE,Paid,10,5,7,6,1,0,0,0
+ZUQP4I,21,Female,Sunrise Healthcare,10-05-2023,20,05-11-2023,7,Successful,Diabetes,Therapy,Michael Yoder,Los Angeles,CA,10213.89,TRUE,Paid,7,7,10,6,1,0,0,0
+4NBN68,56,Male,City Medical Center,02-03-2023,18,13-07-2023,5,Readmitted,COVID-19,Observation,Amanda Higgins,Houston,TX,5295.78,TRUE,Unpaid,1,4,4,2,5,0,0,1
+TBSRPD,71,Female,City Medical Center,25-04-2023,27,11-01-2024,5,Successful,Hypertension,Therapy,Jacqueline Johnson,Houston,TX,13930.24,FALSE,Unpaid,5,4,5,2,2,0,0,0
+L2GNL8,50,Female,City Medical Center,16-11-2023,22,05-03-2023,1,Successful,Fracture,Observation,Jacqueline Johnson,Chicago,IL,17891.57,TRUE,Paid,3,2,3,4,1,0,0,0
+EQ5JQE,50,Male,City Medical Center,04-11-2023,16,20-02-2023,1,Readmitted,Fracture,Medication,Laura Lowe,Chicago,IL,12830.29,FALSE,Unpaid,2,2,5,5,2,0,0,1
+I699RI,89,Female,City Medical Center,21-11-2023,2,26-01-2023,1,Successful,Cardiac Arrest,Medication,David Watkins,Houston,TX,7273.23,TRUE,Pending,2,3,5,5,4,1,0,0
+2NYOF2,37,Male,Sunrise Healthcare,08-03-2023,5,19-05-2023,5,Deceased,Hypertension,Observation,Kyle Chen,Houston,TX,9923.14,TRUE,Pending,8,8,9,9,2,0,0,0
+O2DRPK,33,Male,Sunrise Healthcare,06-09-2023,18,30-03-2023,8,Complication,Diabetes,Medication,Kyle Chen,Los Angeles,CA,15169.25,FALSE,Paid,9,9,6,6,2,0,0,0
+NCRTYM,38,Female,City Medical Center,24-06-2023,3,28-06-2023,5,Successful,Fracture,Observation,Gloria Hanson,Los Angeles,CA,1816.27,FALSE,Unpaid,2,2,4,2,4,0,0,0
+DN61H7,62,Female,General Hospital,05-12-2023,27,26-11-2023,7,Successful,Cardiac Arrest,Medication,Robert Hutchinson,Chicago,IL,4734.71,FALSE,Paid,3,4,6,3,5,0,0,0
+EE4I56,79,Male,City Medical Center,02-01-2023,22,24-04-2023,3,Deceased,Hypertension,Therapy,David Watkins,New York,NY,9520.37,TRUE,Pending,3,4,2,2,4,0,0,0
+C3L2CZ,48,Female,General Hospital,21-06-2023,17,10-12-2023,3,Successful,Cardiac Arrest,Therapy,Darrell Allen,Houston,TX,12282.7,FALSE,Paid,1,3,3,4,4,0,0,0
+3IZBCD,59,Female,City Medical Center,30-11-2023,16,01-04-2023,1,Successful,Diabetes,Surgery,Michelle Stewart,Los Angeles,CA,7113.73,FALSE,Paid,3,3,2,5,2,0,0,0
+YM8WIB,29,Male,City Medical Center,11-10-2023,6,22-02-2023,5,Successful,Fracture,Medication,Michelle Stewart,Chicago,IL,6318.62,TRUE,Paid,3,1,5,1,4,0,1,0
+4B5RME,82,Male,Sunrise Healthcare,23-02-2023,19,11-03-2023,5,Successful,Fracture,Observation,Charles Kennedy,Los Angeles,CA,1306.99,TRUE,Paid,9,10,6,6,4,0,0,0
+JY73GF,20,Female,General Hospital,08-03-2023,7,06-03-2023,4,Successful,Fracture,Medication,Mr. Luke Pena MD,Houston,TX,1135.73,TRUE,Pending,1,3,3,2,3,0,0,0
+CMCZXF,26,Male,General Hospital,12-04-2023,18,18-03-2023,2,Deceased,Flu,Medication,Raven Walker,Houston,TX,5934.55,FALSE,Paid,2,3,2,6,2,0,0,0
+L9BK7Z,68,Female,Sunrise Healthcare,30-04-2023,14,29-03-2023,10,Readmitted,Fracture,Observation,Michael Washington,Miami,FL,10844.87,TRUE,Paid,7,10,9,7,5,0,0,0
+RU9V33,33,Female,Sunrise Healthcare,10-07-2023,6,27-01-2023,5,Successful,COVID-19,Medication,Michael Yoder,New York,NY,11349.24,FALSE,Unpaid,5,6,5,8,1,0,0,0
+H7ITYS,20,Female,Sunrise Healthcare,31-10-2023,8,22-05-2023,8,Successful,Flu,Medication,Jennifer Allen,Miami,FL,10133.54,FALSE,Paid,6,9,10,10,1,0,0,0
+EKOHSW,41,Female,Sunrise Healthcare,16-02-2023,15,10-11-2023,10,Successful,Hypertension,Surgery,Michelle Martin,Chicago,IL,8492.67,FALSE,Unpaid,9,8,9,6,4,0,1,0
+05Z0S2,30,Male,General Hospital,10-08-2023,15,11-10-2023,2,Successful,Flu,Therapy,Sheryl Williams,Los Angeles,CA,5419.69,FALSE,Paid,7,6,2,5,1,0,1,0
+6SS6PW,19,Female,General Hospital,21-01-2023,15,04-11-2023,7,Readmitted,Flu,Observation,Robert Hutchinson,Chicago,IL,8313.54,TRUE,Unpaid,2,4,8,3,3,0,0,0
+GZ5LHE,88,Male,City Medical Center,07-06-2023,16,06-05-2023,5,Readmitted,Flu,Medication,Julie Butler,Houston,TX,3205.82,TRUE,Paid,3,2,2,2,1,0,0,0
+1EZEVO,38,Female,City Medical Center,14-12-2023,1,06-09-2023,3,Readmitted,Cardiac Arrest,Medication,Diana Boyd,Miami,FL,2747.55,FALSE,Unpaid,1,5,4,4,1,0,1,0
+M16W6R,36,Female,Sunrise Healthcare,08-06-2023,11,25-03-2023,7,Successful,COVID-19,Medication,Bill Aguirre,Miami,FL,6348.89,FALSE,Paid,9,5,10,8,1,0,0,0
+3ZPM6Z,64,Male,Sunrise Healthcare,23-08-2023,27,22-02-2023,5,Successful,Diabetes,Surgery,Kyle Chen,Miami,FL,19909.3,TRUE,Paid,7,8,5,9,2,0,1,1
+ABFXR0,39,Female,Sunrise Healthcare,30-05-2023,29,09-09-2023,8,Successful,Fracture,Medication,Michael Yoder,Chicago,IL,6866.69,TRUE,Unpaid,5,10,10,7,2,0,0,0
+H1JQ2F,50,Male,City Medical Center,14-09-2023,25,27-01-2023,5,Successful,Flu,Observation,Amanda Higgins,Houston,TX,18760.9,FALSE,Paid,3,3,3,3,3,0,0,1
+NVFZL8,49,Male,City Medical Center,14-06-2023,5,24-04-2023,5,Successful,Diabetes,Medication,Gloria Hanson,Los Angeles,CA,8149.11,FALSE,Paid,5,1,2,5,4,0,0,1
+NVWGYM,81,Female,City Medical Center,18-03-2023,5,23-04-2023,1,Readmitted,Cardiac Arrest,Medication,Michelle Stewart,Los Angeles,CA,9060.69,FALSE,Paid,2,5,3,1,3,0,1,0
+UJIOBY,56,Female,City Medical Center,26-03-2023,29,21-05-2023,5,Readmitted,Diabetes,Medication,Amanda Higgins,Chicago,IL,16042.73,FALSE,Paid,5,5,3,3,4,0,0,0
+M778CF,89,Female,City Medical Center,15-02-2023,28,22-08-2023,2,Deceased,Flu,Therapy,Michelle Stewart,Miami,FL,2325.95,FALSE,Pending,1,4,5,3,2,0,0,0
+SCRILE,59,Female,City Medical Center,16-02-2023,21,03-02-2023,2,Readmitted,Hypertension,Observation,David Watkins,New York,NY,4055.11,TRUE,Paid,4,2,1,4,2,0,0,0
+CK3DEA,26,Male,City Medical Center,01-08-2023,6,19-12-2023,3,Successful,COVID-19,Medication,Gloria Hanson,Chicago,IL,19489.89,FALSE,Pending,3,1,1,3,2,0,0,0
+012RLM,42,Female,Sunrise Healthcare,28-02-2023,2,26-10-2023,8,Successful,Diabetes,Observation,Michelle Martin,Chicago,IL,10365.39,TRUE,Pending,8,5,5,9,2,0,0,0
+BPX8V9,19,Female,Sunrise Healthcare,23-02-2023,6,14-09-2023,7,Successful,Flu,Medication,Kyle Chen,Houston,TX,1364.04,FALSE,Paid,6,9,9,10,4,0,0,0
+K28O4P,36,Female,Sunrise Healthcare,08-12-2023,14,09-01-2024,10,Successful,Flu,Surgery,Charles Kennedy,Los Angeles,CA,1423.92,TRUE,Unpaid,5,9,9,8,2,0,0,0
+J5BXWB,37,Female,Sunrise Healthcare,12-01-2023,11,24-04-2023,10,Successful,Fracture,Medication,Kyle Chen,Chicago,IL,18191.19,FALSE,Unpaid,9,8,10,6,5,0,0,0
+4Z2CNY,87,Female,City Medical Center,11-07-2023,4,14-08-2023,4,Complication,Hypertension,Surgery,Diana Boyd,Chicago,IL,17530.62,TRUE,Paid,3,3,1,5,2,0,0,0
+ACZRIW,34,Male,General Hospital,06-01-2023,24,04-09-2023,3,Successful,Fracture,Surgery,Judith Russell,Miami,FL,9438.78,TRUE,Pending,2,3,7,2,3,0,0,0
+UAU0F9,85,Female,City Medical Center,05-11-2023,29,18-09-2023,2,Successful,Hypertension,Medication,Julie Butler,Miami,FL,3682.83,FALSE,Unpaid,4,2,2,3,5,0,0,0
+1QCLLB,20,Male,General Hospital,24-05-2023,27,20-11-2023,2,Successful,COVID-19,Surgery,Darrell Allen,New York,NY,16690.55,FALSE,Paid,3,2,5,3,5,0,0,0
+VW3EIU,68,Female,Sunrise Healthcare,12-12-2023,25,17-09-2023,8,Successful,Fracture,Surgery,Kyle Chen,Houston,TX,6829.7,TRUE,Paid,7,8,8,9,2,0,0,0
+KE80BX,43,Female,City Medical Center,18-09-2023,9,15-05-2023,4,Successful,COVID-19,Surgery,Jacqueline Johnson,New York,NY,8671.64,TRUE,Pending,2,4,5,3,3,0,0,0
+46314K,73,Female,Sunrise Healthcare,14-03-2023,24,17-09-2023,9,Successful,Cardiac Arrest,Therapy,Kyle Chen,Miami,FL,13808.29,TRUE,Unpaid,8,10,5,8,2,0,0,1
+WB08BU,81,Male,City Medical Center,23-06-2023,3,17-10-2023,3,Successful,Cardiac Arrest,Observation,Victoria Taylor,Los Angeles,CA,7391.27,FALSE,Paid,5,2,4,5,1,0,1,0
+EU2TTY,25,Female,Sunrise Healthcare,20-08-2023,26,21-08-2023,7,Readmitted,Hypertension,Medication,Kyle Chen,Miami,FL,12759.06,TRUE,Unpaid,6,10,9,5,4,0,0,0
+B5ZFC6,54,Male,General Hospital,27-09-2023,16,03-04-2023,3,Successful,Hypertension,Surgery,Raven Walker,Houston,TX,17763.01,FALSE,Paid,7,7,1,1,2,0,0,0
+AEMSLY,44,Male,General Hospital,28-12-2023,11,05-05-2023,5,Successful,Fracture,Medication,Judith Russell,Miami,FL,16048.78,FALSE,Paid,2,6,8,6,4,0,0,1
+8L3E7V,62,Female,General Hospital,10-08-2023,27,19-03-2023,7,Successful,Cardiac Arrest,Medication,Robert Hutchinson,Houston,TX,7941.42,FALSE,Paid,7,2,4,3,5,0,0,0
+MCT4EX,21,Male,City Medical Center,21-02-2023,4,08-04-2023,1,Deceased,Diabetes,Therapy,Gloria Hanson,Houston,TX,6114.76,FALSE,Pending,4,3,5,1,2,0,1,1
+6HXTPL,54,Female,General Hospital,26-04-2023,1,13-08-2023,8,Successful,Diabetes,Observation,Ashley Harris,Houston,TX,6067.45,FALSE,Pending,3,1,5,6,3,0,0,0
+MY5XIW,88,Female,City Medical Center,26-01-2023,25,31-10-2023,5,Readmitted,Diabetes,Medication,Victoria Taylor,Houston,TX,7297.53,FALSE,Pending,5,5,3,3,4,0,0,0
+M5O9EV,50,Male,General Hospital,22-02-2023,21,09-09-2023,4,Readmitted,Cardiac Arrest,Medication,Robert Hutchinson,Houston,TX,10123.58,TRUE,Unpaid,3,1,3,5,4,0,0,0
+PJXRRG,48,Female,General Hospital,31-12-2023,22,10-01-2023,8,Readmitted,Diabetes,Observation,Eduardo Wright,Los Angeles,CA,8623.65,TRUE,Pending,1,2,5,8,2,0,0,0
+DZEP8Z,72,Female,City Medical Center,29-01-2023,16,01-11-2023,5,Successful,COVID-19,Medication,Michelle Stewart,New York,NY,3093.58,FALSE,Pending,5,1,2,4,4,0,1,0
+R2WNO6,29,Male,City Medical Center,19-01-2023,19,06-08-2023,3,Successful,Flu,Observation,Laura Lowe,Chicago,IL,3687.39,TRUE,Unpaid,5,2,1,4,2,0,1,0
+YUQWQN,28,Male,General Hospital,30-10-2023,16,05-04-2023,6,Successful,Hypertension,Medication,Judith Russell,New York,NY,7187.13,TRUE,Unpaid,6,8,5,2,5,0,0,0
+2T3SMR,89,Male,City Medical Center,06-10-2023,11,10-05-2023,1,Successful,Fracture,Medication,David Watkins,Houston,TX,11460.25,FALSE,Unpaid,2,1,5,2,1,0,1,0
+W6RI65,49,Male,General Hospital,27-04-2023,26,02-12-2023,5,Successful,COVID-19,Observation,Sheryl Williams,Los Angeles,CA,12056.95,TRUE,Unpaid,2,1,4,6,1,0,0,0
+QS0F87,74,Male,City Medical Center,16-04-2023,8,22-03-2023,1,Readmitted,Diabetes,Observation,Laura Lowe,Miami,FL,9981.04,FALSE,Pending,2,3,5,5,3,0,1,0
+TYDJJX,55,Male,Sunrise Healthcare,05-11-2023,23,09-07-2023,7,Readmitted,Flu,Observation,Michelle Martin,Los Angeles,CA,14906.13,FALSE,Pending,8,5,7,6,2,0,0,0
+UK0PZ3,77,Female,Sunrise Healthcare,15-08-2023,1,04-01-2024,9,Successful,Fracture,Medication,Kyle Chen,Houston,TX,14876.35,FALSE,Unpaid,8,9,5,10,4,0,0,0
+PGP8PL,36,Male,Sunrise Healthcare,18-12-2023,26,15-01-2024,9,Successful,COVID-19,Medication,Michelle Martin,Los Angeles,CA,8838.74,FALSE,Pending,10,7,10,9,1,0,0,0
+8U9Q5F,73,Male,Sunrise Healthcare,05-07-2023,28,09-12-2023,8,Deceased,Fracture,Surgery,Charles Kennedy,Los Angeles,CA,2926.6,TRUE,Paid,8,9,9,9,3,1,0,1
+X0TYBI,31,Female,Sunrise Healthcare,18-09-2023,21,03-03-2023,8,Successful,Hypertension,Observation,Michael Yoder,Houston,TX,10838.41,TRUE,Pending,6,7,9,9,5,0,0,0
+1CTF6A,50,Female,General Hospital,16-01-2023,26,02-08-2023,6,Successful,Cardiac Arrest,Observation,Robert Hutchinson,Los Angeles,CA,7938.65,FALSE,Paid,2,5,3,3,4,0,0,1
+F7OZNG,27,Male,Sunrise Healthcare,30-09-2023,9,07-11-2023,7,Successful,Diabetes,Surgery,Kyle Chen,Chicago,IL,3189.5,TRUE,Unpaid,9,5,6,6,1,0,0,0
+4X425Q,81,Male,Sunrise Healthcare,09-06-2023,28,24-07-2023,8,Complication,COVID-19,Observation,Jennifer Allen,Chicago,IL,19645.44,FALSE,Unpaid,7,10,9,9,4,0,0,0
+N9X0Y5,81,Female,Sunrise Healthcare,24-12-2023,27,13-02-2023,10,Successful,COVID-19,Medication,Michael Washington,Los Angeles,CA,7710.23,FALSE,Pending,6,7,7,8,1,0,0,0
+RRZI8H,79,Male,Sunrise Healthcare,07-09-2023,12,19-08-2023,9,Complication,Flu,Medication,Michael Yoder,Miami,FL,12703.06,TRUE,Unpaid,8,10,9,9,3,0,0,0
+TVS318,85,Male,City Medical Center,12-08-2023,22,01-12-2023,3,Successful,Flu,Surgery,Gloria Hanson,Houston,TX,10057.51,TRUE,Pending,1,5,5,2,2,0,0,0
+K493WS,60,Female,General Hospital,13-09-2023,8,24-01-2023,2,Successful,Flu,Observation,Ashley Harris,Chicago,IL,3285.15,FALSE,Pending,6,5,1,4,4,0,0,0
+LO4O2Z,76,Male,Sunrise Healthcare,29-06-2023,26,26-05-2023,8,Successful,Fracture,Therapy,Kyle Chen,Miami,FL,1583.1,TRUE,Pending,8,6,9,9,3,0,0,1
+BTODVW,69,Female,Sunrise Healthcare,20-01-2023,17,26-12-2023,8,Successful,Diabetes,Medication,Bill Aguirre,Los Angeles,CA,12702.5,FALSE,Pending,10,8,10,10,2,0,0,0
+ZK1BH2,36,Male,Sunrise Healthcare,22-04-2023,10,15-04-2023,5,Successful,Fracture,Therapy,Michael Yoder,Miami,FL,5316.93,FALSE,Paid,10,10,8,6,2,0,0,0
+KRNJ8I,38,Female,General Hospital,30-04-2023,27,02-07-2023,8,Successful,Diabetes,Observation,Ashley Harris,New York,NY,5251.25,TRUE,Paid,5,5,3,3,3,0,1,0
+8KLCN1,39,Female,City Medical Center,13-07-2023,7,02-06-2023,1,Readmitted,COVID-19,Surgery,Victoria Taylor,Chicago,IL,19161.04,FALSE,Unpaid,1,2,3,5,1,0,0,0
+KYUJOS,26,Female,General Hospital,21-04-2023,19,25-11-2023,2,Successful,Fracture,Observation,Judith Russell,Los Angeles,CA,9504.58,TRUE,Paid,1,3,7,1,3,0,0,0
+VU5WME,26,Male,City Medical Center,29-07-2023,25,11-09-2023,5,Complication,Fracture,Medication,Diana Boyd,Houston,TX,1073.81,FALSE,Unpaid,3,5,2,3,1,0,0,0
+D1NHI8,44,Female,Sunrise Healthcare,01-01-2023,6,06-10-2023,7,Deceased,Fracture,Surgery,Kyle Chen,Los Angeles,CA,7126.93,FALSE,Unpaid,5,10,9,9,3,0,0,0
+UR6HQ4,34,Male,Sunrise Healthcare,27-02-2023,21,05-06-2023,10,Readmitted,Cardiac Arrest,Medication,Charles Kennedy,Houston,TX,11897.59,FALSE,Pending,6,10,9,7,3,0,0,0
+7FVNCL,61,Female,General Hospital,03-04-2023,24,27-06-2023,8,Deceased,Hypertension,Medication,Jennifer Duran,Los Angeles,CA,6907.06,FALSE,Pending,6,4,6,2,5,0,1,0
+9LBBOW,62,Female,General Hospital,09-08-2023,24,24-10-2023,5,Successful,Diabetes,Therapy,Jennifer Duran,Miami,FL,1023.61,FALSE,Pending,6,4,4,7,4,0,0,0
+2Q5G31,25,Female,City Medical Center,30-07-2023,28,15-05-2023,4,Successful,Diabetes,Observation,Victoria Taylor,Miami,FL,9164.07,TRUE,Pending,2,4,2,5,3,0,0,0
+N3Q5FX,35,Male,City Medical Center,20-08-2023,28,14-05-2023,2,Readmitted,Fracture,Medication,Diana Boyd,Miami,FL,2565.17,FALSE,Pending,3,2,4,3,1,0,0,0
+F0RXX7,50,Male,General Hospital,19-09-2023,19,21-09-2023,6,Readmitted,Cardiac Arrest,Surgery,Jennifer Duran,New York,NY,12573.62,TRUE,Pending,6,5,5,5,5,0,1,0
+OKVXAR,18,Female,City Medical Center,30-12-2023,18,22-11-2023,4,Readmitted,Fracture,Therapy,Julie Butler,Houston,TX,12581.95,TRUE,Paid,1,4,2,1,2,0,0,0
+L1GWU7,23,Male,General Hospital,13-04-2023,15,31-12-2023,7,Successful,Diabetes,Surgery,Ashley Harris,Miami,FL,1236.3,TRUE,Unpaid,4,6,6,1,5,0,0,0
+KV821R,58,Male,City Medical Center,19-02-2023,2,10-06-2023,4,Successful,Hypertension,Surgery,Gloria Hanson,New York,NY,6167.99,FALSE,Unpaid,3,4,5,3,1,0,0,0
+NR1XHH,72,Male,General Hospital,20-04-2023,14,16-09-2023,3,Successful,Hypertension,Surgery,Judith Russell,Houston,TX,8566.88,TRUE,Pending,5,8,6,8,2,0,0,0
+D09E67,22,Female,General Hospital,29-03-2023,21,28-07-2023,5,Complication,COVID-19,Observation,Mr. Luke Pena MD,Los Angeles,CA,11230.15,TRUE,Paid,5,1,8,4,3,1,0,0
+3HZ7G1,76,Male,General Hospital,20-01-2023,10,22-11-2023,8,Successful,Cardiac Arrest,Medication,Eduardo Wright,New York,NY,6273.24,TRUE,Pending,1,5,1,2,1,0,0,0
+1NDRYG,35,Female,City Medical Center,14-01-2023,28,24-11-2023,3,Successful,Hypertension,Medication,Gloria Hanson,Chicago,IL,6111.06,FALSE,Paid,4,1,4,1,5,0,0,1
+1EC4TS,66,Female,City Medical Center,13-05-2023,16,04-04-2023,1,Successful,Cardiac Arrest,Therapy,Laura Lowe,New York,NY,19668.8,FALSE,Paid,5,5,1,2,1,0,0,0
+KCWGWG,82,Female,City Medical Center,23-10-2023,7,29-08-2023,5,Successful,Fracture,Surgery,Angela Fry,New York,NY,1316.32,FALSE,Unpaid,3,4,3,2,5,0,0,0
+7SIRYN,71,Male,General Hospital,03-02-2023,8,07-08-2023,8,Successful,COVID-19,Therapy,Darrell Allen,Houston,TX,19786.39,FALSE,Unpaid,3,2,6,2,3,0,0,0
+YSOP0J,78,Female,City Medical Center,27-07-2023,10,10-07-2023,2,Readmitted,Diabetes,Observation,Gloria Hanson,Los Angeles,CA,1431.16,TRUE,Paid,1,1,1,4,4,0,0,0
+DS1UN6,25,Male,City Medical Center,28-10-2023,15,14-06-2023,1,Readmitted,Hypertension,Medication,David Watkins,Chicago,IL,6122.66,FALSE,Unpaid,3,1,1,4,3,0,0,0
+JS3VCR,20,Male,General Hospital,18-07-2023,8,13-10-2023,3,Successful,Hypertension,Medication,Sheryl Williams,Miami,FL,10126.97,TRUE,Paid,4,2,8,1,4,0,0,1
+KBLF23,42,Female,Sunrise Healthcare,21-03-2023,13,17-08-2023,10,Successful,Flu,Surgery,Michael Yoder,Miami,FL,3294.32,FALSE,Paid,5,8,8,9,1,0,0,0
+BIB26J,86,Female,General Hospital,12-03-2023,12,11-10-2023,3,Deceased,Diabetes,Surgery,Sheryl Williams,New York,NY,3129.5,TRUE,Paid,8,1,7,4,3,0,1,0
+7H6FS5,72,Female,City Medical Center,04-06-2023,8,25-01-2023,5,Successful,Hypertension,Surgery,Amanda Higgins,Houston,TX,5498.1,FALSE,Unpaid,5,2,1,5,2,0,0,0
+0A65EQ,57,Male,General Hospital,19-03-2023,15,23-03-2023,8,Complication,Hypertension,Observation,Darrell Allen,Houston,TX,19483.39,FALSE,Pending,3,7,7,3,1,0,0,0
+H7IW8G,67,Male,Sunrise Healthcare,19-03-2023,26,04-11-2023,8,Successful,Diabetes,Medication,Michael Washington,Miami,FL,7912.28,FALSE,Unpaid,8,9,9,8,3,0,0,0
+OTYCX7,50,Female,General Hospital,21-06-2023,12,29-05-2023,5,Successful,COVID-19,Medication,Raven Walker,Chicago,IL,11536.9,FALSE,Pending,1,1,8,7,2,0,0,0
+VKH8H0,35,Female,City Medical Center,16-10-2023,11,04-07-2023,5,Successful,Cardiac Arrest,Surgery,Alexander Black,Los Angeles,CA,14233.68,TRUE,Unpaid,3,5,3,3,2,0,1,0
+175OQ6,74,Male,Sunrise Healthcare,02-02-2023,19,04-12-2023,9,Complication,Diabetes,Observation,Michelle Martin,Chicago,IL,14973.33,FALSE,Unpaid,9,8,8,10,4,0,0,0
+P2I62M,33,Male,City Medical Center,27-10-2023,14,31-01-2023,5,Successful,Cardiac Arrest,Medication,Diana Boyd,Los Angeles,CA,13916.8,FALSE,Pending,5,3,4,3,2,0,0,0
+UUEJFM,55,Female,Sunrise Healthcare,03-10-2023,27,23-01-2023,10,Successful,COVID-19,Therapy,Michelle Martin,Miami,FL,7070.1,FALSE,Paid,10,9,8,9,2,0,0,0
+ATHJIC,58,Male,Sunrise Healthcare,07-01-2023,18,03-06-2023,8,Successful,COVID-19,Observation,Michelle Martin,Los Angeles,CA,2678.69,TRUE,Pending,8,10,6,10,5,0,0,0
+KLJYYK,24,Male,General Hospital,09-06-2023,13,04-01-2024,4,Successful,Fracture,Surgery,Judith Russell,Houston,TX,5993.47,FALSE,Paid,4,8,1,6,4,0,0,0
+9ZNAD3,70,Male,General Hospital,28-08-2023,4,09-09-2023,4,Successful,Flu,Medication,David Gates,New York,NY,4600.76,FALSE,Paid,5,1,8,8,2,1,0,0
+L8M4WD,80,Male,City Medical Center,24-01-2023,17,23-08-2023,4,Successful,COVID-19,Medication,Michelle Stewart,New York,NY,3157.41,TRUE,Unpaid,1,1,1,4,4,0,0,0
+PGV2K6,49,Male,General Hospital,02-08-2023,19,31-08-2023,6,Successful,COVID-19,Medication,Judith Russell,Miami,FL,977.69,TRUE,Unpaid,1,6,2,4,2,0,0,0
+2LGZI7,55,Male,General Hospital,11-03-2023,27,22-06-2023,1,Successful,Cardiac Arrest,Observation,Ashley Harris,Houston,TX,18746.65,TRUE,Unpaid,7,1,7,7,1,0,1,0
+M9YXQB,39,Female,Sunrise Healthcare,04-08-2023,9,11-10-2023,10,Successful,COVID-19,Surgery,Kyle Chen,Chicago,IL,18460.17,FALSE,Unpaid,5,8,8,9,1,0,0,0
+M4210O,33,Male,General Hospital,14-04-2023,23,08-10-2023,2,Successful,Diabetes,Observation,Robert Hutchinson,Houston,TX,1483.13,TRUE,Unpaid,5,2,6,6,2,0,1,0
+4O6TLI,69,Female,Sunrise Healthcare,03-08-2023,7,09-06-2023,9,Successful,Fracture,Medication,Jennifer Allen,New York,NY,3875.15,FALSE,Pending,8,9,8,7,1,0,0,1
+WH5N0Y,46,Female,Sunrise Healthcare,23-02-2023,1,14-08-2023,5,Successful,Fracture,Surgery,Michael Yoder,New York,NY,3220.26,TRUE,Pending,9,6,8,8,3,0,0,0
+MU4EM1,33,Male,Sunrise Healthcare,21-10-2023,7,23-09-2023,9,Successful,Diabetes,Surgery,Michael Washington,Houston,TX,5983.85,FALSE,Pending,9,9,7,9,4,0,0,0
+Y8G5CV,34,Female,City Medical Center,26-11-2023,26,16-09-2023,5,Successful,Hypertension,Medication,Julie Butler,Houston,TX,4479.34,TRUE,Pending,4,1,2,1,5,0,0,0
+HQ06QL,81,Female,City Medical Center,02-12-2023,7,18-12-2023,1,Successful,COVID-19,Medication,Angela Fry,New York,NY,18944.14,TRUE,Unpaid,5,4,4,4,3,0,0,0
+0HW2TP,30,Female,City Medical Center,22-07-2023,20,08-12-2023,2,Successful,Flu,Medication,Gloria Hanson,Chicago,IL,2141.32,TRUE,Pending,4,5,3,1,5,0,1,0
+QPSH29,89,Male,Sunrise Healthcare,15-10-2023,7,21-02-2023,6,Successful,COVID-19,Surgery,Bill Aguirre,Miami,FL,4627.58,FALSE,Pending,7,8,10,9,5,0,0,0
+Z4LQOI,73,Female,City Medical Center,14-02-2023,8,20-10-2023,1,Successful,Fracture,Medication,Michelle Stewart,Miami,FL,2074.1,TRUE,Paid,5,2,3,4,2,0,0,0
+L5YRO5,22,Male,City Medical Center,13-11-2023,16,23-04-2023,3,Successful,Flu,Therapy,Amanda Higgins,Houston,TX,19617.51,FALSE,Unpaid,3,1,4,3,5,0,0,0
+F87ERP,29,Female,General Hospital,17-07-2023,3,13-06-2023,7,Readmitted,Hypertension,Surgery,Sheryl Williams,Miami,FL,18409.06,TRUE,Pending,3,6,2,7,4,0,0,0
+HY5ZV4,58,Female,City Medical Center,04-08-2023,13,10-07-2023,2,Complication,Cardiac Arrest,Observation,Julie Butler,New York,NY,14474.32,TRUE,Pending,4,5,4,5,4,0,0,0
+JL1FTE,20,Female,City Medical Center,05-11-2023,10,06-08-2023,2,Successful,Cardiac Arrest,Therapy,Laura Lowe,New York,NY,8806.47,TRUE,Pending,3,5,5,4,5,0,0,0
+WI2PVH,50,Female,Sunrise Healthcare,28-11-2023,18,10-04-2023,10,Successful,COVID-19,Surgery,Lauren Burns,Houston,TX,4208.47,FALSE,Unpaid,6,9,9,9,5,0,0,0
+TN7K64,67,Male,Sunrise Healthcare,03-07-2023,7,26-10-2023,8,Complication,COVID-19,Medication,Bill Aguirre,Houston,TX,4819.05,FALSE,Pending,8,10,9,8,4,0,0,0
+7GWGYC,73,Female,Sunrise Healthcare,27-01-2023,21,21-10-2023,10,Readmitted,Flu,Therapy,Michael Washington,Houston,TX,9139.28,FALSE,Paid,8,8,8,8,1,0,0,0
+T73QJ8,26,Female,Sunrise Healthcare,15-06-2023,21,23-08-2023,8,Successful,Flu,Medication,Lauren Burns,Chicago,IL,15480.34,TRUE,Unpaid,8,9,9,10,4,0,0,0
+TR09W5,67,Male,Sunrise Healthcare,14-11-2023,5,28-10-2023,7,Successful,Hypertension,Surgery,Jennifer Allen,Miami,FL,5662.23,FALSE,Paid,10,7,10,10,3,0,0,0
+JKF79Q,46,Male,Sunrise Healthcare,01-10-2023,23,07-03-2023,10,Successful,COVID-19,Observation,Kyle Chen,Houston,TX,6560.44,FALSE,Unpaid,8,5,10,8,3,0,0,0
+LUSCRS,56,Male,City Medical Center,31-12-2023,25,17-10-2023,2,Successful,Fracture,Therapy,Laura Lowe,Los Angeles,CA,12198.91,TRUE,Pending,5,1,4,1,3,0,0,0
+FPHRLJ,62,Female,Sunrise Healthcare,13-04-2023,27,11-05-2023,9,Successful,Cardiac Arrest,Observation,Kyle Chen,Los Angeles,CA,5135.72,TRUE,Unpaid,9,5,10,10,3,0,0,0
+GA9UXY,34,Male,Sunrise Healthcare,29-11-2023,24,26-01-2024,10,Successful,Hypertension,Therapy,Michelle Martin,New York,NY,11892.26,FALSE,Unpaid,10,8,9,9,3,0,0,1
+GQ23G6,73,Male,General Hospital,14-04-2023,22,20-10-2023,6,Readmitted,Flu,Therapy,Judith Russell,Miami,FL,8049.05,FALSE,Unpaid,4,7,7,8,1,0,0,0
+GXKIL8,63,Male,City Medical Center,02-09-2023,7,14-07-2023,4,Successful,Fracture,Medication,Victoria Taylor,Houston,TX,1170.18,TRUE,Paid,1,3,2,3,4,0,0,0
+D91MWS,84,Male,City Medical Center,01-11-2023,25,02-05-2023,1,Successful,COVID-19,Medication,Alexander Black,Los Angeles,CA,8352.68,FALSE,Unpaid,2,5,1,3,4,0,0,0
+XP6L7G,86,Male,City Medical Center,18-06-2023,27,17-07-2023,3,Successful,Diabetes,Observation,Diana Boyd,Miami,FL,18430.74,TRUE,Pending,3,5,2,2,1,0,0,0
+K42M4B,31,Male,Sunrise Healthcare,26-04-2023,22,12-04-2023,7,Successful,Flu,Observation,Charles Kennedy,New York,NY,6215.68,TRUE,Unpaid,5,10,5,10,1,0,0,0
+OK7DK2,84,Female,Sunrise Healthcare,21-05-2023,17,05-10-2023,6,Successful,Hypertension,Medication,Kyle Chen,Chicago,IL,6795.23,FALSE,Unpaid,8,6,6,5,2,0,0,0
+BPMQUS,40,Male,Sunrise Healthcare,22-12-2023,4,05-03-2023,10,Successful,Diabetes,Medication,Charles Kennedy,Miami,FL,1785.85,FALSE,Pending,8,9,7,10,4,0,0,0
+GHMBKX,78,Female,General Hospital,05-05-2023,24,23-12-2023,7,Successful,Fracture,Medication,Jennifer Duran,Miami,FL,12493.43,TRUE,Pending,2,8,2,7,1,0,0,0
+FZGSF2,40,Male,Sunrise Healthcare,25-01-2023,23,26-08-2023,8,Successful,Cardiac Arrest,Observation,Michael Yoder,Chicago,IL,17060.23,FALSE,Paid,10,5,7,5,5,0,0,0
+BSDF13,44,Male,General Hospital,13-07-2023,16,16-05-2023,5,Deceased,Fracture,Surgery,Judith Russell,Miami,FL,7382,TRUE,Pending,3,7,7,5,2,0,0,0
+GIY6AF,71,Male,City Medical Center,10-04-2023,19,07-02-2023,3,Successful,Cardiac Arrest,Observation,David Watkins,New York,NY,5184.79,FALSE,Pending,3,1,3,5,1,0,0,0
+RJ1K6A,27,Female,Sunrise Healthcare,05-01-2023,10,18-04-2023,10,Successful,Fracture,Therapy,Michael Washington,New York,NY,19153.93,TRUE,Pending,5,6,10,8,3,0,0,0
+MTACRN,33,Male,General Hospital,19-01-2023,3,18-12-2023,6,Successful,Flu,Medication,Mr. Luke Pena MD,Chicago,IL,15028.92,FALSE,Unpaid,3,6,6,6,3,0,0,0
+40Q29Z,58,Male,General Hospital,19-06-2023,27,05-12-2023,5,Successful,Flu,Observation,Eduardo Wright,Houston,TX,11559.69,FALSE,Paid,3,5,2,3,5,0,0,0
+QVYBVE,72,Male,Sunrise Healthcare,01-10-2023,3,07-08-2023,6,Successful,Hypertension,Medication,Lauren Burns,Los Angeles,CA,6457.86,TRUE,Pending,8,10,10,10,3,0,0,0
+D9FUMY,78,Male,City Medical Center,11-09-2023,28,27-07-2023,4,Successful,Diabetes,Observation,Victoria Taylor,Houston,TX,4805.56,FALSE,Pending,4,3,4,4,4,0,0,1
+ZT6N9Q,66,Female,City Medical Center,01-05-2023,17,11-06-2023,2,Successful,Fracture,Therapy,Mitchell Kennedy,Miami,FL,14457.01,TRUE,Pending,2,4,2,4,1,0,0,0
+UPPT21,69,Female,City Medical Center,01-02-2023,10,03-01-2024,1,Successful,Fracture,Therapy,Julie Butler,Los Angeles,CA,10674.88,FALSE,Unpaid,5,3,2,1,4,0,0,0
+HXCYS6,19,Female,General Hospital,29-05-2023,17,18-02-2023,2,Readmitted,Diabetes,Observation,Sheryl Williams,Chicago,IL,10651.7,FALSE,Unpaid,7,3,6,3,1,0,0,0
+BOVJRV,67,Female,General Hospital,23-09-2023,22,25-04-2023,7,Successful,COVID-19,Surgery,Ashley Harris,Chicago,IL,1937.34,FALSE,Paid,2,8,2,3,2,0,0,0
+0M6EZM,60,Female,General Hospital,06-02-2023,17,29-06-2023,6,Successful,Hypertension,Therapy,Sheryl Williams,Los Angeles,CA,10487.79,FALSE,Paid,1,7,3,4,4,0,0,0
+0NXC38,25,Male,General Hospital,26-06-2023,21,29-03-2023,4,Successful,Fracture,Medication,Sheryl Williams,New York,NY,16543.51,TRUE,Unpaid,4,7,5,5,5,0,0,0
+NL12QU,76,Male,City Medical Center,08-12-2023,4,31-10-2023,2,Complication,Hypertension,Observation,Victoria Taylor,Los Angeles,CA,18962.59,TRUE,Pending,4,2,4,2,5,0,0,0
+WTK7JJ,82,Male,Sunrise Healthcare,13-01-2023,21,18-10-2023,10,Successful,Fracture,Medication,Lauren Burns,Miami,FL,2580.31,FALSE,Pending,9,10,6,9,4,0,0,0
+F9XLW0,29,Female,General Hospital,02-07-2023,23,03-03-2023,7,Successful,Fracture,Therapy,Robert Hutchinson,New York,NY,12807.72,TRUE,Paid,8,3,7,1,3,0,0,0
+FAFVXY,21,Male,General Hospital,25-05-2023,6,04-04-2023,6,Complication,COVID-19,Surgery,Eduardo Wright,Chicago,IL,11582.77,TRUE,Pending,1,5,6,6,2,0,0,0
+OZHXF8,58,Female,City Medical Center,22-09-2023,12,23-06-2023,5,Successful,Flu,Surgery,Mitchell Kennedy,Los Angeles,CA,17861.09,FALSE,Unpaid,2,2,2,3,1,0,0,0
+A9LKLG,24,Male,Sunrise Healthcare,29-03-2023,25,19-08-2023,10,Successful,Hypertension,Surgery,Michael Washington,Houston,TX,15149.26,TRUE,Paid,7,9,5,5,4,0,0,0
+K946MR,86,Female,Sunrise Healthcare,15-02-2023,22,16-12-2023,8,Successful,Diabetes,Medication,Michael Yoder,Houston,TX,19322.61,TRUE,Unpaid,5,5,10,7,1,0,0,0
+XI4JBO,86,Male,City Medical Center,29-04-2023,25,31-01-2023,3,Complication,Hypertension,Medication,David Watkins,Miami,FL,19220.63,FALSE,Unpaid,3,1,2,1,5,1,0,0
+C4FCKO,47,Male,City Medical Center,19-01-2023,20,11-05-2023,1,Readmitted,COVID-19,Medication,Amanda Higgins,Houston,TX,4900.86,FALSE,Pending,1,1,1,1,4,0,0,0
+1JGORR,23,Male,Sunrise Healthcare,08-08-2023,17,12-04-2023,10,Deceased,Cardiac Arrest,Therapy,Jennifer Allen,Los Angeles,CA,14644.34,FALSE,Unpaid,8,10,10,10,3,0,0,0
+XBT7ZG,36,Male,General Hospital,21-08-2023,17,10-12-2023,4,Readmitted,Cardiac Arrest,Observation,Jennifer Duran,Los Angeles,CA,10845.2,FALSE,Unpaid,1,7,3,4,3,0,0,0
+3EKA7A,83,Female,Sunrise Healthcare,04-04-2023,10,31-10-2023,7,Complication,COVID-19,Medication,Lauren Burns,Houston,TX,4684.74,TRUE,Pending,5,5,7,8,5,0,0,0
+SBUTWU,27,Male,City Medical Center,08-09-2023,7,20-09-2023,4,Successful,COVID-19,Therapy,Laura Lowe,Los Angeles,CA,4299.95,FALSE,Unpaid,4,5,4,5,3,0,0,0
+XDLVTR,33,Male,General Hospital,07-09-2023,29,10-02-2023,8,Complication,Flu,Medication,Sheryl Williams,Miami,FL,2081.14,TRUE,Pending,2,1,2,2,5,0,0,0
+A36XN9,54,Male,General Hospital,09-10-2023,16,20-09-2023,3,Successful,Hypertension,Surgery,Mr. Luke Pena MD,New York,NY,16013.13,TRUE,Unpaid,6,5,1,3,5,0,1,0
+EKX4MP,49,Female,City Medical Center,20-08-2023,29,20-10-2023,3,Successful,Hypertension,Surgery,Laura Lowe,Miami,FL,6827.84,FALSE,Pending,2,2,1,1,3,0,0,0
+XMXZBP,64,Male,City Medical Center,15-02-2023,13,05-02-2023,1,Successful,Cardiac Arrest,Surgery,Julie Butler,Miami,FL,17210.89,TRUE,Pending,5,5,3,3,2,0,0,1
+AK82Q1,89,Male,City Medical Center,15-02-2023,3,29-01-2023,3,Successful,Diabetes,Observation,Amanda Higgins,Los Angeles,CA,12362.15,TRUE,Paid,4,2,2,1,3,0,1,0
+2CJNL3,60,Male,Sunrise Healthcare,14-01-2023,2,12-01-2024,9,Complication,Hypertension,Therapy,Michelle Martin,New York,NY,13635.85,TRUE,Unpaid,8,10,5,9,1,0,1,0
+555ZAB,53,Male,Sunrise Healthcare,26-03-2023,16,20-11-2023,10,Successful,Fracture,Therapy,Michael Yoder,Los Angeles,CA,6187.64,FALSE,Unpaid,10,7,8,8,5,0,0,0
+Q3G0IV,43,Male,General Hospital,15-11-2023,6,25-11-2023,6,Successful,Fracture,Surgery,Sheryl Williams,Chicago,IL,9417.24,TRUE,Paid,3,3,4,7,1,0,0,0
+7AITS9,27,Female,City Medical Center,24-11-2023,6,18-01-2024,1,Successful,Flu,Therapy,Jacqueline Johnson,Los Angeles,CA,8540.19,FALSE,Pending,5,5,2,2,2,0,0,0
+DIVRLI,48,Female,General Hospital,03-01-2023,13,03-09-2023,3,Readmitted,Flu,Surgery,Raven Walker,Los Angeles,CA,5095.93,FALSE,Pending,7,3,2,8,4,0,0,0
+FSGPEP,46,Female,General Hospital,28-01-2023,7,24-01-2023,3,Successful,Cardiac Arrest,Medication,Raven Walker,Los Angeles,CA,16733.99,TRUE,Paid,7,8,8,6,2,0,0,0
+ASQZVH,22,Male,General Hospital,06-06-2023,5,11-07-2023,1,Successful,Diabetes,Observation,Judith Russell,New York,NY,12630.65,TRUE,Paid,3,7,6,4,5,0,0,0
+6B3TRJ,18,Female,General Hospital,09-12-2023,24,20-07-2023,3,Successful,Diabetes,Medication,Robert Hutchinson,Los Angeles,CA,1229.92,FALSE,Pending,6,7,2,3,5,0,0,0
+XDDMYM,20,Male,City Medical Center,29-11-2023,7,25-03-2023,3,Successful,COVID-19,Therapy,Amanda Higgins,New York,NY,16488.38,FALSE,Pending,1,5,1,4,1,0,0,0
+RXB6SI,84,Male,General Hospital,28-11-2023,2,06-09-2023,5,Successful,Flu,Therapy,Sheryl Williams,Houston,TX,2567.74,FALSE,Paid,3,2,4,4,1,0,0,0
+18JAUI,88,Male,City Medical Center,24-06-2023,17,17-02-2023,4,Successful,Hypertension,Therapy,Alexander Black,Chicago,IL,8372.08,FALSE,Unpaid,1,1,4,2,5,0,0,1
+O8EVWG,52,Male,City Medical Center,24-04-2023,13,28-11-2023,1,Complication,Fracture,Therapy,David Watkins,New York,NY,11639.51,FALSE,Pending,1,1,4,5,5,0,1,0
+WY0F7I,32,Female,Sunrise Healthcare,27-11-2023,25,19-03-2023,9,Successful,Hypertension,Medication,Bill Aguirre,Houston,TX,649.2,TRUE,Paid,5,9,9,5,1,0,0,0
+6F472N,84,Female,City Medical Center,07-09-2023,21,06-08-2023,4,Successful,Fracture,Surgery,Alexander Black,New York,NY,13231.71,FALSE,Unpaid,5,3,3,4,2,0,0,0
+99OHZ9,47,Female,Sunrise Healthcare,28-02-2023,28,10-07-2023,6,Successful,Cardiac Arrest,Therapy,Lauren Burns,New York,NY,13364.21,TRUE,Unpaid,8,8,10,10,1,0,0,0
+U1DPVL,60,Male,City Medical Center,22-07-2023,27,28-12-2023,1,Successful,Fracture,Medication,Gloria Hanson,Chicago,IL,13224.26,FALSE,Unpaid,4,4,5,1,4,0,0,0
+P2RJRA,77,Female,City Medical Center,11-11-2023,21,07-03-2023,3,Successful,Hypertension,Medication,Julie Butler,Miami,FL,3687.62,TRUE,Unpaid,1,4,4,5,2,0,0,0
+UAODTJ,57,Female,City Medical Center,27-08-2023,28,26-09-2023,2,Successful,Hypertension,Observation,Gloria Hanson,Miami,FL,5486.78,FALSE,Paid,2,2,3,3,3,0,0,0
+W767JT,82,Male,Sunrise Healthcare,22-08-2023,16,06-01-2024,5,Successful,Diabetes,Therapy,Michelle Martin,New York,NY,5323.83,TRUE,Pending,9,9,7,5,3,0,0,0
+AMAEPO,46,Female,Sunrise Healthcare,30-10-2023,26,07-04-2023,6,Readmitted,Diabetes,Observation,Lauren Burns,Los Angeles,CA,19221.31,TRUE,Unpaid,8,7,9,10,4,0,0,0
+14WQ7M,36,Male,General Hospital,05-04-2023,20,22-02-2023,6,Successful,Flu,Therapy,Eduardo Wright,Houston,TX,1816.8,FALSE,Unpaid,7,6,4,1,2,0,0,1
